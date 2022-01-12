@@ -6,6 +6,8 @@ Quantification of Contribution:
 - gurbani: 50%
 - kaiwen: 50%
 
+The project was done using pair-programming practices.It consists of various embedded and normalized queries written by translation from SQL to MQL(MongoDB) and PyMongo.
+
 List of resources used: 
 - https://docs.mongodb.com/manual/reference/operator/aggregation/size/
 - https://docs.mongodb.com/manual/reference/sql-comparison/

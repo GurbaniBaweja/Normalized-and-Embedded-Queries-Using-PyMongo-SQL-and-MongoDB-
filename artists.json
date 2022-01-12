@@ -1,0 +1,9110 @@
+[{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af3"
+  },
+  "artist_id": "2mnD3lfc9infcjV6vHIV6b",
+  "followers": 9,
+  "name": "La Roscada",
+  "popularity": 0,
+  "genres": [],
+  "tracks": [
+    "0QGjIeJXg1nnbnqK6rXqBD",
+    "0V7SFxvxLKazc8mrxPg0Yz",
+    "16Wh7h8MuNP1AR4pqAa6NM",
+    "1MaH9xcvURAx0Iqs9DseTI",
+    "25236VTqb4GN6e4pq0A4Qt"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af4"
+  },
+  "artist_id": "7y4tFWcESTjfDcPSzqjOzL",
+  "followers": 2,
+  "name": "Lawson-Haggart Jazz Band",
+  "popularity": 0,
+  "genres": [],
+  "tracks": [
+    "01fMp9WHQJtJkA0s6r1kjC",
+    "05SOD2z4H0PBzANPX7kKvd",
+    "0SRmyQ0oII6gsya1ZMazWr",
+    "1arMklaO3dyCM1VtEBzeEV"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af5"
+  },
+  "artist_id": "3NfYRC8K0hTE1tWGu5AvMR",
+  "followers": 74,
+  "name": "Sterling Brown",
+  "popularity": 3,
+  "genres": [
+    "poetry"
+  ],
+  "tracks": [
+    "0MLUayv72M6Pm0QRBHat0x",
+    "0hZKCE8QirKYs0n4OTWoLR",
+    "5uhuEd3FBXZO4ewGZ7JK3O"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af6"
+  },
+  "artist_id": "1OCPhFtvkZDLUJJkrJfD2G",
+  "followers": 155,
+  "name": "The De Castro Sisters",
+  "popularity": 8,
+  "genres": [],
+  "tracks": [
+    "0JqKK01MXbnDhBKKdcUCnX",
+    "2iKCL9YGGTpDPen0LhzcX2",
+    "2fwms7R3b5N8aBnJ1CaltH",
+    "22McLEDE7FIJDSNUhYqnKz",
+    "0CYtIR0IcGbxL497RrfpE8",
+    "2ci8nINuwXRBrFyHuPnO3c",
+    "3eKcBZ9sqp8QclKARSf3Bk",
+    "419BNwrQPeVN9D8BJBHoB0",
+    "5lSQoBw8en3fs3DrFjLKsE",
+    "4TDSHnJFIzcLkOEc8hoRlm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af7"
+  },
+  "artist_id": "6Rboxwjnvu3wLcwzhlnaSO",
+  "followers": 3811,
+  "name": "The Fireballs",
+  "popularity": 27,
+  "genres": [
+    "surf music"
+  ],
+  "tracks": [
+    "6uHwXH6JS9jrEPiYiILNKP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af8"
+  },
+  "artist_id": "2ikAwFLCJ5H9SEAsoxk2Va",
+  "followers": 2544,
+  "name": "The Dingoes",
+  "popularity": 26,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "0cgIpWV1j6mYHNDRqdDXA1",
+    "0wG39KuDIv7gORg7Y7mSF0",
+    "2t5YzTKdMXhYjOpoC6abmB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af9"
+  },
+  "artist_id": "3XGBZeimYdPt1rLdy0JqrQ",
+  "followers": 8258,
+  "name": "Billy Thorpe",
+  "popularity": 34,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "5iiadi85b2MArbziJVTsEv",
+    "5oWQhRi8yOgtSpbEPopz7g",
+    "4i2SdP0c6GYTByDXPUF9sE"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3afa"
+  },
+  "artist_id": "2ApYZSCRExRk3TR9qnENt4",
+  "followers": 531,
+  "name": "Helen St. John",
+  "popularity": 31,
+  "genres": [],
+  "tracks": [
+    "4VjTNoHP2W0GYfqn47v3XH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3afb"
+  },
+  "artist_id": "5IH6Xg8ILCVJIiGVIYklK2",
+  "followers": 2051,
+  "name": "Robin Zander",
+  "popularity": 35,
+  "genres": [],
+  "tracks": [
+    "5gf9qeUJUHvhp1TkHUJ2sR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3afc"
+  },
+  "artist_id": "5iA3hgdfblCifdxOrPvJMF",
+  "followers": 912,
+  "name": "Peter Blakeley",
+  "popularity": 32,
+  "genres": [],
+  "tracks": [
+    "3bgrrmGOh23O97dSvnklcK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3afd"
+  },
+  "artist_id": "5sHPYevv4ykaH79HIHqBDP",
+  "followers": 18279,
+  "name": "Yothu Yindi",
+  "popularity": 40,
+  "genres": [
+    "australian indigenous",
+    "australian rock",
+    "didgeridoo"
+  ],
+  "tracks": [
+    "0RGD7VXcMiPGmnha3vXSt3",
+    "2cySbtIzIXLe95sNfe4Aj9",
+    "6S8AoLX1vjvScELjPMrrJ3",
+    "4jQdaO0VRRJj2C0yydJfJh",
+    "5bSVz3mkY0PthzOLxJCp6D",
+    "020bGSaodlyG8YPCRXexrx",
+    "5ZkObtTSqiw2LSfCV8qN55"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3afe"
+  },
+  "artist_id": "1RNwrc6Yfn4mxT8RCnck0y",
+  "followers": 12670,
+  "name": "Weddings Parties Anything",
+  "popularity": 39,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "2mnvzsLKEG033tp9Bqm4S1",
+    "6re5v0DJzNelwuMOVpehWC",
+    "2EvqDV5V2Sz58Izlw8Z8FZ",
+    "3qsp5pF2ikuZMU34alcUfu",
+    "4oSQS0yP7DHb4rmc5jvKeO",
+    "7AsHr5FLA4NiAnSV2ZEFMY",
+    "61bqJmnkUp9qDUmzF0rLbk",
+    "2iMTa95tOcPuvUyny7It2O"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3aff"
+  },
+  "artist_id": "3kpwO5KGhMeWcWq6MiGVXN",
+  "followers": 4011,
+  "name": "Things Of Stone and Wood",
+  "popularity": 34,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "4H3aS6slQrNt9GqsDzKNOL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b00"
+  },
+  "artist_id": "7AhDVqsNA5q46WKsRPXvoe",
+  "followers": 64263,
+  "name": "Son Volt",
+  "popularity": 45,
+  "genres": [
+    "alternative country",
+    "alternative rock",
+    "country rock",
+    "folk",
+    "indie folk",
+    "new americana",
+    "roots rock",
+    "stomp and holler"
+  ],
+  "tracks": [
+    "52iyhfd6jgU2wYB8QIYs6t",
+    "6FsTBcizGfeEQeVjgzZ1wi",
+    "69BCRKCiQhrhrg7gkbNUNd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b01"
+  },
+  "artist_id": "7bLwCpWq5uZb7PoccAaEsV",
+  "followers": 3314,
+  "name": "Leonardo's Bride",
+  "popularity": 34,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "5VPy7NeI6uCRCcZp3VIqsJ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b02"
+  },
+  "artist_id": "4MuzHxgmTOW1JFRJan4p1s",
+  "followers": 332,
+  "name": "Jojo",
+  "popularity": 45,
+  "genres": [],
+  "tracks": [
+    "1pviZGWVoeYGZn4bmRUoX4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b03"
+  },
+  "artist_id": "6L9bfTvOEA9BOJEIBhU4ln",
+  "followers": 54281,
+  "name": "Jebediah",
+  "popularity": 43,
+  "genres": [
+    "aussie emo",
+    "australian alternative rock",
+    "australian rock",
+    "perth indie"
+  ],
+  "tracks": [
+    "3OtIgLTHpPYez3WmDN2iYZ",
+    "68goERlTUUjuyGNJonAZ5K",
+    "0zmnZjHnIoqCvDRg2RFxxG",
+    "3azxK6VZFOSJmh5NjABi9W",
+    "2TmboC0lRS43U9QvjzAz2i",
+    "1EAtCqaNqiCtqUMKiDCc8V",
+    "08vctXbWBzMIlare7Ny8Pv"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b04"
+  },
+  "artist_id": "0cmBbO2sr4w0rRGt3rKvs6",
+  "followers": 113616,
+  "name": "Mad Caddies",
+  "popularity": 51,
+  "genres": [
+    "modern ska punk",
+    "punk",
+    "ska",
+    "ska punk",
+    "skate punk"
+  ],
+  "tracks": [
+    "7v9tpAyVYvIueLtl82bMIz",
+    "2Q0dushaDSMplO0MudDEPD"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b05"
+  },
+  "artist_id": "5X2XAU0eSvRPWUl9hUb9mV",
+  "followers": 36035,
+  "name": "OPM",
+  "popularity": 46,
+  "genres": [
+    "rap rock"
+  ],
+  "tracks": [
+    "1Sm3U3B5XoidYQEZQZrh3i"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b06"
+  },
+  "artist_id": "1aVud1rCHS8xrpDjI7zEUy",
+  "followers": 22961,
+  "name": "Alex Lloyd",
+  "popularity": 42,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "6HrNOiJDXZee4eMTzm1NbW",
+    "1nDwGcdtCwB4Ipfli2k57i",
+    "0PgUzm9svpD9SIeCTTmHU6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b07"
+  },
+  "artist_id": "2yFyO5Fo9FGo2ddPKdk2m4",
+  "followers": 333,
+  "name": "Lino Patruno",
+  "popularity": 15,
+  "genres": [],
+  "tracks": [
+    "7Fk6uz0MRJKibXZfTt0vmK",
+    "5lroXvuHznuX8kgzNUcATf",
+    "2xKxY5hsn9XgEksB4G7zwS",
+    "0acf6xvkNTeJ2iMBneXrDY",
+    "6aTvozntS3PxPGQyllrhpP",
+    "7JIoWtOlGL5tNC7ay6ttBy",
+    "48IdxRYYLfUiYzJAgU6IRY",
+    "5fAk6fU2YSfWzK3KFUK2m2",
+    "6DG9Ts4KVWgqO7JvHG2mG9",
+    "5pSF7H7vxe3YIVjMSAyfzh",
+    "29o8fBJts79HghRwsWHwIv",
+    "5fHWpHf9CwOdKGeIlpWE1Y",
+    "4lSOHNrI70D2eKe1Qv6vnH",
+    "6si6bAHoCI8Sn8LJ6TiObo",
+    "4QZRA7Uhm7QMNFlPd9TvFv"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b08"
+  },
+  "artist_id": "5JmeloS88DjYXJulG7qgwF",
+  "followers": 16386,
+  "name": "The Getaway Plan",
+  "popularity": 39,
+  "genres": [
+    "australian alternative rock"
+  ],
+  "tracks": [
+    "1NlV7N8dIfIgb3O4k7oExO",
+    "0uX6Y7mRIJjswGAcLg1oz9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b09"
+  },
+  "artist_id": "0tTLmQvo0tn8vYlpJpA2no",
+  "followers": 68006,
+  "name": "Thirsty Merc",
+  "popularity": 53,
+  "genres": [
+    "australian pop",
+    "australian rock",
+    "pop rock"
+  ],
+  "tracks": [
+    "5r7XHPnTPeLKcBeDMLzkse",
+    "3Y0VSWTyXPeOevtxyLSoYl",
+    "7uCQb1MoL0kC4nw6WsGk38",
+    "4h64azBMSFV2yRFpavLtqY",
+    "2yIWGeH9w7vwbZE9x9z6va",
+    "4Uee0iy5rLJdvVEVSiFLpK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0a"
+  },
+  "artist_id": "47yawJswuSfSvizYhItoOP",
+  "followers": 64479,
+  "name": "Something For Kate",
+  "popularity": 45,
+  "genres": [
+    "australian alternative rock",
+    "australian indie",
+    "australian rock"
+  ],
+  "tracks": [
+    "4X8ppJdBoODwodOqIiaPB5",
+    "1dZn3hOhDRjHrmU0E9y8nc",
+    "32mpQkCbUCHWlLGbs3RwFw",
+    "6RNE3sfaupCCMjwNbz1WQU",
+    "6KnhpDCa2FDfdYF4Hbkp0R",
+    "39afEPa3gyP6g4gE9Tm8YX",
+    "78v3iTANj3QDYYItNqTnFI",
+    "5G2HpjNA0jz7p9QhLM0mca",
+    "39p1vOsrGwQb7oEXBLEkWI",
+    "5ORG67RvkCA33KlzUR2h2T",
+    "3MTQdS3rCj8AyZt1euOkU6",
+    "08lB9ztW82gztN7f4MWR16",
+    "4MYxRQaY1lq9YPmTo9Ni1C",
+    "5QdQkErLJUcAUWzkhZw5Ey",
+    "3qU64I9z39l10DwFMdZe2i",
+    "3XqZ0MTOPYiPFkwZ0cIO3P",
+    "0UiL01lcr1510DsHHHcz2i",
+    "3qVFQr9hq0EHv7miDt3Scf",
+    "745wmnLfu8shKYK7IekCRC",
+    "1xPEzmFmeniY27mKYn5Fjw",
+    "2CZP7M7XgBh1bVVYC059qZ",
+    "5LiPcBTG9vjY4dhhgsY4yW",
+    "2aKKAVkieeQWsd1cbCXzRI",
+    "2mX6Yco2WcmDHwWuadG0Qq",
+    "1I0bJosWIH5B4qtjKt3TNH",
+    "1NK65NiwXOQ9IKc1U9zLlB",
+    "7FYvShdwstSG9na57lZgR5",
+    "5MIhVSZ2aLKcucVx9Cx4Lp",
+    "4D69Rhb8drPCHKJpDvfm8W",
+    "6MmocIHIOGnkkmyHTRlbdu",
+    "5NjwS48Rn9HfGIMTZOnnXq",
+    "6yNh1tBFK06vI2jM5FWgLY",
+    "5vmUuZFyQEKZALyxQzy9t6",
+    "7glzqUBop8ap2uWx9J0SC6",
+    "1bOjAQHYtPIsZfPAc1Qq61",
+    "7w2pLfy5C9tfssZSlxpJXU",
+    "6OVCo2oB8EQyvzCnI2nek9",
+    "1SjKeeRTB10boFevR2fyOv",
+    "6F0aZM4vU2b0uTm4Ry5Cp5",
+    "4x5GLTFPmE89oj4PjhmSKd",
+    "1AxEbZ9YeiU7GwxO2cClea"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0b"
+  },
+  "artist_id": "2NqgE99Ll5vOTvmbN7O2R6",
+  "followers": 224743,
+  "name": "Boy & Bear",
+  "popularity": 60,
+  "genres": [
+    "australian indie",
+    "australian indie folk",
+    "australian pop"
+  ],
+  "tracks": [
+    "4HopuG8wQBlvXQ6xwA79FG",
+    "5PRN8ql17R8rcKnHo6Ajlk",
+    "0sfMc7DhDVGRuTvVb53s5v",
+    "2lLmKqitOFjnVHVGOazDsa"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0c"
+  },
+  "artist_id": "10nZL5iEI60Z11z1BUtfRj",
+  "followers": 8832,
+  "name": "Graeme Connors",
+  "popularity": 36,
+  "genres": [
+    "australian country",
+    "australian rock",
+    "classic australian country"
+  ],
+  "tracks": [
+    "5l9DFjO7mFzsEa1TktdK3M",
+    "2TTCFRA36QQBh77L0ARI5t",
+    "23tUoTNNe9VWcKuI7Hdz3w",
+    "6gFen8CBsnamM8rf5gHxK7",
+    "6dD4mh9fMtiAFGrrGAXeLa",
+    "6IZOOUGRFsA4mUXTyUePo4",
+    "2VhcItFRQcCSz8NdQ0o6G4",
+    "4h2GBFc9MtwyR34FxwWk4F"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0d"
+  },
+  "artist_id": "6DW1Yqi5B34jRtn9hPLvFp",
+  "followers": 82456,
+  "name": "The Smith Street Band",
+  "popularity": 50,
+  "genres": [
+    "aussie emo",
+    "australian garage punk",
+    "australian indie"
+  ],
+  "tracks": [
+    "0cZubG4EkYgsN3G1BYdKPL",
+    "02dbjppa0QT5KCuYxpyzEw",
+    "6ZJKPwTaEJSB4xHnCf4Sfp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0e"
+  },
+  "artist_id": "2lyDLsnU3pS26GoJzrppCS",
+  "followers": 1845,
+  "name": "Angry Anderson",
+  "popularity": 32,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "2kObAQFp78CAvMYKZLQlHL",
+    "1rJnjpFes5MSrn0xphsTUN",
+    "2z2cMjYxNo9WxyghwzupDf",
+    "0bU7OwkG8DDSxf7JBh37r1",
+    "5cyULy8giI8txgxAT3c8wK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0f"
+  },
+  "artist_id": "5a1eYf2G4v4UKubimlfGAJ",
+  "followers": 2042,
+  "name": "Joey Dee & The Starliters",
+  "popularity": 28,
+  "genres": [],
+  "tracks": [
+    "7dROEZTDD4nWtf4tywSt7j"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b10"
+  },
+  "artist_id": "78n9nsu9Z5URFwrV32Wokk",
+  "followers": 6024,
+  "name": "THE SPORTS",
+  "popularity": 30,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "5fMv3MNuPtmXyudS7qlPkV",
+    "1AZUd42rO0ei1FEFG6Ttf6",
+    "6pmVvhatwvrBTlC37kAgqV",
+    "2OVYUgDIGjqSsSTXEsaVg4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b11"
+  },
+  "artist_id": "6eQ3AHw7yEVoX87xDS1ZiP",
+  "followers": 55634,
+  "name": "Killing Heidi",
+  "popularity": 44,
+  "genres": [
+    "australian alternative rock",
+    "australian pop",
+    "australian rock"
+  ],
+  "tracks": [
+    "1umlKmiauqM9GFnk25HwCb",
+    "4U5pHHkjDW6smXnnEt7Umx",
+    "73jnxgAGluuFRGxP7oFnXt",
+    "0lCj03FXDWpXu6smlujEey"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b12"
+  },
+  "artist_id": "3CDzOX9D1buMRHeTNFHXMm",
+  "followers": 40985,
+  "name": "GANGgajang",
+  "popularity": 45,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "5hC6zj0AL4iwOBm7eepgEj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b13"
+  },
+  "artist_id": "2raahe5HKL8Fd4H03JP9es",
+  "followers": 5473,
+  "name": "Aerodrom",
+  "popularity": 32,
+  "genres": [
+    "croatian pop",
+    "croatian rock",
+    "yugoslav rock"
+  ],
+  "tracks": [
+    "6pHC3PR0Ia6Dt2SafTUodB",
+    "2IJ10uMYCmUD1djhk0cI9S",
+    "4ClUnnn772Ju8RFyfxhN6Z"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b14"
+  },
+  "artist_id": "2O7qtwbMUKIK1Va8EF48Pr",
+  "followers": 11107,
+  "name": "Kids In The Kitchen",
+  "popularity": 30,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "6H57i1EV2JfkpvYi4zO4E5",
+    "2PokM5DfJJW20jQOyVVxPJ",
+    "4GiP4BZVEztoEIH4KuT7I1",
+    "09mfCChKFyaGkdY18Idflu",
+    "3bdEPMkwIV5Bs4Z4h7KEeW"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b15"
+  },
+  "artist_id": "5ydii9WwX1NPG6k5lrAb6m",
+  "followers": 11838,
+  "name": "Ratcat",
+  "popularity": 35,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "5MGtAZeDVFvJUdB1fGaMgM",
+    "64iZLIYuqRR8rNedN0Yvnh",
+    "2ZIRNLB7nrc03MgpdW8CDI",
+    "2YbwkDu7LATFJAuhyOBUTI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b16"
+  },
+  "artist_id": "7MVIWM1HQ4AJ9MdWWwwK1z",
+  "followers": 811,
+  "name": "Matt Taylor",
+  "popularity": 22,
+  "genres": [
+    "australian blues"
+  ],
+  "tracks": [
+    "4E5H5fqw4ckghQmX0Zpjmq"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b17"
+  },
+  "artist_id": "7o0zXmlrHW4OT3AZCUHMaW",
+  "followers": 1095,
+  "name": "Hush",
+  "popularity": 22,
+  "genres": [],
+  "tracks": [
+    "4LHfbj11Teq1fK57UUAsCT",
+    "2nJx2VF14TGiqItgUSWbyn",
+    "6UqUD0QUJts2BdlrP50jGo",
+    "1M9yX3n1YzVsXHDSdkjnj8"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b18"
+  },
+  "artist_id": "3UmfCgpdKzg2WTa6453o4E",
+  "followers": 10854,
+  "name": "Ol' 55",
+  "popularity": 29,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "3u15HIfwOuesnY5Bn27eXm",
+    "2lERSnSw1xBZYogcrU2Ntp",
+    "4OyP0EYBhR5PoeFBwlcTGO",
+    "5tyJFNpm94NvSKZA31H4r4",
+    "5DSQxU0SHRhLhGR7uiIfjZ",
+    "7Cq0QcAsdZPi794LY5HcXP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b19"
+  },
+  "artist_id": "6jIVYCgMJgMtdqKO8pbMY3",
+  "followers": 10658,
+  "name": "Uncanny X-Men",
+  "popularity": 28,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "4sWh622ZgNeokhyhlR7X9e",
+    "6G6QWAJfaTiI8KwEGKty6D",
+    "5F5RMPC6jrUDrPFLhXVtqN",
+    "6jXHhE9gLb7pOtwdQ99d5g",
+    "1U1TM370mRy32GlRmPxFxd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1a"
+  },
+  "artist_id": "2fczAptz6g62e12F9LxYI6",
+  "followers": 58698,
+  "name": "The Whitlams",
+  "popularity": 44,
+  "genres": [
+    "australian alternative rock",
+    "australian rock",
+    "piano rock"
+  ],
+  "tracks": [
+    "6Lsj7lUt1kcKtVWE02BxBK",
+    "1iNkpCJOAOokeapM774xGE",
+    "4uCtXyE3HgeFTu6py7p9qW",
+    "0vlAjnJdVsoh1nUfwdR3JE",
+    "054NRH22MJwGvW52hISY5O",
+    "1qGAxJaUOr2ro8HaDI1GXx",
+    "3heaUJlrW5IyLEYkwaMX1T",
+    "3JAlpnPIOhXur3QRVR2bXB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1b"
+  },
+  "artist_id": "1nCht41FuMcmG1FIoyjWCH",
+  "followers": 22918,
+  "name": "Taxiride",
+  "popularity": 43,
+  "genres": [
+    "australian pop",
+    "australian rock"
+  ],
+  "tracks": [
+    "0r4IWIanmyhOueD888Ztwf",
+    "4n6qCrHzgjw0qcjg02AWi0",
+    "0l3sVjZbVPao0RlEg2NAyS"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1c"
+  },
+  "artist_id": "5PbZIYWcDuRgEbMs7abSTH",
+  "followers": 4332,
+  "name": "Ian Carey Project",
+  "popularity": 49,
+  "genres": [
+    "pop house"
+  ],
+  "tracks": [
+    "7lLvyMx4KFDixMBJ94bcAJ",
+    "6PRVTsvb4Ofp8dtNqHUJkc",
+    "0hRZYb7QcMzgl4Ntqzo7Or",
+    "4acrpgt0ru7p8QWxyvYFtZ",
+    "0YiReIeCQKpsxD0p1ANcgk",
+    "76juDmdOF5jly6YlTcmSnJ",
+    "3Qce9unbQ0HmStTXg2dKtG",
+    "3mxOC51SA3jjzEDmgFAplV"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1d"
+  },
+  "artist_id": "67dnqvT66VC7F7EEMbhfWS",
+  "followers": 1280,
+  "name": "Blackfeather",
+  "popularity": 16,
+  "genres": [
+    "psychedelic blues-rock"
+  ],
+  "tracks": [
+    "5up9KPZw2576erDQ3xCmlc",
+    "0b8NSp03mAkWHZoQYRYvO4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1e"
+  },
+  "artist_id": "6AETRCQep85mUtIlX7BaFV",
+  "followers": 20203,
+  "name": "Color Humano",
+  "popularity": 25,
+  "genres": [
+    "argentine rock",
+    "rock nacional"
+  ],
+  "tracks": [
+    "1Mq2dQTepr89jGZpUM9R3O",
+    "1Xt49c7S2rjLGUxEPGezzV",
+    "6gWplVwr7ta6vpp2DSCo96",
+    "5J6CXkqNiNyQDe4Qcv5FTU",
+    "6eTVvF2PudAASKQjuqWJAM",
+    "1qgvilHimZIkfz4BNn97si",
+    "73IxOrxYomTjqO0Vn0E8CV",
+    "1eb3ETW2lwDuVFnuVM7dXJ",
+    "0hbyLyXa4KGfD6zZCJwJwK",
+    "1abOzmags4Lm1G4PUlMV5h",
+    "09ogaUQvbM4PnmfOT0tBdq",
+    "14xZmzlQl2MGgZRR53hgJO",
+    "4T8WTggt5csEkCmahz2881",
+    "56V1FlqU8QR7e5s5oLSbF1",
+    "19NLZJoHgfyDOgpwjcKPYL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1f"
+  },
+  "artist_id": "6tABMXblSHdJq8tV4hMBK3",
+  "followers": 4310,
+  "name": "Milance Radosavljevic",
+  "popularity": 29,
+  "genres": [
+    "narodna muzika",
+    "sevdah"
+  ],
+  "tracks": [
+    "1u4bm4vmE7R3vco75gQsbC",
+    "5T4EC54iNAPUNn8tjHMbDg",
+    "6GVf2HY2SKywqWDtIlcO9x",
+    "0DvZMiLtOqz2T6gyxVFWiH",
+    "4oWt8gkWg0C7cs85dnAS3o"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b20"
+  },
+  "artist_id": "4c6RPvqSQZ0OwpNEQrgjVL",
+  "followers": 1070,
+  "name": "Hugo Midon",
+  "popularity": 25,
+  "genres": [],
+  "tracks": [
+    "5CFDU39SInr5JBv1cCSw17",
+    "6nyJtbjCbEQou6CMrDjDnX",
+    "7JEW1p1ZRQFJvQx2DQBiei"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b21"
+  },
+  "artist_id": "6c9FzXhLIBgreWOkqdPPH1",
+  "followers": 335,
+  "name": "Carlos Gianni",
+  "popularity": 25,
+  "genres": [],
+  "tracks": [
+    "5CFDU39SInr5JBv1cCSw17",
+    "6nyJtbjCbEQou6CMrDjDnX",
+    "7JEW1p1ZRQFJvQx2DQBiei"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b22"
+  },
+  "artist_id": "3EYczbK5GQd1kfINZAU53A",
+  "followers": 1003,
+  "name": "Ulli Baer",
+  "popularity": 20,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "4R2bTrEhOcL8bUMqz8ZyH3",
+    "4RltMy2UUfVZZMwc77xVvu"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b23"
+  },
+  "artist_id": "42MtvWbpLboJmThRItMWSZ",
+  "followers": 7635,
+  "name": "Cecilia Todd",
+  "popularity": 25,
+  "genres": [
+    "classic venezuelan pop"
+  ],
+  "tracks": [
+    "1krnYeQFhqh1monCQCJSvT",
+    "1wIIv29O9j2SpYjZ9oSldm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b24"
+  },
+  "artist_id": "5R5eccQc8EF4ROO0HNRW9m",
+  "followers": 744,
+  "name": "Bruce Rowland",
+  "popularity": 33,
+  "genres": [
+    "australian classical",
+    "oceania soundtrack"
+  ],
+  "tracks": [
+    "6ADqO4tqj4L1RujBcGYemW",
+    "6MPad9oXUvP4UsaC2l94a2",
+    "0ot7v4gZ7994klpEIax6mD",
+    "19mQ7KAK6gqR0VNVetGeQf",
+    "2ayYAp60J3JM5iqwYkkYy7",
+    "5SNtzQht6DXdbTAkqtZfOw",
+    "4uCbWZ6T1nb8ps5UZuwJn7",
+    "0jDEpjnD4fosk2K3C7suEw",
+    "5ciu2kSglK3ydoiRbFdXx2",
+    "71r3gnMYKmT5LLmMrz6SAl",
+    "7LIvCDPcD97drmSTgnPbki",
+    "2rQq8TPiawdNyIK5uNRtUM",
+    "44x52VLThMSHefrPXSNyYp",
+    "4yUHVDBq1Jq05RwMtUVQb7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b25"
+  },
+  "artist_id": "0XLhfP0Nt0IYLLKqfWjnbb",
+  "followers": 2345,
+  "name": "George Kranz",
+  "popularity": 36,
+  "genres": [],
+  "tracks": [
+    "2Os4d9KF1Z0NPWnGJODaRs"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b26"
+  },
+  "artist_id": "75TWu6cZrPyBeB9k2MLuma",
+  "followers": 11263,
+  "name": "Ostbahn-Kurti & Die Chefpartie",
+  "popularity": 35,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "0N6s9EmhiZv7mCOqyIUp4s",
+    "6yhIhSley6UYLPLNRVXJLS",
+    "6foC8MDPtUNSSocJdztVfk",
+    "0kpPL0p2FZa8E3ZklMwMUA",
+    "0KH7LydkCmadhsnOds3DnT",
+    "4MoHlM2rd7mGY9Kc9VrCd6",
+    "1zzozpSgT4B3i3wPrtEaKc",
+    "1adYlRHhVStHNY2iOpFZek",
+    "1w7PQAMSZt7nRGIOtiyTBJ",
+    "3B2TNuWqTDrWq317Bdpuvj",
+    "2Fjzhlsy46fLjUoZWtpiae",
+    "169CsTxczhRvKa1WA6Kzut",
+    "5r221LVru97xLlmCkAcypF"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b27"
+  },
+  "artist_id": "7mU7GZdZcudkj1cF5RFoUO",
+  "followers": 5771,
+  "name": "Boris Novković",
+  "popularity": 34,
+  "genres": [
+    "croatian pop",
+    "yugoslav rock"
+  ],
+  "tracks": [
+    "5d0LjggeuMPbzqsLhf5FzC",
+    "5yrWvCrWrqK4Pk1pGRVkXM",
+    "39QFQaLPgA9uekdvY61BD4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b28"
+  },
+  "artist_id": "27EJnmD3j3yVZzEPYUyGup",
+  "followers": 949,
+  "name": "Carl Peyer",
+  "popularity": 23,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "74k4khe4FU0nUkQWBvfWkn",
+    "2attTYuB1Wivum2ocEm1wT",
+    "1Uxq2bcLwr9CDuQ28gWMKL",
+    "0XKyugyhpnM5sy7ghI3SJU",
+    "2rvUgDE7wGjoy3pzrO29fQ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b29"
+  },
+  "artist_id": "5Y9q3CBPhPwRBbuJj5TP62",
+  "followers": 362,
+  "name": "Alen Slavica",
+  "popularity": 25,
+  "genres": [],
+  "tracks": [
+    "6rLb5XFKahbTI6ZDUemlJa",
+    "4gadccYawatdtQfm6fdRFA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2a"
+  },
+  "artist_id": "5Z7pOsavFP8sACkWxYHMW1",
+  "followers": 7409,
+  "name": "Big Pig",
+  "popularity": 31,
+  "genres": [
+    "australian rock",
+    "double drumming"
+  ],
+  "tracks": [
+    "3FUXIiVAVbifAEYXdcUBbb",
+    "7DLe5d6DPmsHTsExc7Kemu",
+    "4VjEEqn7DlFlo2pzXeF5UA",
+    "4KboYSX5SqpT4TIbGVU5ti"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2b"
+  },
+  "artist_id": "3N4ZBIXZfvF0VLgEclgJvX",
+  "followers": 8855,
+  "name": "Enes Begovic",
+  "popularity": 35,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "turbo folk"
+  ],
+  "tracks": [
+    "2fWw2jusTDCz82l2FPSxpo",
+    "3ESRmuzfFqVCD9lGp0lvTE",
+    "6O3K8BEiSvOFX295W5aSZy",
+    "47DEiMAkfXUc33BHaJCfPR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2c"
+  },
+  "artist_id": "5YL5sKtxi1J4bApusQ2uwI",
+  "followers": 38778,
+  "name": "Thomas D",
+  "popularity": 38,
+  "genres": [
+    "german hip hop",
+    "german pop"
+  ],
+  "tracks": [
+    "1rQRYIhKeQtxyasMQfg5lY",
+    "5YXI1M3ZpgxgXwpMvfHAMN"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2d"
+  },
+  "artist_id": "6E4eoLJTZYyIC5cZVg6fDx",
+  "followers": 27869,
+  "name": "Kate Ceberano",
+  "popularity": 37,
+  "genres": [
+    "australian dance",
+    "australian pop",
+    "australian rock"
+  ],
+  "tracks": [
+    "03Bgy8sbBMxyQ3yYNwhTxR",
+    "4gLz8C5muA3c4cKPWpcPjE",
+    "3KOuDB3KwpNW2CmXOp1JT1",
+    "5Wgo3dYtNCuTZR6SXMbCZ6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2e"
+  },
+  "artist_id": "1HWqgnE1js4TDGa4rfwOSH",
+  "followers": 2164,
+  "name": "Relax",
+  "popularity": 34,
+  "genres": [],
+  "tracks": [
+    "4uOTs0o1n26fdlKzAwL4jG",
+    "3SVo7iJk6KQYwfkqlpAZNS",
+    "7GqgZAFTXyP00HWZ3LBtHH",
+    "552FJeoHHKND6lnMxPeWqR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2f"
+  },
+  "artist_id": "5AmJYBIvICxss43P05MkU8",
+  "followers": 111419,
+  "name": "La Ross Maria",
+  "popularity": 60,
+  "genres": [
+    "dominican pop"
+  ],
+  "tracks": [
+    "3JgGutjAwNXGAxcXaqVgWe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b30"
+  },
+  "artist_id": "7eZq9rAksJe2LfpUQ3ng59",
+  "followers": 1451,
+  "name": "Tutti Frutti",
+  "popularity": 28,
+  "genres": [
+    "croatian pop",
+    "croatian rock",
+    "yugoslav rock"
+  ],
+  "tracks": [
+    "1lEGCuJVU81NkMwWQAZ0hC",
+    "7CFqF4jh3toJbjY2DjqXY4",
+    "0ZOqVG4gK3VCXoXFfN7ERG"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b31"
+  },
+  "artist_id": "2LyXoG111QdqfI0HLYQgvS",
+  "followers": 27188,
+  "name": "Bodyjar",
+  "popularity": 43,
+  "genres": [
+    "australian alternative rock",
+    "melodic hardcore",
+    "skate punk"
+  ],
+  "tracks": [
+    "0q6Qyd2QaHMHp7APKyQsyi",
+    "1FCRwAc7gICLzdd5pjFWuK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b32"
+  },
+  "artist_id": "7Lk3qnu0GGnvG33t23iz5k",
+  "followers": 12276,
+  "name": "Alex K",
+  "popularity": 42,
+  "genres": [
+    "bouncy house"
+  ],
+  "tracks": [
+    "4rbhlfkFS6m7Ft8I0avwzu",
+    "7F53Dz0aO9Piy52w8iGdiB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b33"
+  },
+  "artist_id": "1wELOF6Lb5TckxS5EiiQZe",
+  "followers": 10689,
+  "name": "Don Cornelio Y La Zona",
+  "popularity": 35,
+  "genres": [
+    "argentine indie",
+    "argentine rock",
+    "post-punk argentina",
+    "rock nacional"
+  ],
+  "tracks": [
+    "7Gl2RyA6Vn4KdgpacprbUg",
+    "1qBr7Q9iOS46pWBWgIzY0B"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b34"
+  },
+  "artist_id": "6nv55DhqbeO8YUWFCfFAys",
+  "followers": 1506,
+  "name": "Zoot",
+  "popularity": 20,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "195BSMZC1sjaNqt8NziMh5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b35"
+  },
+  "artist_id": "3nJsM5uIME4qqS0dD0K0mo",
+  "followers": 1611,
+  "name": "The Ferrets",
+  "popularity": 23,
+  "genres": [],
+  "tracks": [
+    "6zU7qPbE6S9ShTSToWTgEp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b36"
+  },
+  "artist_id": "4cpMQdcPKsbw2SaTjGazQf",
+  "followers": 27296,
+  "name": "Radio Birdman",
+  "popularity": 35,
+  "genres": [
+    "australian alternative rock",
+    "australian rock",
+    "garage rock",
+    "protopunk",
+    "pub rock",
+    "punk 'n' roll",
+    "punk blues"
+  ],
+  "tracks": [
+    "04gqgeTOQwtg6f9YwgU4vW",
+    "2QGCeYmbherfGblF6l5GT9",
+    "0qYHgNDXzmzvXJay9AZTZ3",
+    "4pmtalVrMkuK3lWTu8ZFJv",
+    "0LsNb1Yf4n5ARwxNn5todl",
+    "3cCjlsLgeH2VjRxlbWVGy6",
+    "6iaNR28S0lXot1tmFbgld4",
+    "0QOeIfBIy0l5Ej3ssTfdjS",
+    "6iCEGRzxxp5xaruaSDFmNc",
+    "4G1InSK9BiZ4c1irTtZKYo",
+    "0JSFzKUkAePxQOsCcIc2WB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b37"
+  },
+  "artist_id": "0ND4nMCVbGAnwrBP9uIfoc",
+  "followers": 2261,
+  "name": "Matt Finish",
+  "popularity": 21,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "36ayIrJqte6HScXUCjeaWs",
+    "6sxfNlkKfoD8UbdwYBGbUn",
+    "6ZMkZrPgJN2U7p3wKui7dZ",
+    "5XIQ9BbIuDGyLoaoGm6YKz",
+    "6AzBTqU88T9roQUt2BotJw",
+    "5Mtze7NjGpMRkXTPNMVhMu",
+    "1xzTonyRIpEKKm5sajEsLR",
+    "4NhBrrULX56njnzGqrMkUF"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b38"
+  },
+  "artist_id": "16uR0wl5ShrtluUW707XPv",
+  "followers": 631,
+  "name": "The Little Heroes",
+  "popularity": 28,
+  "genres": [],
+  "tracks": [
+    "523uk3CDXUNSXPAMqFvibP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b39"
+  },
+  "artist_id": "0aRJShMkUsHVCyCw5Klxj3",
+  "followers": 5099,
+  "name": "Do Re Mi",
+  "popularity": 24,
+  "genres": [],
+  "tracks": [
+    "2wtqBurDM5kxuH6WhxwIJr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3a"
+  },
+  "artist_id": "5ghiRwgyYZfnmC0Upu6ZtR",
+  "followers": 6607,
+  "name": "Machinations",
+  "popularity": 25,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "0i1m5yDNgR3sr6CyIIqf1G",
+    "1fSiCwCfOBGh3Cij6clWXx",
+    "7IjYBLX4MCVV9Ro4yjzGG7",
+    "4o3E2kCwXoxVkr0hid3hVY",
+    "2CKZS6WdOyj9hjgW0H4DLI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3b"
+  },
+  "artist_id": "4I0BixMk7zPyKimeO3HrTa",
+  "followers": 1656,
+  "name": "Don Spencer",
+  "popularity": 33,
+  "genres": [
+    "australian children's music"
+  ],
+  "tracks": [
+    "0YMBXD9yNAw8ev8BoTfcMJ",
+    "4tbOVXJqJ2EMDTUcYjrcC6",
+    "4U9l9kAmodjVJ0dTp5hq16",
+    "6mjcz1K35CHG96EtTTUWND",
+    "1r2PNOIi1gDsExtPWnNLlw",
+    "7HiMeq0ZrcYUfdNZUMXSbW",
+    "3TkEWQ2ANnciTPiFK30iNj",
+    "4CwHsiEjypqdfE1ZtO2J8E",
+    "0KwfMQs2srJLMR8G2LtleS",
+    "1YbF9iPq6MMCa9kkaYsVwR",
+    "3MCBO2VULkxSfteGU3DOQM",
+    "5V1GoFLW4HP0uSKu6nHiav",
+    "7jhMF0EpgvbALY6KZLYxqW",
+    "5O7baxNJk3cSMy5MyiB6gj",
+    "4MSAwLKHiXnFyzOzHwR342",
+    "3EuA9KKFy5Ib6ibWH21Kha",
+    "6saVsW4bPQOWWlN751EhX7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3c"
+  },
+  "artist_id": "1s64XtBG170B6uqwJDBGzc",
+  "followers": 6785,
+  "name": "The Party Boys",
+  "popularity": 28,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "0wmey5UfcFvYvlp7y0uopE",
+    "5ByLgz3RnV0hyVkrsfXqDG",
+    "0ElpKZNMt9RXVlVTy8SS8V"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3d"
+  },
+  "artist_id": "4LtYxILg8YPMwQjKnXb5kh",
+  "followers": 21703,
+  "name": "Archie Roach",
+  "popularity": 38,
+  "genres": [
+    "australian alternative rock",
+    "australian indigenous",
+    "australian rock"
+  ],
+  "tracks": [
+    "2PolnevtHIyrxe6CjWYpXx",
+    "4eY6lTOvMqWwy5IVk0A2lb",
+    "3XhjdHcb8Hi4zBPCkneDYz",
+    "5KakKpFCklLrOgPGqDDI2H",
+    "41KNztI95qBxE9t3XTgIeY",
+    "1UDGMEyfgWwKKq9nsjkFop",
+    "6G8jb6hHEL5rzQGIBNTeSZ",
+    "6PPJ8tkzIsb4XwKj3UHsyW",
+    "0NEd5Wd0cj61CsUwQ7rCjc"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3e"
+  },
+  "artist_id": "3l1Tuoqd0JXoaOrAiOyrB0",
+  "followers": 17010,
+  "name": "Deborah Conway",
+  "popularity": 37,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "1HXaX12pA7jVuwUczy5UOd",
+    "2YMWa5EveQZrgbvJOf8GYS",
+    "6vRLVUDcdUhSkpQEx8Wjk5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3f"
+  },
+  "artist_id": "7EUjDdRgLHcgFIL4sfhvFo",
+  "followers": 3397,
+  "name": "CDB",
+  "popularity": 36,
+  "genres": [],
+  "tracks": [
+    "7K4AUODt2GjZdizNkJkJ1c",
+    "2ADU49RKktDsdPj0vKqJ6j"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b40"
+  },
+  "artist_id": "7o9kdTx6RmO12iAVVsNehd",
+  "followers": 35587,
+  "name": "The Superjesus",
+  "popularity": 41,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "29bqMdlCPKCxdj4Yb2Yyce",
+    "6U8koDtkewQRZPl4X3xQxs",
+    "1B7tV3WzEnDUS7wXSKDXk3",
+    "1z9avEqOLYsjuK9YtJ5kfm",
+    "6OzX6yfsK7Bbp5qPSgjdbP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b41"
+  },
+  "artist_id": "0NXVGrFkPu0Cohh3BJV5Wx",
+  "followers": 29855,
+  "name": "28 Days",
+  "popularity": 41,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "0EcdmJCR4pURncLgeeBYvl",
+    "3BHwgqKfFUlqHxUuXxsrP3"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b42"
+  },
+  "artist_id": "5EkpFNNGJTnndTQLzqTFut",
+  "followers": 3124,
+  "name": "Deni Hines",
+  "popularity": 38,
+  "genres": [
+    "australian dance",
+    "australian pop"
+  ],
+  "tracks": [
+    "09cipkVDxpgmbgG9HCLYjq",
+    "4oX4WNqPhgKQrl5W4tdt7V"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b43"
+  },
+  "artist_id": "3YUrEElXpqiPSbffh9XXZd",
+  "followers": 21818,
+  "name": "Rogue Traders",
+  "popularity": 42,
+  "genres": [
+    "australian dance",
+    "australian pop",
+    "dance rock"
+  ],
+  "tracks": [
+    "5KVll4Si4pL02nmrUvAHrc",
+    "7uU3Jb0ELZN8ilYwwMdEjd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b44"
+  },
+  "artist_id": "6B9zcemB6pCVlbLac9pwWF",
+  "followers": 43352,
+  "name": "Hillsong Kids",
+  "popularity": 45,
+  "genres": [
+    "vbs",
+    "worship"
+  ],
+  "tracks": [
+    "6EDgHoK9DJgJ6OY3EHXbDe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b45"
+  },
+  "artist_id": "51K48NCxjB11t9eqUWWoIq",
+  "followers": 19660,
+  "name": "Youth Group",
+  "popularity": 46,
+  "genres": [],
+  "tracks": [
+    "0rdEIRgDyH03nwzk7cbbh2",
+    "3tFECpGckFpp0HpQje78gi"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b46"
+  },
+  "artist_id": "0vntgse6gPZfthoW8kTTlR",
+  "followers": 23238,
+  "name": "Augie March",
+  "popularity": 43,
+  "genres": [
+    "australian alternative rock",
+    "melbourne indie"
+  ],
+  "tracks": [
+    "5gPL7XvlYmX922oyxscYH4",
+    "5JLy9IPZhFwmPBlPjcqDL0",
+    "138tRBHtGif2seu11dLvlm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b47"
+  },
+  "artist_id": "5FWTu1MZdB5fjKif2rZldJ",
+  "followers": 117070,
+  "name": "Easy Star All-Stars",
+  "popularity": 52,
+  "genres": [
+    "dub",
+    "reggae",
+    "reggae cover",
+    "roots reggae"
+  ],
+  "tracks": [
+    "09GSwI8Yh7MUHTU2VpHm7z",
+    "5QREkNN2kAKUsXppK9Vrcu"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b48"
+  },
+  "artist_id": "4UzQ37Y0rzonVpsXpcNyFH",
+  "followers": 64681,
+  "name": "Josh Pyke",
+  "popularity": 50,
+  "genres": [
+    "australian alternative rock",
+    "australian indie",
+    "australian pop",
+    "australian singer-songwriter"
+  ],
+  "tracks": [
+    "2xN6Xkcx09kPPlNR7gPZRV",
+    "0MIoXOgLcUKRJEtb1rKh17",
+    "1nRXsbBZhdgN6a5JUo8MSn",
+    "3va4xUnfKX40Mux99pOqai"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b49"
+  },
+  "artist_id": "75jU2q0uEWzSIlqRJtedJV",
+  "followers": 92590,
+  "name": "Sarah Blasko",
+  "popularity": 48,
+  "genres": [
+    "australian alternative rock",
+    "australian indie",
+    "australian singer-songwriter"
+  ],
+  "tracks": [
+    "6fG3vZYXmaocQnKT8G2ZN2",
+    "5H8rK4MwmqpBd9u0V0oDVa",
+    "5quDJPCAum2ZXgadOI023X",
+    "7pBpdziMk55LaCJrNJPuZx",
+    "0OUWImDyxZMP0myhpiwQpo"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4a"
+  },
+  "artist_id": "74WcfqC2hmUFHEJs0PDqYi",
+  "followers": 13782,
+  "name": "Little Red",
+  "popularity": 43,
+  "genres": [
+    "australian indie"
+  ],
+  "tracks": [
+    "3gkUWlXM4gDUZbKn5WO3N9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4b"
+  },
+  "artist_id": "7sCcPQQft3sSxcJaB30dlb",
+  "followers": 34884,
+  "name": "Bluejuice",
+  "popularity": 48,
+  "genres": [
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "tracks": [
+    "3HLicjnTcxTyykFvlHJxd7",
+    "32G0h9eJinZuDu89USLU2V",
+    "0pBVEfjoWDErPWlboJbRdR",
+    "5Qk1mCqD5rUiWK2p1XABG4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4c"
+  },
+  "artist_id": "0dwYOqqBADcpYOJRmlZSgH",
+  "followers": 42237,
+  "name": "Big B",
+  "popularity": 46,
+  "genres": [
+    "rap rock",
+    "redneck"
+  ],
+  "tracks": [
+    "2Atez6pjDhWglsk36nZ7T6",
+    "6VgWqvetn0KUnSQoyUG4GT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4d"
+  },
+  "artist_id": "1ououJVWgWsHWMYDLvT7sH",
+  "followers": 114763,
+  "name": "Ball Park Music",
+  "popularity": 56,
+  "genres": [
+    "australian garage punk",
+    "australian indie",
+    "australian pop",
+    "brisbane indie"
+  ],
+  "tracks": [
+    "25u1ohVuLSEcTaFjIXNkz3",
+    "1yHldU14rCkhzrXtgaqndu",
+    "7cSP0MGGYVANF20tjeI1JV",
+    "4wKt0DEnwfG41G4BFmzMHc",
+    "1byz2Dig9pILIfya2X1WGS",
+    "50QieT02ZZJZ5EHDie1dCR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4e"
+  },
+  "artist_id": "07Q9n9pbwR6jQ8xH4SA46b",
+  "followers": 95042,
+  "name": "Justice Crew",
+  "popularity": 51,
+  "genres": [
+    "australian pop",
+    "australian talent show",
+    "dance pop"
+  ],
+  "tracks": [
+    "0UmXSUCoE2I67n8ERd0Hdi",
+    "71CgN6BVkaXFNB5xPnvY9o",
+    "5YdPlbnZLbnCjTFyfap1zN",
+    "10kcfnWl3qEaKJNGP28AKy",
+    "7zdKMUR80sJMrP0BYrmUDK",
+    "0ZShFfdyPtOTgLkUr8a4pa"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4f"
+  },
+  "artist_id": "5gcDZA9xXCOspWgQilUYIu",
+  "followers": 64438,
+  "name": "The Preatures",
+  "popularity": 49,
+  "genres": [
+    "australian indie",
+    "australian indie rock",
+    "australian pop"
+  ],
+  "tracks": [
+    "3OIKgKNUt87GHz8OmmHZop",
+    "71l93iUkmRg9jpeAgjN3LU"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b50"
+  },
+  "artist_id": "500YRyClzP6Z7HtWd1BIje",
+  "followers": 42423,
+  "name": "Northeast Party House",
+  "popularity": 52,
+  "genres": [
+    "australian indie",
+    "australian pop"
+  ],
+  "tracks": [
+    "1TOkbYusbOHXEVxTWfU02m"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b51"
+  },
+  "artist_id": "3D04EJ7Bvcko5xB2UWolID",
+  "followers": 248,
+  "name": "Decidic FX",
+  "popularity": 49,
+  "genres": [
+    "environmental"
+  ],
+  "tracks": [
+    "7pjG0uixjZKFqsj05SJIOi"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b52"
+  },
+  "artist_id": "3Qs1EAnyqWLaNqk0wHS63M",
+  "followers": 4463,
+  "name": "Rain Sound Studio",
+  "popularity": 58,
+  "genres": [
+    "sleep",
+    "water"
+  ],
+  "tracks": [
+    "18aGDOpPblt4w29uE9NMbd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b53"
+  },
+  "artist_id": "2C1zgkYFPzuU7GBM66c1S9",
+  "followers": 21815,
+  "name": "Victor J Sefo",
+  "popularity": 48,
+  "genres": [
+    "jawaiian",
+    "polynesian pop"
+  ],
+  "tracks": [
+    "7nU8U3l1MbQupRDP8YACUv"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b54"
+  },
+  "artist_id": "2IP71LH7CbwddhsEXBI0fy",
+  "followers": 22328,
+  "name": "1991",
+  "popularity": 53,
+  "genres": [
+    "drum and bass"
+  ],
+  "tracks": [
+    "1bKLxdg9QOkwcOy3PYv7Fk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b55"
+  },
+  "artist_id": "5u0dE6Vw509dFP0YK5y8lc",
+  "followers": 1497,
+  "name": "Epic Soundscapes",
+  "popularity": 59,
+  "genres": [
+    "sound"
+  ],
+  "tracks": [
+    "7rQ1E6bl6UMhrRhf8quVIR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b56"
+  },
+  "artist_id": "38wtgSBaCeiA3hxkWuYvwy",
+  "followers": 164,
+  "name": "Uama",
+  "popularity": 1,
+  "genres": [],
+  "tracks": [
+    "72Faiea3KeWo41vFfnW6T2"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b57"
+  },
+  "artist_id": "6rd2bxN4Z9rdmG39X23dmd",
+  "followers": 177,
+  "name": "Johnny Smith Trio",
+  "popularity": 10,
+  "genres": [],
+  "tracks": [
+    "3fbJi6LMjd55lYAiVoTSRS",
+    "6kCjsFvmnm8f9p1krnt90M",
+    "03odHr5nFrklbQJ7H71wOH",
+    "3hzug7ocSnBYjpKDl36I0M",
+    "74F1vG0PhTGKCcqV4fxOJB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b58"
+  },
+  "artist_id": "2hnvTF9jhYWs6iEWdmJ50b",
+  "followers": 3016,
+  "name": "Chain",
+  "popularity": 24,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "4Dm8Fvuapc297EHBxkuc28",
+    "4hDbDXaGnBylXUSBVx3fPW",
+    "1LqQdcT4MvoWb7jvCUyljE",
+    "47Yj9vq1pJZtjZGbO7lIxF",
+    "0ch4rUu1FdWXt1qOh6cgGF",
+    "3U0JWqzYPpHhH7kAOTB1rF",
+    "4IaicLXqSDxao8TaouXyNL",
+    "37JXJGvO4YIlTqJ3UOPjpC"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b59"
+  },
+  "artist_id": "6ysvKUB9wvh3iY18obS8dT",
+  "followers": 2271,
+  "name": "Medklang",
+  "popularity": 48,
+  "genres": [],
+  "tracks": [
+    "1Nsnj3Po7gY4nf6UOrPyuA",
+    "6E6IinmDkW1upcokHAjsnz",
+    "4BvRkuyqBuzyICjSgl7IbH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5a"
+  },
+  "artist_id": "0xEo4m46co9IGYyLQ5gRjp",
+  "followers": 5037,
+  "name": "Oliver Mandic",
+  "popularity": 31,
+  "genres": [
+    "yugoslav new wave",
+    "yugoslav rock"
+  ],
+  "tracks": [
+    "43OYBT58I1u5JqkPBGXk9L",
+    "5sCb8lhJ5kfJ6DFLAdfdDj",
+    "4vh4iPaADbbLDFrnELsuzS",
+    "0MmmG0xAtWqEtOcq5oN2KH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5b"
+  },
+  "artist_id": "3xFLWu0BzO1O5ba9QduoVN",
+  "followers": 1114,
+  "name": "Johann K.",
+  "popularity": 19,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "4aO2vZdlarxxJuGgs8yXzb",
+    "50qpIfnO77DsIGvvIMfJmK",
+    "17OKfy9UXsLhnWhHJN5W8f"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5c"
+  },
+  "artist_id": "29ruXKXBILdJvUe4stHvFZ",
+  "followers": 2378,
+  "name": "Pro Musica Niños Rosario",
+  "popularity": 19,
+  "genres": [
+    "musica para ninos"
+  ],
+  "tracks": [
+    "7D8R2hT9LOMChLHMlRuh0X"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5d"
+  },
+  "artist_id": "3xycgFpr4XMrrogwChK3zw",
+  "followers": 4603,
+  "name": "Mario Álvarez Quiroga",
+  "popularity": 32,
+  "genres": [
+    "folclore santiagueno",
+    "folklore argentino"
+  ],
+  "tracks": [
+    "74Ytg4qNpMTi2VcD90B3ux"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5e"
+  },
+  "artist_id": "2OL1Rpd8YwI243JOKhC02L",
+  "followers": 2504,
+  "name": "La Torre",
+  "popularity": 21,
+  "genres": [
+    "rock nacional"
+  ],
+  "tracks": [
+    "4cIZO1HErkR8rXSwQKe1CZ",
+    "5f5b4AlzF42gLjrentic5P"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5f"
+  },
+  "artist_id": "3juLGrDGl9tPVXCSCdR1RO",
+  "followers": 4668,
+  "name": "Los Cartageneros",
+  "popularity": 28,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "tracks": [
+    "3IsWxSZOJf7ROea9BuVxLm",
+    "0dIgBICvSMKRgYfGlILM5a",
+    "5Yx9eaGgGPbzd3K8zt68j4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b60"
+  },
+  "artist_id": "5JLw6ymW8NjsrKjLqze64A",
+  "followers": 10440,
+  "name": "Baja Mali Knindza",
+  "popularity": 40,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "turbo folk"
+  ],
+  "tracks": [
+    "3X8drIzb3rMLOJJLhGscZ4",
+    "54lNjpeTolIJzOGahPbyaL",
+    "1aDrVigr8IhBHqXkvH879d",
+    "2uKpZOUTtGLcWhFkGz1YbX",
+    "3V9zpoOWE4rLJ8hABY1cYR",
+    "1sDHRwaOT1OllC60cVZHdY",
+    "5TC7m3r82M8asl5RSEMBq7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b61"
+  },
+  "artist_id": "6XCS9JCn56Q252cMOTbeq6",
+  "followers": 80624,
+  "name": "Dannii Minogue",
+  "popularity": 43,
+  "genres": [
+    "australian dance",
+    "australian pop",
+    "bubblegum dance",
+    "dance pop",
+    "electropop",
+    "europop",
+    "new wave pop",
+    "strut"
+  ],
+  "tracks": [
+    "5OKjyuulniceXswXHLYZqV"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b62"
+  },
+  "artist_id": "4YodKr9jquVtUcSmB0gQEf",
+  "followers": 1338,
+  "name": "Jorge López Ruiz",
+  "popularity": 13,
+  "genres": [],
+  "tracks": [
+    "1ZWSJpOly61ojUNQZXA9tm",
+    "4fBQs7JfAu0mM2bXt2EOla",
+    "2Gmd4s3XwgCYxvpyaYiXKJ",
+    "34YESQEn2elBmPtAVeYsTM",
+    "0eJ7EGgVunnH87jgEcCD5p",
+    "23cZNOQx2i4OF3Su9Irdm1"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b63"
+  },
+  "artist_id": "3PN8odvj48fnALdAsCKG3g",
+  "followers": 10400,
+  "name": "Crucis",
+  "popularity": 22,
+  "genres": [
+    "italian progressive rock",
+    "rock nacional"
+  ],
+  "tracks": [
+    "56vhyP9UvLtGYUbeBBxqke",
+    "0aF2ape2b7Tzgo1GLs9re3",
+    "1tXJC1XWlQb9dLbOV86Mn9",
+    "5iFx1JwYEl4AehgNZMNXmL",
+    "7Mj76h83u3Cx4RBeBiujn0",
+    "5gfVBnwtCIIsjDX7wchXcl",
+    "0uYxeSsUttSJE7mJG8lkNq",
+    "7yn4243jQ1vb0TXvsSqCLO",
+    "06d4mMKC6mSx3ANXc2ZXYE",
+    "559ZXG23PMJMTNqxw7OnUq",
+    "6bp37SXvXHS79vSltEe7jJ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b64"
+  },
+  "artist_id": "5b0UnnfFNudJBMFuvit4fT",
+  "followers": 820,
+  "name": "Banda Original Columbia",
+  "popularity": 25,
+  "genres": [],
+  "tracks": [
+    "1Xm9G0H8dtDyRvcqlDvugI",
+    "7H851ulmXQFlBOrLjbyHgj",
+    "6nDbBe96eWkowt5AF7BS2G",
+    "4ehBNy9cwxA37DcTG2WH4j",
+    "3kXNq3RgOvf6cnxeJlQAFe",
+    "1rsYrVuEG2WdQL4ijLylUx",
+    "0iMOiHHjwk3L5TQBIkTyPZ",
+    "4eYzcIeaFhphykYWdSlZjX",
+    "7e6RzvzwVSMZ7a4fuZIBr0",
+    "6zUqU0SEbB0EiJjuM3dS3S"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b65"
+  },
+  "artist_id": "49UpIRD1s5bMEhbYYTnqUD",
+  "followers": 1467,
+  "name": "Sobrecarga",
+  "popularity": 21,
+  "genres": [
+    "post-punk argentina"
+  ],
+  "tracks": [
+    "24X9r3zeRgB4VTLz75TRw9",
+    "30hedgQCyR9YG9VIuf970W"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b66"
+  },
+  "artist_id": "4LcVOgiAzJlIZJk5gFa4yu",
+  "followers": 2821,
+  "name": "Rubén Goldín",
+  "popularity": 20,
+  "genres": [
+    "rock nacional"
+  ],
+  "tracks": [
+    "7z8Kpr12udmZ2WXUiLPDXs",
+    "4qjHYU86ciSRIXNvaELxCG",
+    "3FXVbVDVhibwcVPBb7rPKa"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b67"
+  },
+  "artist_id": "2q6X99CH0WLrL5YFJVOhZc",
+  "followers": 8007,
+  "name": "Pocho La Pantera",
+  "popularity": 30,
+  "genres": [],
+  "tracks": [
+    "6BNiQX0xz7bk0rOIVBlFag",
+    "5Yk0wfk3FwTcGDAtU7BJvr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b68"
+  },
+  "artist_id": "28DInKJA1f9LhVK1LqMaHW",
+  "followers": 11351,
+  "name": "Los Visitantes",
+  "popularity": 33,
+  "genres": [
+    "argentine indie",
+    "argentine rock",
+    "rock en espanol",
+    "rock nacional"
+  ],
+  "tracks": [
+    "5N7oqsGGw7zQ8PVfAKS4XY",
+    "7DILjt03RFcEZsPQz0Tuc2",
+    "6QZxprZ0Vlk4iVxXkdTtki"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b69"
+  },
+  "artist_id": "7Ij3qRinMFtEpzRghKIHtE",
+  "followers": 15567,
+  "name": "Sexteto Imperial",
+  "popularity": 33,
+  "genres": [
+    "cumbia villera"
+  ],
+  "tracks": [
+    "3MLq3n8fNlubRM2FmPREbF",
+    "3uFUhqhpbV8WcY9D9HZgZe",
+    "2ab4uGgCr8cWBw0QZgDJh3"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6a"
+  },
+  "artist_id": "6YbPwijYI1KH2v4aPzAORT",
+  "followers": 11369,
+  "name": "Suéter",
+  "popularity": 32,
+  "genres": [
+    "rock nacional"
+  ],
+  "tracks": [
+    "0KsITYRFHQmz9YwsafUQAz",
+    "2F1vbTtyEC531VQhqh2LlK",
+    "29UOHJBpXY1L1QiWaZLY8o"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6b"
+  },
+  "artist_id": "6po2f29ob2NrxTHXbsSS9i",
+  "followers": 12212,
+  "name": "Peligrosos Gorriones",
+  "popularity": 29,
+  "genres": [
+    "argentine indie",
+    "argentine rock",
+    "indie platense",
+    "rock nacional"
+  ],
+  "tracks": [
+    "1o1EKep0fZJGlSyL6oAuLp",
+    "09XkPoMOoWRiwMkwMMcCN1"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6c"
+  },
+  "artist_id": "0DQ9JcIWMGVzlQSfCVK4oN",
+  "followers": 28437,
+  "name": "IQ",
+  "popularity": 37,
+  "genres": [
+    "neo-progressive",
+    "progressive rock"
+  ],
+  "tracks": [
+    "75w0Q1A27oOOAHhsdYffmS"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6d"
+  },
+  "artist_id": "7c8SVvHiXiEY6f3H7M6BcW",
+  "followers": 13232,
+  "name": "Facundo Saravia",
+  "popularity": 35,
+  "genres": [
+    "folclore santiagueno",
+    "folklore argentino"
+  ],
+  "tracks": [
+    "7ulPSJhpt3Wx5PneaF1bfR",
+    "7CuJoi1vQF9Au3zyLEaSG0",
+    "2mttiM3hZzQrzwXoBfpW07",
+    "3bPMzOQUOunrnIEjmg79pR",
+    "4Wvh7yuglcMLQVQTD0ofdB",
+    "39O5uln1K6RoKFEIcIZiVY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6e"
+  },
+  "artist_id": "7czgdE1A5cjIIp5J4qtANj",
+  "followers": 14527,
+  "name": "Sin Ley",
+  "popularity": 37,
+  "genres": [
+    "argentine punk"
+  ],
+  "tracks": [
+    "1c0CEKgNI4E7gsOQFT2Kju",
+    "1gfYb8g8QgDpsrNXC7kd8g",
+    "1duVGNLOu12K6k6tL2Zgaw",
+    "5X5ZsjgCv8DMDuyiMNaZuf",
+    "6XAzucwHqTeupo8virN246",
+    "6Z8esG5bY2CCEjmXF1cAJK",
+    "45aJIOtUUkTWnBJG9NpDOT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6f"
+  },
+  "artist_id": "3RKWrEVRl77uOIUxpy1lEC",
+  "followers": 7232,
+  "name": "Diego Frenkel",
+  "popularity": 32,
+  "genres": [],
+  "tracks": [
+    "3iEDY1w9tKER7hafCZ1cUq"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b70"
+  },
+  "artist_id": "3UmO1Acb6OVGSfiLnYe69n",
+  "followers": 7264,
+  "name": "Suarez",
+  "popularity": 31,
+  "genres": [
+    "argentine indie",
+    "post-punk argentina"
+  ],
+  "tracks": [
+    "3ErnpA5sFpJbCQTkwp7CEK",
+    "6jlKcy0Rke6iGvAjRW32IU"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b71"
+  },
+  "artist_id": "26Omu9H1XR7cBoEYrMD9gF",
+  "followers": 5953,
+  "name": "Alfredo Casero",
+  "popularity": 30,
+  "genres": [
+    "argentine rock",
+    "rock en espanol",
+    "rock nacional"
+  ],
+  "tracks": [
+    "3mu8zt7WSkRRjeNwuu1QKB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b72"
+  },
+  "artist_id": "24rWeSxIXfwzrN8Ho7Hdtv",
+  "followers": 25321,
+  "name": "Los Continuados",
+  "popularity": 44,
+  "genres": [],
+  "tracks": [
+    "2WFr7BkSkotz63IiotlpT8",
+    "2uiHU6cqsgy2OVp4a4PsZe",
+    "0KGqqkqQcgB5DK0MNs14Jd",
+    "4zmkaTNMSAu9i88EONgH0I",
+    "71zaNOXK1vHawwZE77hC2h",
+    "4bAJkc7WaGPBusys55sohX",
+    "7i2VK4lBfsI74fOBXNAWQ5",
+    "2Vty3MwZftzJ15fmDnqEX3",
+    "6WH2vUkHcxKu9UIqoXDN7D",
+    "1bWPAF8yYbGEFaynFYK84S",
+    "4kPQTDRrScseOqXINBGjTM"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b73"
+  },
+  "artist_id": "3zDNMwCfVORx1xwo6DGBlp",
+  "followers": 6352,
+  "name": "Roque Narvaja (F)",
+  "popularity": 36,
+  "genres": [],
+  "tracks": [
+    "6mFdDYmOzdE7suUpYi23Ie",
+    "4C9A4Mm86Usqa1ZpYIUZET",
+    "1Q4vh2iiDwFEf7erbXMpHz"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b74"
+  },
+  "artist_id": "72l6wuv5Ic1Lm9yAMayCKx",
+  "followers": 7573,
+  "name": "Mariana Baggio",
+  "popularity": 36,
+  "genres": [
+    "musica para ninos"
+  ],
+  "tracks": [
+    "4PijTOHhkJ3R9F8p69Lhrx",
+    "5LgXOrNYrFvpHLthpfffI9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b75"
+  },
+  "artist_id": "0P2q6xyNc2hVFkG3ThjYcJ",
+  "followers": 74822,
+  "name": "The Magic Numbers",
+  "popularity": 45,
+  "genres": [],
+  "tracks": [
+    "1b9FpRqQk07agQgIB3nKWz",
+    "0CIUacqGuohdes8fdIP4K3"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b76"
+  },
+  "artist_id": "0y2UIyqXN4KctxsMLgSMhm",
+  "followers": 12756,
+  "name": "Nolberto Al k la",
+  "popularity": 43,
+  "genres": [
+    "cumbia villera"
+  ],
+  "tracks": [
+    "05MJWNOPPFJu536MC3fTRd",
+    "419UrKLfM1CM8vuJTGdgCz",
+    "5OAkz6hvd5UCsZkg9itdoo",
+    "7JeBE29gGWSwtCkM4I87FM"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b77"
+  },
+  "artist_id": "6Hs8U0JO2nacXFG4kp15Co",
+  "followers": 191599,
+  "name": "Chico Trujillo",
+  "popularity": 55,
+  "genres": [
+    "chicha",
+    "chilean rock",
+    "cumbia chilena",
+    "latin alternative",
+    "latin rock",
+    "nueva cancion"
+  ],
+  "tracks": [
+    "7nqJSKq4bLSU5np1UKQl6f",
+    "2dmiAdscYWQIhRpbQc5TFm",
+    "1lMxEHxFMSbwr6nVxlzQ1G",
+    "6orkKcLFfNacnV5J0xnFjJ",
+    "0IOo0Qwhkj07rUOwh1n3lW",
+    "5a55eSUH25mYgrYmAKDuRD",
+    "3hWP7gZBIcRoLsPhH0oduK",
+    "6XMY9qZM7HXXu0PVqnv7y9",
+    "5DrsyiBfSuIHS015buu06S",
+    "25uRXdik8Q50BhU12KUrrL",
+    "2LekureJkYmKUcUTBoHUaX",
+    "0bhp7w8wAMfguJW5n8iuVA",
+    "2nb9vco2qQWXPBkn9qefJ3",
+    "5xpzjqb00GNVfCsgfP3igG",
+    "1AUb7MTJRGDrkjRjrZdpRO",
+    "3HZB6WbNbSQGHqb2Eto2Sm",
+    "5l3FSFs2BRim2BnJlY8Yzf",
+    "0TaDD7ih30EteDCc9mMA1L",
+    "3gN9FwWzG5v2mrJvdxGtFB",
+    "2MSuiAejQ5LxGMvDwiNOfy"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b78"
+  },
+  "artist_id": "0FtOEaKA25lR6G48iP1Jnt",
+  "followers": 22183,
+  "name": "Los Dragones",
+  "popularity": 43,
+  "genres": [
+    "cumbia villera"
+  ],
+  "tracks": [
+    "4XC1IDxFKnNY1ZAWhE0sfI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b79"
+  },
+  "artist_id": "32MqW6QPGJov4Vtl2xYs7a",
+  "followers": 10787,
+  "name": "Vuelta Canela",
+  "popularity": 43,
+  "genres": [
+    "musica para ninos"
+  ],
+  "tracks": [
+    "6psM6WzipMxhkXbMn15k17",
+    "5Zezq8mmCShgrKRT94Esxf"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7a"
+  },
+  "artist_id": "2N4oh0cKq5FwoO94p4DTVK",
+  "followers": 17354,
+  "name": "La Contra",
+  "popularity": 48,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "tracks": [
+    "4yldjb1SmwLONGJqBk5rJW",
+    "5uEooUmY5X4yxrxiArJ2Sg",
+    "4ZBZYRgKOnRZU65Wlx7qh2",
+    "5h9YOc4uXaDs0BRpOGKEt9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7b"
+  },
+  "artist_id": "3ZsohZm3TsffH1MmUNrK8G",
+  "followers": 34757,
+  "name": "El Stylo",
+  "popularity": 35,
+  "genres": [
+    "cumbia villera"
+  ],
+  "tracks": [
+    "2SKZveofPpBrgk1kpvb8jW"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7c"
+  },
+  "artist_id": "1vJHAIU4DSvj4XipPK3IR8",
+  "followers": 17733,
+  "name": "Sonido Cristal",
+  "popularity": 40,
+  "genres": [
+    "cumbia pop",
+    "cumbia uruguaya",
+    "plena uruguaya"
+  ],
+  "tracks": [
+    "2pbWhN6eySwYWXRUhRw22j",
+    "4AKm9SfY8az1ZV9ltcL6LD",
+    "1N5lyDfYxK7lwCnCUcoXTq",
+    "7JveYIm61ZedqWnxtKP6yw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7d"
+  },
+  "artist_id": "0bYQe0JDIjxkSHQoXlfngl",
+  "followers": 193728,
+  "name": "Acru",
+  "popularity": 59,
+  "genres": [
+    "argentine hip hop",
+    "rap underground espanol"
+  ],
+  "tracks": [
+    "2pAQToHCsDf4UyCOv7l43P"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7e"
+  },
+  "artist_id": "0N9TZYLIcufVLj5eQl5GLm",
+  "followers": 38712,
+  "name": "El Triangulo Estudio",
+  "popularity": 47,
+  "genres": [
+    "argentine hip hop",
+    "rap underground argentino"
+  ],
+  "tracks": [
+    "6t5PsfTj1NA2hEwXcgsLYY",
+    "1V6KZnJeDj25lYJdqDoydT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7f"
+  },
+  "artist_id": "3XBw8ImFEo86mEB2dYh0vS",
+  "followers": 46708,
+  "name": "Zoe Gotusso",
+  "popularity": 55,
+  "genres": [
+    "argentine indie",
+    "pop argentino"
+  ],
+  "tracks": [
+    "3uz2tyLRgSzSlhOIXCz0DB",
+    "1Sr0zBbzovJTg5yxd41CcQ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b80"
+  },
+  "artist_id": "5wkCcDqHUaJbR79G5rEEpL",
+  "followers": 3920,
+  "name": "La Cofradia De La Flor Solar",
+  "popularity": 13,
+  "genres": [
+    "rock nacional"
+  ],
+  "tracks": [
+    "2GFKZgxxZ40OhqH31g3OCk",
+    "7sYM4xTvfR0N3UkRT9n7Vp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b81"
+  },
+  "artist_id": "4LoFcBNitqIC130rvzS6BG",
+  "followers": 14494,
+  "name": "Porsuigieco",
+  "popularity": 25,
+  "genres": [
+    "argentine rock",
+    "rock nacional"
+  ],
+  "tracks": [
+    "34MKQgDEwYzDer6VZKIGhZ",
+    "3e29OJCIWi1wsG1TjUW7CS",
+    "68eG9PLf42GfD7ZozQHZSt",
+    "5f7klRsXV8ife3ZqOOCxPE",
+    "5ZOOHkuzNi2e2zdwphse4e",
+    "2JmfB9i73m8daDafBp3sed",
+    "1CABCEHC8I0WkxTrvR3EIb",
+    "6mmYcy74mOebT2zmqn88Ac",
+    "7EuxJmFcYU8v5vt8c89zk3",
+    "1TpXUHVG4R3T1oqZoLhTsR",
+    "7CUz5MVOv9YNV9Nuevhhmm",
+    "02tIEnsR4A1lIBbGPpJs1G",
+    "13aruUWipliujeNkv1bzg1",
+    "1434wjsEElhNCoOyKfwQWS"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b82"
+  },
+  "artist_id": "6CsleyOZtyt16saX8WhzDx",
+  "followers": 181202,
+  "name": "Brother Ali",
+  "popularity": 53,
+  "genres": [
+    "abstract hip hop",
+    "alternative hip hop",
+    "conscious hip hop",
+    "hip hop",
+    "minnesota hip hop",
+    "political hip hop",
+    "underground rap"
+  ],
+  "tracks": [
+    "30rKpknfedhHqVJkpmPijV",
+    "1iz4IsVFn1zbymbRqzmEpL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b83"
+  },
+  "artist_id": "361pK7YDT3pQopAH7M0jr3",
+  "followers": 1434,
+  "name": "Marianne Mendt",
+  "popularity": 16,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "1bspyBk1HTTLlLgI9PRDzO"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b84"
+  },
+  "artist_id": "4qZeDZdBD3NiWVbkwX2Lpx",
+  "followers": 8401,
+  "name": "El Reloj",
+  "popularity": 20,
+  "genres": [
+    "argentine metal",
+    "latin metal",
+    "rock nacional"
+  ],
+  "tracks": [
+    "10F81E1vPGGROdMHyVthSh",
+    "5KDsctT0xXmo2BkkCXuxLS",
+    "0kCvymt8ka2hQqecsJDC4h",
+    "7cz0ucfOmEhpQIhv8y79IG",
+    "4mGLzmictTcEcrSehVWBco",
+    "06ZgcziK9BqTspYzNK0HwN",
+    "3T8nSpqeydPGfxQPNOtQgS",
+    "4PDMbmHYzVRwg8F08ErzKE",
+    "1AEFUeI8JLlkjASAuWigsL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b85"
+  },
+  "artist_id": "4arvU6IZ9iiulbCZPiO1GB",
+  "followers": 29522,
+  "name": "Pelusa",
+  "popularity": 41,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "6iw3LhDBlu7YY5K1g8YkAK",
+    "5jyKJDdSNiozZ6vuHCotgs",
+    "7j124o3B4oTZeUMpfu453M",
+    "6lobAMfpVoiO2pVFrF0pkM",
+    "6ywSDnmtNvsBd4hzKRHv6u",
+    "2qo6WzBUUa09sCMY2NqcnU"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b86"
+  },
+  "artist_id": "6uLWD7WMJKMyP1DD1eg96R",
+  "followers": 81040,
+  "name": "Cachumba",
+  "popularity": 43,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "1DKiKqd2S5OVyQmj7OS855",
+    "1Rn9HS69AVyqeWq6EV5xDF",
+    "2pkhARfkuHXQf5E67TZKBi",
+    "7KvfNsGM46mPIierM2ftqK",
+    "1p8zM3M43yrcxVWaw8wXp8",
+    "7qquCDxmqg6i3SGznMIfOR",
+    "2HGWRFjxJgcWmdtnSKRDvI",
+    "5X2RBJbY5Q2REAd7lMJ4V2",
+    "2PeSqn7fiq4e5dWNGMw7Cw",
+    "3kMSuLu5Jihu5ETI06ch0b"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b87"
+  },
+  "artist_id": "5nBItoqtPDVkiyNhzjbUO1",
+  "followers": 45676,
+  "name": "Jelena Karleusa",
+  "popularity": 40,
+  "genres": [
+    "narodna muzika",
+    "turbo folk"
+  ],
+  "tracks": [
+    "37Jl5Rg0Pd61GibIRELXoS"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b88"
+  },
+  "artist_id": "1g31gW7m6FH9LljAfobGh8",
+  "followers": 21764,
+  "name": "Marcos Castelló Kaniche",
+  "popularity": 42,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "tracks": [
+    "3trzCCEnxmzybmFYY8KPdL",
+    "2ztRpiApkVtZrYHZKDgaLH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b89"
+  },
+  "artist_id": "76KHdORVQMt7L6nVzvOUph",
+  "followers": 104098,
+  "name": "The Jezabels",
+  "popularity": 45,
+  "genres": [
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "tracks": [
+    "3bJ73tmHnoeBfDZ4pLZqZ8",
+    "1qd89nxexpEj8N7TTOYzZZ",
+    "7qo5m52K1ijTQtH10dyJX5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8a"
+  },
+  "artist_id": "5WJWxdQGsrF1G1iX0ixLfb",
+  "followers": 76806,
+  "name": "La Fiesta",
+  "popularity": 45,
+  "genres": [
+    "cuarteto",
+    "cumbia villera"
+  ],
+  "tracks": [
+    "7FnNMHyONreKLMWU3STSwK",
+    "0aNn6bnLdDCRi4sTRjWED2",
+    "49nLdGkkDKFP86DGSCPfna",
+    "1ivmWVwLVZ2cgwywZjaRPk",
+    "3AuNiqjRQ3VOEv58ad86B8",
+    "7AVXX1AruwZbvbKxu3UQIQ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8b"
+  },
+  "artist_id": "6bsc2dtiid9hfn1vCOROgG",
+  "followers": 3536,
+  "name": "Wilfried",
+  "popularity": 24,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "3s1qMqk4gkz4vxE7TpTnuO",
+    "6yKiO5lnKRL8QVIfU8Wspm",
+    "2bycGIYTvfMcIA9qqgiHmy",
+    "3Ki1zK4onyj4Quqym5tBA8"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8c"
+  },
+  "artist_id": "1TQRWNQjkYhUnhZ5y6c22o",
+  "followers": 1430,
+  "name": "Nervozni Postar",
+  "popularity": 30,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "yugoslav rock"
+  ],
+  "tracks": [
+    "17gnWZis84T3BRxCQz0OBz",
+    "0JDMEBkmVB9qf8vG9Hi8C6",
+    "0qnRMtUtsqjoC76XB6uecm",
+    "4HgsOAG1DmUzqKhZPCydwt",
+    "6BjVPbrxPwScDtVRwbY2k9",
+    "64K6X8qiBroLVpm4Hsn281"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8d"
+  },
+  "artist_id": "76uZxKWThuSOXRQlHy5xP6",
+  "followers": 2656,
+  "name": "Stoja",
+  "popularity": 39,
+  "genres": [],
+  "tracks": [
+    "4kTjn5aEZ85NgKg0EtEcgy",
+    "2AgYoBhg8op8cD1rrJwlEc",
+    "3Lcz4hfs52uX0dqwIiQoRn",
+    "3eBnCRsBFNXrJIlTZs95MJ",
+    "6Evp4nGB9Q7C7OyO0qor56"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8e"
+  },
+  "artist_id": "4IBe9m7y3V2rO1nblX5MR4",
+  "followers": 8877,
+  "name": "Osman Hadzic",
+  "popularity": 37,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "turbo folk"
+  ],
+  "tracks": [
+    "3y2krVxoPWjcHwKgA3bSZR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8f"
+  },
+  "artist_id": "5faZyVmlARwkZUKNPRDXYt",
+  "followers": 24619,
+  "name": "Viki Miljkovic",
+  "popularity": 40,
+  "genres": [
+    "sevdah",
+    "turbo folk"
+  ],
+  "tracks": [
+    "2lhieGX6SBYbHUBHwxOydq",
+    "4pP09y3b9yDqwbF5itbuV6",
+    "3nzW2pnEKDC0WSi8P7JcP8",
+    "6DQzosqlU8tyLXHsGHdNHx"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b90"
+  },
+  "artist_id": "14gLKsLTpoAVHr7bbUg5HM",
+  "followers": 3945,
+  "name": "Zeljko Joksimovic",
+  "popularity": 44,
+  "genres": [],
+  "tracks": [
+    "7JmOLZXjPRADNG2ueAMJ0Z",
+    "6EJMiuYuFWSgWEhBmfW1uz",
+    "54SIOiKUGFdQopk4OFhM8O"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b91"
+  },
+  "artist_id": "7e3BSeFzlCGyAdbsUbgUaD",
+  "followers": 272543,
+  "name": "Damián Córdoba",
+  "popularity": 56,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "6KaxyYZhOU04b8IlJk7qOl",
+    "0cH2nR2ISmkLVW7e7ogTYw",
+    "531bje91fAP4OviryRojvY",
+    "0Jg7uoRXfF5SkOOpU4AvtO",
+    "2F1mUxdhgDc8xKQvSMlifD",
+    "61SuldN9cUeac7RCtxgxAz",
+    "0Q6NNGDbh228B8I6aBR3wY",
+    "6B1zyqSzZ0aXQDrvjsBV38",
+    "0URzkqWsT0YCaV4Nskgwl7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b92"
+  },
+  "artist_id": "7aFWI1ooewKlAlMparvoab",
+  "followers": 27481,
+  "name": "Tren Loco",
+  "popularity": 33,
+  "genres": [
+    "argentine heavy metal",
+    "argentine metal",
+    "latin metal",
+    "spanish metal"
+  ],
+  "tracks": [
+    "1y25iPqPvHGoePmhKrZij5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b93"
+  },
+  "artist_id": "3aAUu37qACrKr6h9eQyNVj",
+  "followers": 5141,
+  "name": "The Reels",
+  "popularity": 25,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "5w1L21OFYZ4kEMiyXfhFCK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b94"
+  },
+  "artist_id": "4mZlgrDsGRgWXy7T5ke3hP",
+  "followers": 8106,
+  "name": "Celibate Rifles",
+  "popularity": 27,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "5tAx2WaDStsk09MwzVCJni",
+    "0YqFfrf7I9uZkJX8howisu",
+    "6xmUtrETD3JDNNrm4CsWyi",
+    "68yFv65gMR7Y0p0dTT3SSf",
+    "64PhDVi04LsUYeCIcH8Pqt",
+    "2cHe4IsWCj2H2pnPGeM7ts"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b95"
+  },
+  "artist_id": "35YkpX0zYwHG8vOIhObvxP",
+  "followers": 2639827,
+  "name": "Mano Walter",
+  "popularity": 65,
+  "genres": [
+    "forro",
+    "sertanejo",
+    "sertanejo pop",
+    "sertanejo universitario"
+  ],
+  "tracks": [
+    "74i0ocFuhVOLp3f5kNKjeT",
+    "0lCmp1Mws7I9K4a0OAgces",
+    "4gryO2XRHDvVgDfAoxZCi4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b96"
+  },
+  "artist_id": "6wNpKnX7J4VMll0LKHGGlD",
+  "followers": 12454,
+  "name": "Miroslav Skoro",
+  "popularity": 40,
+  "genres": [
+    "croatian pop",
+    "yugoslav rock"
+  ],
+  "tracks": [
+    "2PgUhFSSkSiiLeP2NLWmCZ",
+    "5OfzdzlTmIE9NVJ3fPuiaJ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b97"
+  },
+  "artist_id": "60El5gpHTkzTCmrNz0VG7i",
+  "followers": 39791,
+  "name": "Sonora Skandalo",
+  "popularity": 48,
+  "genres": [
+    "cumbia villera"
+  ],
+  "tracks": [
+    "614tWb7BNM0KgQb2sVktG2",
+    "0Q4VRYG0RySZ7zlGNkSUIM",
+    "4ga7vzX0WRFJYNrC6teojv",
+    "3Vci1PwfBYNHLcZC8WulH5",
+    "04sLoJFVAtzRXr3YAGUDqd",
+    "7FrEHhKPDD7jdmJXRLONld",
+    "3q1u9F6TMfb0iUunDKfp0I",
+    "3C4NQNOGQ50Y4LZSJlAqHt",
+    "5pDWG8Rb3sCBg3ZVdgAHz4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b98"
+  },
+  "artist_id": "1uCJyMTl9jebVT28WAQtur",
+  "followers": 1695,
+  "name": "Simone",
+  "popularity": 29,
+  "genres": [],
+  "tracks": [
+    "2v0zcEyYyCuckVlmTzVfle",
+    "4KAdRm3zwPaUizG9qqXJP1"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b99"
+  },
+  "artist_id": "05ndiewdJogtosuRWN8iwF",
+  "followers": 43766,
+  "name": "Adaro",
+  "popularity": 54,
+  "genres": [
+    "classic hardstyle",
+    "hardstyle",
+    "rawstyle"
+  ],
+  "tracks": [
+    "0P2lKGnrFMO7j5RndnCWSm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9a"
+  },
+  "artist_id": "3mZqziCJj4pq3P2VBpmK6p",
+  "followers": 221516,
+  "name": "Friendly Fires",
+  "popularity": 51,
+  "genres": [
+    "alternative dance",
+    "dance rock",
+    "dance-punk",
+    "indietronica",
+    "new rave"
+  ],
+  "tracks": [
+    "2XvxT05vgWnn2TfcGyxdhi"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9b"
+  },
+  "artist_id": "7If8DXZN7mlGdQkLE2FaMo",
+  "followers": 298886,
+  "name": "The Gaslight Anthem",
+  "popularity": 58,
+  "genres": [
+    "heartland rock",
+    "new jersey hardcore",
+    "new jersey indie",
+    "new jersey punk",
+    "skate punk"
+  ],
+  "tracks": [
+    "4T1PtJLCbe7MIsvhQZURXL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9c"
+  },
+  "artist_id": "4662l1ZmSwzD5gDGF0I5uu",
+  "followers": 165,
+  "name": "Brusa y los Bombones de Murano",
+  "popularity": 6,
+  "genres": [],
+  "tracks": [
+    "0L8ImXvcfhwluCgFsB8GgJ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9d"
+  },
+  "artist_id": "7AGlWsIaI9UeK7XxvUDpcC",
+  "followers": 419,
+  "name": "Los Arroyenos",
+  "popularity": 15,
+  "genres": [
+    "villancicos"
+  ],
+  "tracks": [
+    "2rfxxLTpHsH0SAHW9DJbf8"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9e"
+  },
+  "artist_id": "1ga5jO5WHSc52U7aLHjgMu",
+  "followers": 4837,
+  "name": "Orly",
+  "popularity": 32,
+  "genres": [
+    "cuarteto",
+    "musica blumenauense"
+  ],
+  "tracks": [
+    "4Ym7LdTi0zbk3kda3UUHW1"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9f"
+  },
+  "artist_id": "37u2QUmBNw4I8SYy75mzfn",
+  "followers": 2663,
+  "name": "Orlando Vera Cruz",
+  "popularity": 26,
+  "genres": [
+    "chamame",
+    "folklore argentino"
+  ],
+  "tracks": [
+    "63hfNlQGNzQpDwildSZfGn"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba0"
+  },
+  "artist_id": "4okirS2wFnoVYH60wFbiuL",
+  "followers": 713,
+  "name": "José Angel Trelles",
+  "popularity": 17,
+  "genres": [],
+  "tracks": [
+    "2PLn4TSNoUofS7yg1vUkcU"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba1"
+  },
+  "artist_id": "2xbIkKN0Yzb14N9WTZWtD2",
+  "followers": 4381,
+  "name": "Las Primas",
+  "popularity": 24,
+  "genres": [],
+  "tracks": [
+    "196i04Q218so8RqnZsY5Bk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba2"
+  },
+  "artist_id": "53PMMY1sInP2hfK6TzIijL",
+  "followers": 33868,
+  "name": "Chebere",
+  "popularity": 42,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "3wJLiaao54fngKLWqPiWw7",
+    "43tibWHa3568icHSRt9k58",
+    "7j124o3B4oTZeUMpfu453M",
+    "4gyWRrd7oErUUqQNKE1Utz",
+    "6lobAMfpVoiO2pVFrF0pkM"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba3"
+  },
+  "artist_id": "3IprieiPDB9fKuhL75Shhw",
+  "followers": 1653,
+  "name": "Los Caimanes Santiagueños",
+  "popularity": 21,
+  "genres": [
+    "folclore santiagueno"
+  ],
+  "tracks": [
+    "0XxlscOEaMEhTJWnJTtXR1",
+    "0pjTtrHiN7E7Q9QcQvWiLc",
+    "5DlSTOUivHPlbmxYsPK7CL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba4"
+  },
+  "artist_id": "6h8PLh7ArvvIG7ZD5g32yu",
+  "followers": 14918,
+  "name": "La Secta",
+  "popularity": 26,
+  "genres": [
+    "puerto rican rock"
+  ],
+  "tracks": [
+    "5fnyLwfLjy06b8AKdy3mNy"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba5"
+  },
+  "artist_id": "09EcsyJqVbqPZRzwfs1pyc",
+  "followers": 17747,
+  "name": "Jorge Veliz",
+  "popularity": 31,
+  "genres": [
+    "chamame"
+  ],
+  "tracks": [
+    "4bXvVREVQ7KLecHhQYzXga",
+    "4KFJGKspruuRZfSGYBuXAn"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba6"
+  },
+  "artist_id": "4aCWTRWrh5lyIaZTVCP6ja",
+  "followers": 6084,
+  "name": "Logos",
+  "popularity": 30,
+  "genres": [
+    "argentine metal"
+  ],
+  "tracks": [
+    "5QVFOgHCV6rXkDXpJp0Wsr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba7"
+  },
+  "artist_id": "5SAeZRhgmJhgq196BR1Mna",
+  "followers": 9642,
+  "name": "Dúo Salteño",
+  "popularity": 31,
+  "genres": [
+    "folclore salteno",
+    "folklore argentino"
+  ],
+  "tracks": [
+    "0UFqmYkVvWIFDY4VrjDEJ1",
+    "58DXmtkrsRxfLoLiJ0utKs",
+    "7qWJ0cirjoRlYY4qyrVEcK",
+    "3iSkp3Yk2Eiw34ev6v38JY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba8"
+  },
+  "artist_id": "4R5IzlNSizG1oT8Gs4HH6k",
+  "followers": 54009,
+  "name": "Grupo Cali",
+  "popularity": 49,
+  "genres": [
+    "cumbia santafesina",
+    "cumbia villera"
+  ],
+  "tracks": [
+    "0a8jgI5IaMMmPC82GlsiDT",
+    "1s3vmN2vFiN6RLDp268bqV",
+    "44KbxAnyRpfMuDLeN4Uels",
+    "1Dp2L8HtcxVdVJlIUBi4oc",
+    "4VGpnmSjn7dmmwng3ED0Xe",
+    "4h1eEzkphsuP7VZhGdhrCJ",
+    "32UBCCIiJ6AVqpcrqP2wVP",
+    "78kge4ox8p14FWVfWqrapf",
+    "7HRTiUF721TP6lPBjMXHa5",
+    "0Yjs4dV82xl4GF63wrXm7i"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba9"
+  },
+  "artist_id": "2TbgthCBr5sAwMWqVz8Cf1",
+  "followers": 7356,
+  "name": "Los Boys",
+  "popularity": 28,
+  "genres": [],
+  "tracks": [
+    "55mNz5VLgLZPOuI8moMduD",
+    "2Lz76hqnBDxgcJxPFWX7Ej"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3baa"
+  },
+  "artist_id": "5QlBlgZQXTj4adeTRqPywe",
+  "followers": 712,
+  "name": "Los Bonys",
+  "popularity": 28,
+  "genres": [],
+  "tracks": [
+    "0z7SV9VHt7DOe7NQqwNRAI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bab"
+  },
+  "artist_id": "6JogLFS7BAeUUE7DBgOOVb",
+  "followers": 7329,
+  "name": "Jaime Torres",
+  "popularity": 30,
+  "genres": [
+    "charango",
+    "folclore jujeno",
+    "folklore argentino",
+    "world chill"
+  ],
+  "tracks": [
+    "4GFwnT8DWfm465bIaBWxOD",
+    "4HwjIJ2iLvk8dlnhGSUVVx"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bac"
+  },
+  "artist_id": "5U4f1gmVVLf0uhhcg0mJA9",
+  "followers": 14747,
+  "name": "Jorge Véliz y Los Santiagueños de Oro",
+  "popularity": 37,
+  "genres": [
+    "chamame"
+  ],
+  "tracks": [
+    "09GyJX9YToDJFbUyek7kty",
+    "4sjALJADMWwhhnW69H8t8n",
+    "5xDkqOKfoc51lKaWR2nyzD",
+    "6gYYGZfr2049NoNsbjrKmH",
+    "6egfqOkzgF4BejiFVZRhVZ",
+    "4tNINN3eZVJWx8CxedUG75"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bad"
+  },
+  "artist_id": "05aqPZGak6jQkKZHoXkO8E",
+  "followers": 2085,
+  "name": "Adrián Maggi",
+  "popularity": 28,
+  "genres": [],
+  "tracks": [
+    "0zL6voJ495HSO2MnYaJZkR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bae"
+  },
+  "artist_id": "35C2ZfgMovQotan3rNrYT3",
+  "followers": 6432,
+  "name": "Monchito Merlo",
+  "popularity": 31,
+  "genres": [
+    "chamame"
+  ],
+  "tracks": [
+    "2uICvrN0pWeUk1FAK5Y3PB",
+    "7sBr9fBWX2ro0LTHnUZQyk",
+    "0DfMxk5Mf0ivXNHYReJe1V"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3baf"
+  },
+  "artist_id": "0Ju8LutOzYuBpC3XtwcLZa",
+  "followers": 18307,
+  "name": "Fernando Bladys",
+  "popularity": 35,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "69GBTaOUrUbfFtgs5NrjZI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb0"
+  },
+  "artist_id": "4NbPIhaePRUz9iZxc9IvWa",
+  "followers": 23870,
+  "name": "Gary",
+  "popularity": 43,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "6wtYGDddR3utLsMcHtSPmX",
+    "2WJyEx6ZwHuG9q0ULbySXk",
+    "77gOkkT8DRUnWNfj92YUIA",
+    "17KmCrGE4bNq8F8GTq8247",
+    "1vFwiyxVN6wVRmQEOYXNU0",
+    "2fmCmqRXROHRVIegS0WerE",
+    "3nLfYkKdNwaZCdBhI8yI2A"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb1"
+  },
+  "artist_id": "4RWsSjLE6TMBwdYzHj2NiO",
+  "followers": 10424,
+  "name": "Sergio Galleguillo Y Los Amigos",
+  "popularity": 35,
+  "genres": [
+    "folklore argentino"
+  ],
+  "tracks": [
+    "1wSUeoaWT5MuyPfliZrYpI",
+    "5F1lIMyP7CQTlV6fZrYp5j",
+    "5CmcMR0LhzL8n6dD7P1am2",
+    "75vTPpt7cJUtStEu3lXNAB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb2"
+  },
+  "artist_id": "2qnTUTsuypizIuMwVM1ffR",
+  "followers": 6947,
+  "name": "Los Hermanos Cardozo",
+  "popularity": 28,
+  "genres": [
+    "chamame",
+    "folklore argentino"
+  ],
+  "tracks": [
+    "6myPU49XhJGyE95Ec22ked"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb3"
+  },
+  "artist_id": "2EIDNRLlK40vvt5EyhiwFE",
+  "followers": 12722,
+  "name": "Los Bonys",
+  "popularity": 31,
+  "genres": [],
+  "tracks": [
+    "75KPIxe0M0PnfNuwbKpkXE",
+    "5UComE5HSStrU6WkxijV1n"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb4"
+  },
+  "artist_id": "3SGdv7Nnxz36kYLYcSWuJf",
+  "followers": 5523,
+  "name": "Suna Rocha",
+  "popularity": 25,
+  "genres": [
+    "folklore argentino"
+  ],
+  "tracks": [
+    "3mvqXHClXJg09S59sD5MTZ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb5"
+  },
+  "artist_id": "4crE1FjbdIpLTdrbzCZmuS",
+  "followers": 12456,
+  "name": "Loquero",
+  "popularity": 36,
+  "genres": [
+    "argentine punk"
+  ],
+  "tracks": [
+    "4bKDdVkOwqM1Fk9cRItss3",
+    "5cOwiCOd1fVM8aLEZzb4Cn",
+    "7n428wb4zXP3TE2vz4peVG"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb6"
+  },
+  "artist_id": "1CPCudqABxMYzF2PFEfQme",
+  "followers": 24145,
+  "name": "Media Naranja",
+  "popularity": 37,
+  "genres": [
+    "cumbia villera"
+  ],
+  "tracks": [
+    "5BykxClsNqFLRijAf7sZRu",
+    "5512gKeAGzF3Qkj9JyrtBX",
+    "4u52pt70M84YOQ6iFi3aMC"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb7"
+  },
+  "artist_id": "0uITrMC16Eg9bbPu0PNfzk",
+  "followers": 14366,
+  "name": "Grupo Alegria de Santa Fe",
+  "popularity": 35,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "tracks": [
+    "2XkV8n37qwGI0qK0biSQ0h",
+    "6Vbc8vQ0W5nQvwIZEnUhrp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb8"
+  },
+  "artist_id": "1Sbn533a3TmseHmdYtGElm",
+  "followers": 8995,
+  "name": "Orellana Lucca",
+  "popularity": 43,
+  "genres": [
+    "folclore santiagueno",
+    "folklore nuevo argentino"
+  ],
+  "tracks": [
+    "5Fs4cdxzXm0DDtpZiulVik",
+    "7xcPOrHWvXbB18bHKd6bkQ",
+    "4jQ2fKNUCVMtUKyFSJGaeH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb9"
+  },
+  "artist_id": "1qo1zFHkGHoy8pSFFQkbtw",
+  "followers": 15470,
+  "name": "Los Guaraníes",
+  "popularity": 34,
+  "genres": [
+    "folclore salteno",
+    "folklore argentino"
+  ],
+  "tracks": [
+    "3gGZHrUnRiT6dOLjrZMblR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bba"
+  },
+  "artist_id": "137pHEZ9U76r4ouXTa6Bjc",
+  "followers": 14823,
+  "name": "Chanchi y Los Autenticos",
+  "popularity": 41,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "tracks": [
+    "08c3uA4n8HcMMj8zgTqAZK",
+    "03IoH7NmNDEXW7SSGj0ISS"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bbb"
+  },
+  "artist_id": "325zdFw59lq0YHEmd5rWtk",
+  "followers": 21299,
+  "name": "Ezequiel El Brujo",
+  "popularity": 43,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "tracks": [
+    "2VoXXbqULk6GZf0lhEi2bl",
+    "4W5PWx4nbZs2ewSBOCfRTZ",
+    "1UUJ9llquXbgipyUUoQqgc"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bbc"
+  },
+  "artist_id": "4YujyddKSDZt6gpAesPnEB",
+  "followers": 9745,
+  "name": "Kalama Tropical",
+  "popularity": 26,
+  "genres": [
+    "chamame"
+  ],
+  "tracks": [
+    "5ubZk8awFellg8WS0Jw2XY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bbd"
+  },
+  "artist_id": "7jrhpOLZv1IDPEUcIVYZ5Z",
+  "followers": 127,
+  "name": "Sexteto Cantábile",
+  "popularity": 33,
+  "genres": [],
+  "tracks": [
+    "25Pn9XovndfZ3jdXf1qa2R",
+    "5qoHAVOIZpo92GLy6Cq4vW"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bbe"
+  },
+  "artist_id": "6P7mWyfrVRNgrd5DWjgkAp",
+  "followers": 8737,
+  "name": "Los Majestuosos Del Chamamé",
+  "popularity": 36,
+  "genres": [
+    "chamame"
+  ],
+  "tracks": [
+    "1rfgUfeqqqvB8QnIJfr7rj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bbf"
+  },
+  "artist_id": "7tqwTqZQXmwtlvj4WdsGUe",
+  "followers": 36994,
+  "name": "Banda Express",
+  "popularity": 35,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "22aB6Mwslw0IbCkfQs4lhC",
+    "4qqlYBWAQg6V7OVgH44b6L"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc0"
+  },
+  "artist_id": "5V3p1FHktSmZSGyfvSGdhY",
+  "followers": 24147,
+  "name": "Villanos",
+  "popularity": 32,
+  "genres": [
+    "argentine rock",
+    "rock en espanol"
+  ],
+  "tracks": [
+    "51ujAnIRCpKM5ymBg91i2u"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc1"
+  },
+  "artist_id": "4fARNbsdisPYTZtwYzAayh",
+  "followers": 12717,
+  "name": "Simplemente Naguel",
+  "popularity": 39,
+  "genres": [
+    "cumbia santafesina",
+    "cumbia villera"
+  ],
+  "tracks": [
+    "4I17shszGarI3lEcneeEEK",
+    "1blhnIXhg3Bpt2qzVVxPRD",
+    "6Iodn1dtdHKjoctu6J48fE",
+    "0DFpicseIBlfhGrXKgo9qW"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc2"
+  },
+  "artist_id": "2qA6QJKyk9W627mEn65hob",
+  "followers": 16326,
+  "name": "Raúl Carnota",
+  "popularity": 34,
+  "genres": [
+    "folclore santiagueno",
+    "folklore argentino",
+    "nueva cancion"
+  ],
+  "tracks": [
+    "5BBV6SfWByHxjQjyByWcQw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc3"
+  },
+  "artist_id": "7FGAi3mSjLMsq6p8SErsTA",
+  "followers": 26842,
+  "name": "Cabezones",
+  "popularity": 38,
+  "genres": [
+    "argentine metal",
+    "argentine rock",
+    "latin metal",
+    "latincore",
+    "rock en espanol"
+  ],
+  "tracks": [
+    "2ZCmVIyuxGlF8MKyNMcL8Y",
+    "1RDKHa8uHT0e2HwXY9KsK0"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc4"
+  },
+  "artist_id": "17SdOua747pMkSrZFYlr2L",
+  "followers": 18136,
+  "name": "Expulsados",
+  "popularity": 35,
+  "genres": [
+    "argentine punk"
+  ],
+  "tracks": [
+    "5pG2M0EQRjTBaNcK1Ozoed"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc5"
+  },
+  "artist_id": "7Ky9MAWbIE0z5VtPSNiMvd",
+  "followers": 18619,
+  "name": "Guitarreros",
+  "popularity": 38,
+  "genres": [
+    "folclore salteno",
+    "folklore argentino"
+  ],
+  "tracks": [
+    "28m3HWrb2ehCMDF3Z75LM3",
+    "5vfL9E8anBE7ZPGPwVGhBY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc6"
+  },
+  "artist_id": "2803Kpv7qVYIAyKWfl2RNc",
+  "followers": 12122,
+  "name": "Los del Portezuelo",
+  "popularity": 39,
+  "genres": [
+    "folklore argentino"
+  ],
+  "tracks": [
+    "5ULPFMQ1rDkp8XsyqunJ5d",
+    "17rRg0d8CZMx9yccSNAEyl"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc7"
+  },
+  "artist_id": "0TLoZhTnP0vyp61bIO4FgF",
+  "followers": 11691,
+  "name": "Los Sacheros",
+  "popularity": 35,
+  "genres": [
+    "chamame",
+    "folklore argentino"
+  ],
+  "tracks": [
+    "5ZCOYgFHFfjZXE1kS5dMxs",
+    "23Xz4PcuQMPXw7uTXAIyja"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc8"
+  },
+  "artist_id": "4mG70wQ5qWBs9GogyP7WuM",
+  "followers": 18931,
+  "name": "La contrà",
+  "popularity": 37,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "tracks": [
+    "6SVfRk1V41tJm9MHzXTHHT",
+    "6X4fk1YMYQNIwDaVnVD3Ut",
+    "5l4vFZvA9YpHNPWfQJEoo0"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc9"
+  },
+  "artist_id": "7hY9Nctj1rismpSsCItWFC",
+  "followers": 7205,
+  "name": "Nacho Prado Y Daniel Campos",
+  "popularity": 40,
+  "genres": [
+    "folclore salteno",
+    "folklore argentino"
+  ],
+  "tracks": [
+    "18mg4rQOALlJsHL3gEAAzj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bca"
+  },
+  "artist_id": "6yX2GzaudljEEBKfMZpOXE",
+  "followers": 25556,
+  "name": "Coty Hernández",
+  "popularity": 49,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "tracks": [
+    "752j9FabixCNPWHU2nByil",
+    "2I4e5VF1SQvSrwbtvSlEoY",
+    "4hW1Bq82JYy5tvZLGSS4xQ",
+    "20DbqQ7SNfIbid1UG8LnVq"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bcb"
+  },
+  "artist_id": "0gxy0foaJsRc1tfpByJWCK",
+  "followers": 40415,
+  "name": "De La Gran Piñata",
+  "popularity": 39,
+  "genres": [
+    "argentine alternative rock"
+  ],
+  "tracks": [
+    "6KvM9hNOk3Sa7pknGBHHQp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bcc"
+  },
+  "artist_id": "5YcTv2UEkzSdBgDUlCHSya",
+  "followers": 4614,
+  "name": "El Suppe'r De Oro",
+  "popularity": 34,
+  "genres": [
+    "chamame"
+  ],
+  "tracks": [
+    "5EpqlFx0EaIQH0yBChXJ8R"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bcd"
+  },
+  "artist_id": "75mIeyYiajAsiAMo735gr7",
+  "followers": 19595,
+  "name": "Luz Mala",
+  "popularity": 31,
+  "genres": [
+    "cumbia villera"
+  ],
+  "tracks": [
+    "22wFBRQBtrmPLBjFTthvtd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bce"
+  },
+  "artist_id": "7fxj9VjDxGpHfOPEkgxm6e",
+  "followers": 47357,
+  "name": "Ale Ceberio",
+  "popularity": 39,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "7hIytqIz9AKgutgikzrQij",
+    "6gkkXS8MmLcjRjC3laEcCp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bcf"
+  },
+  "artist_id": "1zfAJtfJEpUvMiQxigYj57",
+  "followers": 38423,
+  "name": "Banda de Turistas",
+  "popularity": 37,
+  "genres": [
+    "argentine indie",
+    "argentine rock",
+    "latin rock"
+  ],
+  "tracks": [
+    "3HNapK04Tyu5HgSL9A1q8y"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd0"
+  },
+  "artist_id": "6zuShqSKzYP7ZPGMkMFhbL",
+  "followers": 78205,
+  "name": "Chipote",
+  "popularity": 45,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "1acvvVw1GV9sWBS5GEOhdR",
+    "63Zq5YXl1jIvK3bdP4gSrw",
+    "58sbUD66EPwkdLugHJjMb6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd1"
+  },
+  "artist_id": "0l3lrsagH8oE0CAkXdyNMI",
+  "followers": 8889,
+  "name": "El Turco Oliva",
+  "popularity": 35,
+  "genres": [],
+  "tracks": [
+    "3DVEkLep87N6TM6GffOwa8"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd2"
+  },
+  "artist_id": "1PvGlWWeeIvW3xeTjAZxda",
+  "followers": 7286,
+  "name": "La Bruja Salguero",
+  "popularity": 32,
+  "genres": [
+    "folclore jujeno",
+    "folklore argentino",
+    "folklore nuevo argentino"
+  ],
+  "tracks": [
+    "4HImzTUgpgjZP5epAww5c7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd3"
+  },
+  "artist_id": "59OheJsvimLlXWvuL9j7Df",
+  "followers": 18409,
+  "name": "Bruno Arias",
+  "popularity": 38,
+  "genres": [
+    "folclore jujeno",
+    "folklore argentino",
+    "folklore nuevo argentino"
+  ],
+  "tracks": [
+    "4HImzTUgpgjZP5epAww5c7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd4"
+  },
+  "artist_id": "625kGlmcaDymYRSEawXlI9",
+  "followers": 16584,
+  "name": "Pitty Murua",
+  "popularity": 41,
+  "genres": [],
+  "tracks": [
+    "3adR8DLAx96wdQ9yvbP8Li",
+    "4MM2hXSpFKcKsLOpnzvPN2"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd5"
+  },
+  "artist_id": "4L0qUjWxrWG3vjYu1sasHN",
+  "followers": 42968,
+  "name": "Lisandro Marquez",
+  "popularity": 41,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "4CIYRfPAUpiCl9OdVu9zcc"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd6"
+  },
+  "artist_id": "7v8veUQH2fro2QjkOKS7vB",
+  "followers": 14544,
+  "name": "Coty",
+  "popularity": 40,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "tracks": [
+    "4p7WDW0Mh0GmDSmqF8e4wi"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd7"
+  },
+  "artist_id": "2tt7weNE75ITTS9gLyAmt4",
+  "followers": 44207,
+  "name": "DJ Liendro",
+  "popularity": 44,
+  "genres": [],
+  "tracks": [
+    "1d5hx2nX2Nr87orTqBVR9T"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd8"
+  },
+  "artist_id": "5M5yM2s8dqrvy4y0AJ10Z4",
+  "followers": 72894,
+  "name": "Emus DJ",
+  "popularity": 46,
+  "genres": [
+    "cumbia pop"
+  ],
+  "tracks": [
+    "4eBnQjcQJUh6KPPm1MJr9o"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd9"
+  },
+  "artist_id": "5ts3iw277wUG2DUKnqktAD",
+  "followers": 3526,
+  "name": "Monada",
+  "popularity": 45,
+  "genres": [],
+  "tracks": [
+    "4vEarTrAW9KEo3Pbu3vuRw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bda"
+  },
+  "artist_id": "7dlkBH23ERFXxuNoMHq94Y",
+  "followers": 188452,
+  "name": "Q' Lokura",
+  "popularity": 65,
+  "genres": [],
+  "tracks": [
+    "4zBUkGnrXrN32qp1Yb2wWm",
+    "0HvKiqOxkcyp1Thijqd4Ha",
+    "0BIBTk9Ztk1a23EFDeL12O",
+    "55jTBSOQ8YKvIYD7XQ6mjy",
+    "5cH2zkVZikF2sHRF0UAmLD",
+    "2UDSQryg2Htz1ZS4YjWOUN",
+    "7iaqnavZDzqMgpBSxW36Sf",
+    "3uCeMxxuMTwQk4ps4egWEf",
+    "0qousYiYP5waNyufKwhb3O",
+    "1ZgViWGusV8yqIUiyXkNN0",
+    "7ByRoLEDta9qeU2dqubei2",
+    "4hUkPGHP86mERlxYzZXF6o"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bdb"
+  },
+  "artist_id": "1pmmkE3BIdh9pxHecU09Oo",
+  "followers": 84781,
+  "name": "La banda de Carlitos",
+  "popularity": 40,
+  "genres": [
+    "cuarteto"
+  ],
+  "tracks": [
+    "0MkVMRIAidLA3j4TjCOcFe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bdc"
+  },
+  "artist_id": "3SdvCDQe1arGttSS9yMQTl",
+  "followers": 525,
+  "name": "Walter Salinas",
+  "popularity": 43,
+  "genres": [],
+  "tracks": [
+    "0qousYiYP5waNyufKwhb3O"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bdd"
+  },
+  "artist_id": "0SJy1J0FgP21lbvGBMKT8H",
+  "followers": 117650,
+  "name": "Camila Moreno",
+  "popularity": 48,
+  "genres": [
+    "chilean indie",
+    "chilean rock",
+    "latin rock",
+    "nueva cancion",
+    "nueva trova chilena",
+    "trova"
+  ],
+  "tracks": [
+    "6EYVI4zwxzP3EnViyiI5x0",
+    "1kNd5W7vGFZDCJi796nnkt",
+    "5dO3GQSHnc5vU5BWDmhNPX",
+    "688Ojx8ItjKB0GrbEYEany",
+    "02fBFDWJa1IbDAPbab0i3S",
+    "0WX1jsA8c7v2jrLBxsWmhL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bde"
+  },
+  "artist_id": "6hC3tI1R7sHgplEYPviFZY",
+  "followers": 342,
+  "name": "Carlos Acuña",
+  "popularity": 14,
+  "genres": [
+    "vintage tango"
+  ],
+  "tracks": [
+    "7AdLt5mAhUStautnKqWbiA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bdf"
+  },
+  "artist_id": "2SlcrECcImhbvFUJcp5GlN",
+  "followers": 2828,
+  "name": "Oliver Haidt",
+  "popularity": 33,
+  "genres": [
+    "discofox",
+    "schlager",
+    "volksmusik"
+  ],
+  "tracks": [
+    "6VN5kDFU6FizZYZRUxbSVp",
+    "7sB4OvcwUo8dmG3CLXlXZa"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be0"
+  },
+  "artist_id": "6sNHXRLCirFkzNYkAXg4Zq",
+  "followers": 6472,
+  "name": "Jana",
+  "popularity": 41,
+  "genres": [
+    "turbo folk"
+  ],
+  "tracks": [
+    "1IkUzegzio3Uk0QxYmnfJY",
+    "7zc2BJ8cXyqa1iZOMl0ArT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be1"
+  },
+  "artist_id": "3nAt447uifFrfj9s25bPo5",
+  "followers": 245,
+  "name": "Amadeus",
+  "popularity": 29,
+  "genres": [],
+  "tracks": [
+    "4Yj9JIIYsmZ05ueJPS0em0"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be2"
+  },
+  "artist_id": "0tgeIciWi8X9H6taJYRu0o",
+  "followers": 45278,
+  "name": "Mono & Nikitaman",
+  "popularity": 45,
+  "genres": [
+    "german reggae"
+  ],
+  "tracks": [
+    "0mILaPWFxUW8UWzyR1Vcop",
+    "1UAjCbQfrW8CGpap0zCBeL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be3"
+  },
+  "artist_id": "41U5QueLMyYyJ3Hoe4kKX4",
+  "followers": 30048,
+  "name": "Gurrumul",
+  "popularity": 44,
+  "genres": [
+    "australian indigenous"
+  ],
+  "tracks": [
+    "1KNHSeEOgrd1tuUlEEHAI9",
+    "3oTqeCB3j5Yk1PkCWbRyyj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be4"
+  },
+  "artist_id": "2tDVKS41XWT3vvy4A3ZbcV",
+  "followers": 52653,
+  "name": "Gisbert Zu Knyphausen",
+  "popularity": 47,
+  "genres": [
+    "german indie",
+    "german indie folk",
+    "german pop",
+    "german rock",
+    "german singer-songwriter",
+    "liedermacher"
+  ],
+  "tracks": [
+    "1d7jHTOtrZ9Myiee3cOGLd",
+    "2c9NNuOGFS3L9QOs0RdB9M",
+    "7tkLHTBnEHE1qqWdAt2FPD"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be5"
+  },
+  "artist_id": "7jy0nL3F5ehHJxXYMBImkk",
+  "followers": 100379,
+  "name": "Frittenbude",
+  "popularity": 46,
+  "genres": [
+    "antideutsche",
+    "elektropunk",
+    "german indie",
+    "german pop",
+    "german rock"
+  ],
+  "tracks": [
+    "1oKpxxe1L6YdriO8SnV6I1",
+    "7jI02mCFkOSivg3NjomHcG"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be6"
+  },
+  "artist_id": "01eNVgZ9dzR28mpouhde9h",
+  "followers": 6495,
+  "name": "Matty Valentino",
+  "popularity": 47,
+  "genres": [
+    "discofox",
+    "partyschlager"
+  ],
+  "tracks": [
+    "4txoYsjsBhES9FKOMqrJeE",
+    "7gJc9SPshSHnLSqz2d0ETV"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be7"
+  },
+  "artist_id": "1yyVo8VBUjIsROi57j7UIh",
+  "followers": 28517,
+  "name": "Fiva",
+  "popularity": 41,
+  "genres": [
+    "austrian hip hop"
+  ],
+  "tracks": [
+    "2KwBwm5Vxg5h9NNXMqwIDR",
+    "6brxbAHE4bzueqwQLnb3no",
+    "6FBaaxhbZkdP9ym0EK991X",
+    "0NPi54rLfhFhfFNUwWJv4Z",
+    "2N6hMzJBaFLQl9uYmhrEhr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be8"
+  },
+  "artist_id": "41LLNWUptvfbQ9Q7oCefmg",
+  "followers": 423673,
+  "name": "Genetikk",
+  "popularity": 64,
+  "genres": [
+    "christlicher rap",
+    "deep german hip hop",
+    "german hip hop"
+  ],
+  "tracks": [
+    "7u9ZYnwIYRJAS587tSlM4j",
+    "2Nls307Gx84LacdCj7Ql7L",
+    "64Iu1YYGfIkMQWnf0LJHMD",
+    "5IvFgLGsq0LeEf09FuYfA2",
+    "7MWEA1GPJLhsWbA542WDw4",
+    "41AZ9AbtCEjIRSHdyCKqU2",
+    "1Y9YK6H1fopLOZfJdOZMbs"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be9"
+  },
+  "artist_id": "3JE0uoggWwwYG6rSSJk0HN",
+  "followers": 102338,
+  "name": "FIL BO RIVA",
+  "popularity": 56,
+  "genres": [
+    "german indie"
+  ],
+  "tracks": [
+    "6hvpwZPS3x3XSv57qYWiUR",
+    "5veNqlivxPp7aHILe5d05a",
+    "6ajWRDvAfP9ZYZf8x3A13P"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bea"
+  },
+  "artist_id": "4sOLJi96MhdlMv5Iz9YZT9",
+  "followers": 36740,
+  "name": "Sean Koch",
+  "popularity": 52,
+  "genres": [
+    "south african alternative",
+    "south african pop",
+    "south african rock"
+  ],
+  "tracks": [
+    "6IWBimM3g5hEA8gUx7qCa1",
+    "1dIaJHPmolbloqp9ZYW5tj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3beb"
+  },
+  "artist_id": "74yjU6gHx05PeHAokao6DS",
+  "followers": 15457,
+  "name": "NUGAT",
+  "popularity": 53,
+  "genres": [
+    "german trap",
+    "indie deutschrap"
+  ],
+  "tracks": [
+    "0LqntLixTGtckvBqd0AIUk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bec"
+  },
+  "artist_id": "1ZHJdXXtKnmUh2qRN4LmbS",
+  "followers": 235506,
+  "name": "Ben Zucker",
+  "popularity": 59,
+  "genres": [
+    "german pop",
+    "german rock",
+    "schlager"
+  ],
+  "tracks": [
+    "6OniQ6SfLGKJkL0Wn5nNBL",
+    "2g8pMDC1lck27f85wSnO13"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bed"
+  },
+  "artist_id": "53xt77SWSCBxurJQWuxUkM",
+  "followers": 16942,
+  "name": "Johnny O'Keefe",
+  "popularity": 31,
+  "genres": [
+    "australian rock"
+  ],
+  "tracks": [
+    "7m3aXBcj8su4xuEb8AQqQ5",
+    "2fSaedNUcRODp2EZIrIgDq",
+    "3A8Ps651OBJSdWlGCNSYC5",
+    "6TJILqAGEMQgAnjBTgIA7T",
+    "7e374TpBHvZUrWBDfvy4vG",
+    "2I4ey4rBBS7dnI7N6ySdHQ",
+    "78c4poyKZl3AqJ0nGUcPLR",
+    "7EfrXxWPnAllvtzl9EH9mx",
+    "2OCfcmz6pNceTXBmTcYQ8C",
+    "3hbSHyWhYOIjeDtFRVewMY",
+    "41QcfAYw7UAAOblcPpNOo8",
+    "79pxWBeMFfK7K9mSte2iDG",
+    "7ki4bimAxUVuG07WfAZBbw",
+    "0hIBQi9wWGlO2qOuulU3ZX",
+    "6se8BoMOzh9nTL035WSdwc"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bee"
+  },
+  "artist_id": "7DZDByO8dEuOb1V5JcJPfI",
+  "followers": 12965,
+  "name": "Brian Cadd",
+  "popularity": 32,
+  "genres": [
+    "australian americana",
+    "australian rock"
+  ],
+  "tracks": [
+    "7ixkl0EfRPwRoDUkklhFsa",
+    "7Ef8oT4zNEmi46SONvZn5G"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bef"
+  },
+  "artist_id": "3JBecGeEHHqEDjxgjacmkv",
+  "followers": 4660,
+  "name": "Vince Jones",
+  "popularity": 27,
+  "genres": [
+    "australian jazz"
+  ],
+  "tracks": [
+    "3za8AQ1Whgze8gwqIT0Dpq",
+    "1ELxdREem8K2hCYF3DGwIw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf0"
+  },
+  "artist_id": "3orc30EUucavid98kNtMEf",
+  "followers": 16913,
+  "name": "Cosmic Psychos",
+  "popularity": 36,
+  "genres": [
+    "australian alternative rock",
+    "australian garage punk",
+    "australian psych"
+  ],
+  "tracks": [
+    "7HaiCHdRnITeQg9IepfxSC"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf1"
+  },
+  "artist_id": "6vnGscqt7xfOycanuJEqq9",
+  "followers": 4474,
+  "name": "Kev Carmody",
+  "popularity": 29,
+  "genres": [
+    "australian indigenous"
+  ],
+  "tracks": [
+    "1rPOVzv1LEXFhR8WLVnN9t",
+    "2sIigOeROPCB7E7uZpGXWy",
+    "4ymJqjpgzZUyNSWAShEBMr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf2"
+  },
+  "artist_id": "1gqScLJ95gthFQ3TavIKSk",
+  "followers": 11736,
+  "name": "TISM",
+  "popularity": 37,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "0br5uALQhhXLZqXOLlUlRG",
+    "7MS0Vwg41l1I4KtlrNOLn7",
+    "7kOMpFK3lFZbB3e06XccF3",
+    "22rKejpnd5nNs80PINE0f8",
+    "2bRgvNyVsN2IDeuQVpjCYP",
+    "4J1hpKuHG8wIBrngRrglLk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf3"
+  },
+  "artist_id": "7Ljxd3OR0Lxj3MO8gxrKVE",
+  "followers": 707,
+  "name": "Franciscus Henri",
+  "popularity": 33,
+  "genres": [
+    "children's folk"
+  ],
+  "tracks": [
+    "6JbkIWufoBc0eDRO8XLSpk",
+    "7GZ19FXuWBonqvWyR4OEGc",
+    "0DH7AzEaqmuZJ02GNnMjJM",
+    "4IpevnoDacrSzKuUkd0bIT",
+    "7tuXNdFlbBwL80s78VZCn9",
+    "63tgDMlTTEXscmmTowT6nw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf4"
+  },
+  "artist_id": "09NEIWHdaWneBWsjYdDnwz",
+  "followers": 16676,
+  "name": "Custard",
+  "popularity": 35,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "2WheuVAKcZsQOZREbYtMvm",
+    "5ISdF6s5tsNkPEi0iINSib",
+    "3dk9yC7HFN9xosS0JVPH4o",
+    "6jrQpctf9Fg3btO1I7qX7X",
+    "2Q6hEaDXzqB49Zhk8oCWT1"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf5"
+  },
+  "artist_id": "5uKeKhwXi2w5cXdtoSaqjz",
+  "followers": 81801,
+  "name": "The Waifs",
+  "popularity": 48,
+  "genres": [
+    "australian alternative rock",
+    "australian rock",
+    "indie folk"
+  ],
+  "tracks": [
+    "1mrI3gFVVTPArX1y1miKkP",
+    "2uoxXaadBpSWEmIXSaVMYi",
+    "54aDjRpdM3EQUEkFolmsAP",
+    "7HYLU7M7kYRSSbiuvKye49",
+    "3eCOyxavbi8oPpXrthEcxJ",
+    "3LL8m2SsryZeNONRoJi0Lj",
+    "2S3TJmmhunWmwQwFmBAffL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf6"
+  },
+  "artist_id": "3RIsSUoG3tw0S19WabHxiM",
+  "followers": 37306,
+  "name": "Troy Cassar-Daley",
+  "popularity": 44,
+  "genres": [
+    "australian country",
+    "australian pop",
+    "australian rock"
+  ],
+  "tracks": [
+    "0MJNB1nR44ecRegDWpZev0",
+    "6idhj2Z472bI7V5OFBm1pr",
+    "7fyKM08UEosHuJCktaBSvt"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf7"
+  },
+  "artist_id": "0n9GlXRDsFC1OQutjpiw81",
+  "followers": 1455,
+  "name": "Neil Murray",
+  "popularity": 29,
+  "genres": [
+    "bush ballad"
+  ],
+  "tracks": [
+    "4GJorpNVRxPdnJs955Dysi"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf8"
+  },
+  "artist_id": "5aVKsCIE4jsTKODYwjVVLK",
+  "followers": 29652,
+  "name": "Machine Gun Fellatio",
+  "popularity": 39,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "tracks": [
+    "2xf9nTxHbWa2qSjfqtUcXJ",
+    "5KObYGm2eRzWCkpbIlK71d",
+    "02cC87YyLKhCQjU8IH1Frm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf9"
+  },
+  "artist_id": "56CaLNpHJAZY0MRw6S5DMB",
+  "followers": 332,
+  "name": "Sean O'Boyle",
+  "popularity": 41,
+  "genres": [
+    "australian children's music"
+  ],
+  "tracks": [
+    "37t5r7q0Cz2FJTH77O3UCx",
+    "6cWDM5a0dUSuFiAyYbJ4OX",
+    "70TpFLy76852OostBB2pYx"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bfa"
+  },
+  "artist_id": "0kns2X0IFTXafgOGd2IlKJ",
+  "followers": 44220,
+  "name": "The Butterfly Effect",
+  "popularity": 41,
+  "genres": [
+    "australian alternative rock"
+  ],
+  "tracks": [
+    "0nQxVi30vSdQcu3x0uFfbQ",
+    "0R8SH6rCPXu4MTabtWN6G0",
+    "0pR3wpFOtoIRhsWyhqOdfY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bfb"
+  },
+  "artist_id": "42XeVHEwXlejTSpz3lU0Ia",
+  "followers": 34817,
+  "name": "Adam Brand",
+  "popularity": 47,
+  "genres": [
+    "australian country",
+    "australian pop",
+    "classic australian country"
+  ],
+  "tracks": [
+    "6h6lmoL3DyP2oujHiV02CI",
+    "5eJCHC6NaH5pXHqSu6Kdrk",
+    "2QWEe3dQkKiGoTmptw3js1",
+    "24I0oYcIGNr9agujdOQ12B"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bfc"
+  },
+  "artist_id": "3h18aXqdmm2F13t6LIbTpq",
+  "followers": 33717,
+  "name": "Little Birdy",
+  "popularity": 37,
+  "genres": [
+    "australian alternative rock",
+    "australian rock",
+    "perth indie"
+  ],
+  "tracks": [
+    "2oDbNu0S9oaZoItnUT6vgO",
+    "2g381K6Sdvf4RYNsfdCLKh",
+    "1wCuEOXAG7miRiPMDBh1iL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bfd"
+  },
+  "artist_id": "14ERybNQCYthuN4NHM5uVe",
+  "followers": 21624,
+  "name": "Butterfingers",
+  "popularity": 40,
+  "genres": [
+    "australian alternative rock",
+    "australian hip hop",
+    "australian underground hip hop"
+  ],
+  "tracks": [
+    "6vQJrU2AxoRRgkzIeH8zo1",
+    "5PdUFOY5XmebdMFYNAUlpP",
+    "2AXmW1kCJWjAvuzHqASJ0E",
+    "5nikrNjcpPyofwkTwrtGC3"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bfe"
+  },
+  "artist_id": "21wuAm9OFJEeN7h3EozO0r",
+  "followers": 23859,
+  "name": "Kisschasy",
+  "popularity": 42,
+  "genres": [
+    "aussie emo",
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "tracks": [
+    "7HDkrZUhWd4539BGLQgcRf",
+    "1i7fXPo9EG1wNfXC3VrV91",
+    "39IA9GoPnfM9ZNQVoekKXh",
+    "2VNTtjTOgs4fuPFhgjQU3e"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bff"
+  },
+  "artist_id": "4ajzEXRIqw9kvEQQR4femH",
+  "followers": 19826,
+  "name": "Anthony Callea",
+  "popularity": 35,
+  "genres": [
+    "australian pop",
+    "australian talent show"
+  ],
+  "tracks": [
+    "2r9LMUnfsxtDqIZF8ByZ8n"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c00"
+  },
+  "artist_id": "0RaO9p4AomXaVUXzV8SPVW",
+  "followers": 15412,
+  "name": "Faker",
+  "popularity": 41,
+  "genres": [
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "tracks": [
+    "3PjKoeIjpJVTN92y69NvD2",
+    "2HwlvOkwACOGFySnp16b9l",
+    "5Dw7Va6ij1yIh6tyMRpmLC"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c01"
+  },
+  "artist_id": "1F9bBR1SWdeGnIztqAxQVO",
+  "followers": 27219,
+  "name": "The Sunny Cowgirls",
+  "popularity": 41,
+  "genres": [
+    "australian country",
+    "classic australian country"
+  ],
+  "tracks": [
+    "2BvMgmJfX93gDxhi3rxAwj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c02"
+  },
+  "artist_id": "2j9Ronn6pPSxcsqnDbVGpZ",
+  "followers": 47525,
+  "name": "Urthboy",
+  "popularity": 42,
+  "genres": [
+    "australian hip hop",
+    "australian indie",
+    "australian underground hip hop",
+    "conscious hip hop"
+  ],
+  "tracks": [
+    "4u3h3XhLpN6d7TZZ7DW1OR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c03"
+  },
+  "artist_id": "3N9qpKjXarCt5AIZRCeqr8",
+  "followers": 95989,
+  "name": "Seth Sentry",
+  "popularity": 51,
+  "genres": [
+    "australian hip hop",
+    "australian indie",
+    "australian trap",
+    "australian underground hip hop"
+  ],
+  "tracks": [
+    "5eaAAviFXWibadcqCBSTG7",
+    "3bxnRKMXMS47tztLLpxxVg",
+    "0zzKIjDvsUDMyPlpEMQvoi",
+    "17vBtPHUd87QA3n15dM2VL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c04"
+  },
+  "artist_id": "05STafdfQBBQIV9duONwod",
+  "followers": 18765,
+  "name": "Children Collide",
+  "popularity": 39,
+  "genres": [
+    "australian alternative rock",
+    "australian garage punk",
+    "australian indie",
+    "australian indie rock"
+  ],
+  "tracks": [
+    "6PeWqpOSAd2IOBUa3ZWlgt",
+    "4eLkfHynkLVScVzv4wmPyk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c05"
+  },
+  "artist_id": "384DhgGNBZ91pyVJF61u18",
+  "followers": 29412,
+  "name": "Gyroscope",
+  "popularity": 41,
+  "genres": [
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "tracks": [
+    "6hRoSJ3zFVLS20eMlm5UxI",
+    "05YvAxYqhW3ElFVSNjdkay",
+    "1AcsmpZBgAMNrzvB20GmI9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c06"
+  },
+  "artist_id": "11PYyk3kBXjDIFHiCc0psS",
+  "followers": 23173,
+  "name": "Paul Dempsey",
+  "popularity": 38,
+  "genres": [
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "tracks": [
+    "7gFYlnip4bR9a98s52xE9Y"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c07"
+  },
+  "artist_id": "0EdNPfEHC714LHuN0NPIyU",
+  "followers": 13426,
+  "name": "Short Stack",
+  "popularity": 39,
+  "genres": [
+    "australian pop"
+  ],
+  "tracks": [
+    "532HJgeWZQIGef2hXD6iLd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c08"
+  },
+  "artist_id": "3jEg5HvT2cuJQDjwjZxTb0",
+  "followers": 27986,
+  "name": "Timomatic",
+  "popularity": 41,
+  "genres": [
+    "australian pop"
+  ],
+  "tracks": [
+    "0Q91cgw4SYxKrXvTh6FRxc",
+    "6na807uSbIS0E2GUL1d4HL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c09"
+  },
+  "artist_id": "4ETXyV9H1p2P1XYgXXTjiO",
+  "followers": 23662,
+  "name": "Busby Marou",
+  "popularity": 44,
+  "genres": [
+    "australian country",
+    "australian indie",
+    "australian indigenous",
+    "australian pop"
+  ],
+  "tracks": [
+    "4a76N7W47CU6JVMcpDYQuO"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0a"
+  },
+  "artist_id": "1r6nvWvnqJYcm8kW3cX1zQ",
+  "followers": 8187,
+  "name": "Justine Clarke",
+  "popularity": 44,
+  "genres": [
+    "australian children's music",
+    "children's folk",
+    "children's music"
+  ],
+  "tracks": [
+    "4zR7Vs5v3AmgBrO9fEoSs2"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0b"
+  },
+  "artist_id": "2zZLuLb5pslOJzeVCnnBQi",
+  "followers": 2104,
+  "name": "Jay Laga'aia",
+  "popularity": 42,
+  "genres": [
+    "australian children's music",
+    "children's music",
+    "preschool children's music"
+  ],
+  "tracks": [
+    "4EjIBfGNzYJUQCxQ7gSZlk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0c"
+  },
+  "artist_id": "0RCHY4NGqCJ5GLWCYz2OiI",
+  "followers": 29020,
+  "name": "#1 Dads",
+  "popularity": 48,
+  "genres": [
+    "australian indie"
+  ],
+  "tracks": [
+    "08iWX11Pwi89iPstV5WZE4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0d"
+  },
+  "artist_id": "6pOtVlJugMBAdUU8OU1xDe",
+  "followers": 9611,
+  "name": "Ainslie Wills",
+  "popularity": 50,
+  "genres": [
+    "melbourne indie"
+  ],
+  "tracks": [
+    "08iWX11Pwi89iPstV5WZE4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0e"
+  },
+  "artist_id": "4R3mzuQZhfwDkjdE1wx31O",
+  "followers": 19975,
+  "name": "Carmada",
+  "popularity": 39,
+  "genres": [
+    "aussietronica"
+  ],
+  "tracks": [
+    "46dEp5uZy65FLjRgVgxuiF"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0f"
+  },
+  "artist_id": "1SFz3S9eSUTc49ysstadiO",
+  "followers": 75205,
+  "name": "Boo Seeka",
+  "popularity": 52,
+  "genres": [
+    "aussietronica",
+    "australian indie",
+    "australian pop"
+  ],
+  "tracks": [
+    "5GeIdhQ2HZ86I9HsQwvRAP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c10"
+  },
+  "artist_id": "1ZcnsSFqWusWlRK01vKE6b",
+  "followers": 59414,
+  "name": "Montaigne",
+  "popularity": 56,
+  "genres": [
+    "australian indie",
+    "australian pop"
+  ],
+  "tracks": [
+    "1RLCci3EUAH9t1spVptRWQ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c11"
+  },
+  "artist_id": "34sQ4BJAwfwQsn9OgJtIzj",
+  "followers": 13761,
+  "name": "The Potbelleez",
+  "popularity": 38,
+  "genres": [
+    "aussietronica",
+    "australian dance",
+    "australian house"
+  ],
+  "tracks": [
+    "3XC7jqT27zQWdesY2rbwMf"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c12"
+  },
+  "artist_id": "4mLYW48jy9Pwv6KpT74Evf",
+  "followers": 48447,
+  "name": "Big Scary",
+  "popularity": 45,
+  "genres": [
+    "australian indie",
+    "indietronica"
+  ],
+  "tracks": [
+    "7dXpZydn3nVqwyXG7l1AMk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c13"
+  },
+  "artist_id": "4zOw0E0NA7B4lIYyc3XNt5",
+  "followers": 44894,
+  "name": "Kingswood",
+  "popularity": 44,
+  "genres": [
+    "australian indie"
+  ],
+  "tracks": [
+    "6YKo8apCHPODSwnTiZTTV5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c14"
+  },
+  "artist_id": "7Fe4vD5WyjtFxlxSO0d7lP",
+  "followers": 34099,
+  "name": "Complete",
+  "popularity": 49,
+  "genres": [
+    "australian underground hip hop",
+    "west australian hip hop"
+  ],
+  "tracks": [
+    "7KTLZDTOrszIj4oJbLsvBo"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c15"
+  },
+  "artist_id": "0s2ssiNRVz36nGW8sAv1wI",
+  "followers": 1375,
+  "name": "Paul Hörbiger",
+  "popularity": 20,
+  "genres": [
+    "vintage schlager"
+  ],
+  "tracks": [
+    "1ocBmkMhkRXNUIJ0mp3nON",
+    "7vDi7OgouojuKSJxMw8Y5d",
+    "2KMPkYQCvsk3Pp1v6xrgqS",
+    "1NqQRJWinJCHx2z6xGGCrE",
+    "6rfM5zrKIcKlvmOt99GQNL",
+    "4ut6kdU0bKGYArff4bHisg"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c16"
+  },
+  "artist_id": "72Iirq67NwcvcvgjPpiabj",
+  "followers": 1691,
+  "name": "Hans Moser",
+  "popularity": 23,
+  "genres": [
+    "austropop",
+    "vintage schlager"
+  ],
+  "tracks": [
+    "1ocBmkMhkRXNUIJ0mp3nON",
+    "7vDi7OgouojuKSJxMw8Y5d",
+    "2KMPkYQCvsk3Pp1v6xrgqS",
+    "1NqQRJWinJCHx2z6xGGCrE",
+    "6rfM5zrKIcKlvmOt99GQNL",
+    "4ut6kdU0bKGYArff4bHisg",
+    "0RJwaFTE7ZO26cYf4GVAMj",
+    "1QxzMwECNoNOtZ9FiD7oIe",
+    "7M6LrNbmwG6OBGI541jVpo"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c17"
+  },
+  "artist_id": "02eUZzLCjVzLteitetsffB",
+  "followers": 6957,
+  "name": "Gert Steinbäcker",
+  "popularity": 34,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "3J4A9Wf20TTTHXNLQIjWPG",
+    "1Gavuh4GwzGZdTwNtHvwrl",
+    "2YWcSxdEsCx2omQCT0sM4m",
+    "6jClPAl7Fv7BuDG7Iwj2z1",
+    "1KUJ8tLZcz2iwjlRHJuGKm",
+    "6wdQCuoW3s3AzltxbCY31p",
+    "09oXcP4KKFb5ahwU0Z6hSe",
+    "1CmOkS3yC3CJgCeQEZO8ZT",
+    "5SlI8R1Yv2rVFxcrV0pJ3i"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c18"
+  },
+  "artist_id": "0vr6IcFPFgjLKLUNPDlWmS",
+  "followers": 16010,
+  "name": "PeterLicht",
+  "popularity": 40,
+  "genres": [
+    "cologne indie",
+    "german indie",
+    "german rock",
+    "liedermacher"
+  ],
+  "tracks": [
+    "75jSpwHDakoTAR9oZwU2mI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c19"
+  },
+  "artist_id": "55PFCVxZdhFTclW84nNMIJ",
+  "followers": 17664,
+  "name": "Seer",
+  "popularity": 40,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "2cOhurM2xSmueK05pritY3",
+    "717WfrL8UHsFY0Z0t8vQV9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1a"
+  },
+  "artist_id": "39q8IdEh1G6zNMqNQFVhzG",
+  "followers": 2217,
+  "name": "Militärmusik Tirol",
+  "popularity": 36,
+  "genres": [
+    "blaskapelle",
+    "blasmusik",
+    "musikkorps"
+  ],
+  "tracks": [
+    "7IbkX8xZe1oRhm7bffTSLL",
+    "3JiM1Amc7Ek9wiKI1N0uKT",
+    "2XrpIyslcFynjjXFVH0X09",
+    "4P9T4xi0EvD3ZJM8kACzkn"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1b"
+  },
+  "artist_id": "4FL4X4J4kcvOG7d6V4r3PX",
+  "followers": 23326,
+  "name": "Die jungen Zillertaler",
+  "popularity": 42,
+  "genres": [
+    "classic schlager",
+    "partyschlager",
+    "schlager",
+    "volksmusik",
+    "zillertal"
+  ],
+  "tracks": [
+    "2IjeymO0qgP0FU1qa4UXg4",
+    "4j519BYe2oplfAkKgovJo8",
+    "33Un46VhkIKlAwIoqnwfVO",
+    "6Fp4VpI48xFrHseasr6ix2"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1c"
+  },
+  "artist_id": "3z4aXIXMPnlSsk9zJFqmEh",
+  "followers": 1944,
+  "name": "Jonina",
+  "popularity": 39,
+  "genres": [
+    "kindermusik"
+  ],
+  "tracks": [
+    "3ea9o5sfJIOKdEQ72aFBMu"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1d"
+  },
+  "artist_id": "4XL2VdzL4Op5RMAWKxB3EY",
+  "followers": 4557,
+  "name": "Skero",
+  "popularity": 34,
+  "genres": [
+    "austrian hip hop"
+  ],
+  "tracks": [
+    "6Xm9gOTPG3Vm0a4sxb13i8"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1e"
+  },
+  "artist_id": "0nSloWzkGWXwj1v8nOI0Ma",
+  "followers": 45192,
+  "name": "Teesy",
+  "popularity": 51,
+  "genres": [
+    "german pop",
+    "german r&b"
+  ],
+  "tracks": [
+    "5OOzOOSu0xMqgf28twtUkY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1f"
+  },
+  "artist_id": "1HORQCHE3Q4m0tAKiRsIAB",
+  "followers": 101451,
+  "name": "Antilopen Gang",
+  "popularity": 54,
+  "genres": [
+    "antideutsche",
+    "german alternative rap",
+    "indie deutschrap"
+  ],
+  "tracks": [
+    "40Coe8lqUkFfDjWWrjx9X6",
+    "64OZv7nYfdkUYF1FVzZWsY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c20"
+  },
+  "artist_id": "3TqfPVt0HX8GCzNOOjDcum",
+  "followers": 164163,
+  "name": "Sun Diego",
+  "popularity": 53,
+  "genres": [
+    "deep german hip hop",
+    "german hip hop"
+  ],
+  "tracks": [
+    "7kYC5ilFc6kXN6YagFRemB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c21"
+  },
+  "artist_id": "0lFLP59V4TY3XgnrkFIwxK",
+  "followers": 293146,
+  "name": "Katja Krasavice",
+  "popularity": 64,
+  "genres": [
+    "frauenrap",
+    "german pop",
+    "german viral rap"
+  ],
+  "tracks": [
+    "5rywC2PH49hTpJLXxwGlpE"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c22"
+  },
+  "artist_id": "4R0FKprdEeUIbzAwhrYTv2",
+  "followers": 146741,
+  "name": "Elias",
+  "popularity": 60,
+  "genres": [
+    "german hip hop",
+    "german trap"
+  ],
+  "tracks": [
+    "7uCpwrRNkm6ncwAWByIzW9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c23"
+  },
+  "artist_id": "1xctIs19lAHOT2FN0GyTHm",
+  "followers": 1,
+  "name": "Fatty George Trio",
+  "popularity": 4,
+  "genres": [],
+  "tracks": [
+    "5OdosCzJsjmihN9s5eiODX",
+    "2P8q93iynZRGOSIUuxv9gb"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c24"
+  },
+  "artist_id": "4YRJJ3IzTgjzxpeEN4K0SE",
+  "followers": 0,
+  "name": "Jubilation Brassband",
+  "popularity": 12,
+  "genres": [],
+  "tracks": [
+    "1To3kKg9RtjRofgiRQFa6y",
+    "1E3M6kOzD4ohMNBgCtW87G",
+    "1YW1toaSePn8d1zJWg3HN7",
+    "4cLhACzeRtQjgJCH4Q5Dhu",
+    "04CFx2Q4EIRT0YZSk43a9X",
+    "66KxUkvCZnikryzJ25jMin",
+    "0UDDhzwbjis6Oan5aiuVVu",
+    "3NdS5jPA0aDFsjnhPDdFST",
+    "4pyJMSjdKuLPwLTbw2I1Q9",
+    "3O7ONF6j2ZibSZSUY9jlDS",
+    "70senADjV9EBBXJ8izGJzQ",
+    "4yqPaAQ9HpLTHHYEychliA",
+    "1UnKS2cSoKs4a9hRoRr7sb"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c25"
+  },
+  "artist_id": "1ScnTX0lpnIRbC1NuXQ64k",
+  "followers": 1291,
+  "name": "Sigi Maron",
+  "popularity": 20,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "2Q55JNRRT300MvT0jg4gLM",
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c26"
+  },
+  "artist_id": "662c1F7YJSx9ZU68qVU6Ou",
+  "followers": 257,
+  "name": "Stemmeisen und Zündschnur",
+  "popularity": 13,
+  "genres": [],
+  "tracks": [
+    "1M7RT5Kzynzei9wB5dRHjk",
+    "5r53kCkK1qtembzVi3OTIj",
+    "0PoKyRx63BzJ0jgPGVkEqV",
+    "0mU6xK0Fr8q17U8OIpUKe3",
+    "1qfmnKyzNuuft5PHvwGmQF",
+    "1WxHTOYcJvIWFlYXriZGmA",
+    "4bO7isD4d57C7rPE4x5lEn",
+    "4VAtGjtcCsvSwkIeO9wLMK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c27"
+  },
+  "artist_id": "0ag5nMtlCbWXpXcILYaFAY",
+  "followers": 98,
+  "name": "Oscar Klein",
+  "popularity": 23,
+  "genres": [],
+  "tracks": [
+    "7yHet16hC7K7vTQVe6O8z2",
+    "2ws3aNfhe4nfJpKUzW88Qj",
+    "6u5LurMwhPeSpKPg2qq1uB",
+    "0kJzFmz1lNwKob7RjMLqUc",
+    "4XjKBbeGNwCypLnfAdSmjM",
+    "61KwWo4EJV3gpAat6Qvghr",
+    "5hvb8LD3dXxPQY1rTMEUyI",
+    "4ETHjfMZY5Jn3nw1OW1EQi",
+    "0HX1xqBs21Shv17gxRoTHL",
+    "3gpmEpVxVcKT5ESDFR7h06",
+    "13F740dHJTL3GTJhlvbmIs",
+    "3UV1OWilgAnUOjc8j6eyAD",
+    "76D5KMwzMPp3EaZWROChGt",
+    "0BFQnWcfsE36rekaLT3bWq",
+    "0TVTdqZ0nD34W3DKvLidZi",
+    "4MsGBQ1gGL6BmU0ttGWBa0"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c28"
+  },
+  "artist_id": "0J26pURcDFgrPbXu8YLQi8",
+  "followers": 7,
+  "name": "Festival All Stars",
+  "popularity": 10,
+  "genres": [],
+  "tracks": [
+    "1zE51klqbGcTzUjVas2sIy",
+    "1JZ37k0pTupeLtgbvMVjA2",
+    "53REhOcQTDz4CPHVS0kcoH",
+    "6gZ402JFagppaQxYwtkVoK",
+    "7ckRzZn3zh0WnCPhuBQCY9",
+    "5tg4R1CgEQD3ZtZpXD03pl",
+    "54JjaSrmxE1ybkkQenr4ND",
+    "274aWBiJtzBOyJ5JZEpG4i",
+    "36kAduJ6PAbLH2g77dIjUe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c29"
+  },
+  "artist_id": "66VRTkNitjm9sdfEGWbkYR",
+  "followers": 3156,
+  "name": "Drahdiwaberl",
+  "popularity": 22,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "6MWnaJjJwwN7V1q1zo6mfo",
+    "2mrBx8BeMu4FR2mIvYg17w",
+    "0jR9YMnGsRL3CYfAyQkGCw",
+    "5e4JFSzfQMGB0uk4k1zjYH",
+    "5LAEgTNBz38i8G7Q1NRQ2p"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2a"
+  },
+  "artist_id": "5qDF2llrbUP7mxxdBQs6D3",
+  "followers": 418,
+  "name": "Karl Ratzer",
+  "popularity": 19,
+  "genres": [
+    "austrian jazz"
+  ],
+  "tracks": [
+    "0D2h3JvY5PIJTkHc4zYjOH",
+    "365odLcxmqHA90g5jNj4uO",
+    "09T9tXF1RCJC0QGudiD9FN",
+    "0HN7UlvqyXRTZFmJ71WFTL",
+    "644zzH82bWMXFKnl3KNjYQ",
+    "2OW39wzxsWXKxHojPSY58b",
+    "2CGjbS5UMHwNxhN9fwmN91",
+    "5sepyQqdc8SDZuDyDEr5L6",
+    "6xe4VOsH3uHSnZj4Lq9q9c",
+    "792NemB21S9RiebJ5plhdx",
+    "5x5xzQaNL38wUwBFQ5Ae8m",
+    "4MWeteM5Wg8BOAiW27Ycpv",
+    "13cHgK1eRBrRJSKY2DCAy8",
+    "3pfisYFfqvN7yFb6K5HkUe",
+    "5RYmo22kZWXrfBBQcsvfsW",
+    "6G5ATISDhKrktajSrg9bt8",
+    "4N3qL6NlzEaK4ZtXT60dF9",
+    "0vUlkCgpr5zx9xZVzy5lRK",
+    "0FjWiTPaZdipVmkpoqPi7m",
+    "5m3vVG27JRZKAEmmxE9GC5",
+    "0Cyuz0RzhltMmGZ6XNT769",
+    "0iGoqXDxFRiJza8GWCf5ZL",
+    "382f8BarWsjRlMdd0gesr3",
+    "6R8mdw7evaf7oUFyrmyr6p",
+    "5Ac2MKsquuLo1IcVNMueAn",
+    "1ACr4uQ4KGoPgbIry2be9k",
+    "2r0umafVTzScxePbwtcYpx",
+    "7chNFTx5kaZlol6lhBERZP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2b"
+  },
+  "artist_id": "4wHkXW0YL5E1xFKyGKvpb5",
+  "followers": 3,
+  "name": "Eva Oskera",
+  "popularity": 14,
+  "genres": [],
+  "tracks": [
+    "6FDreIiEVACdn1DUqGbsZj",
+    "5Tn8yyASBiUaaeOldtumTN",
+    "2sJACJXQXcZt5Jst06FDX9",
+    "0HmSGs3om8YGOss7yc9ma1",
+    "50v2tNiHMv58xzAk6q0WOQ",
+    "70DrbrNm3VllNNgDoDcTZ3",
+    "0NRwCh83gDbnJsSOLqSj09",
+    "5oERFSICQGy3JIbk3kiyOD",
+    "0GnlGwKpYhSqhMBfHBe0H0",
+    "5qj4jgO0xXwOhVy9XjVc8J",
+    "22sLfsKTlV5E0soTgDFOMC",
+    "4iMMAzsIl1UCut6AF7T8Fz",
+    "59zhpbm2IPPfJFEzcJq11C"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2c"
+  },
+  "artist_id": "2fzEsFUqdwRRWV2hnUA5J0",
+  "followers": 1154,
+  "name": "Willi Resetarits",
+  "popularity": 29,
+  "genres": [],
+  "tracks": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2d"
+  },
+  "artist_id": "7ewnh2MTcg4essqHIIcCF0",
+  "followers": 1,
+  "name": "Schurli Herrnstadt",
+  "popularity": 15,
+  "genres": [],
+  "tracks": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2e"
+  },
+  "artist_id": "2iSAwEBz0JwGMw17XRSXiy",
+  "followers": 0,
+  "name": "Herbert Tampier",
+  "popularity": 15,
+  "genres": [],
+  "tracks": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2f"
+  },
+  "artist_id": "10PYJnaYTzQwrr7ZlV9aMI",
+  "followers": 4,
+  "name": "Beatrix Neundlinger",
+  "popularity": 17,
+  "genres": [],
+  "tracks": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c30"
+  },
+  "artist_id": "090b34nCQAmpCcYD513ZoP",
+  "followers": 520,
+  "name": "Lukas Resetarits",
+  "popularity": 21,
+  "genres": [
+    "kabarett"
+  ],
+  "tracks": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c31"
+  },
+  "artist_id": "65FPzJQHdaS0wwzEYgCSIg",
+  "followers": 14,
+  "name": "Lena Rothstein",
+  "popularity": 15,
+  "genres": [],
+  "tracks": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c32"
+  },
+  "artist_id": "3uPn6mx1q2gmMsGtfebqbi",
+  "followers": 0,
+  "name": "Erich Meixner",
+  "popularity": 17,
+  "genres": [],
+  "tracks": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c33"
+  },
+  "artist_id": "2EAu5vx9u4NPqBZp9x3Rld",
+  "followers": 1731,
+  "name": "Maria Bill",
+  "popularity": 21,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6",
+    "4Ay0tMwCEf1nDmuKoaorfe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c34"
+  },
+  "artist_id": "0fsmPQrj8CDPteLjH6jAF8",
+  "followers": 0,
+  "name": "Alfred Winter",
+  "popularity": 15,
+  "genres": [],
+  "tracks": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c35"
+  },
+  "artist_id": "3zQ3WSC2TN1zYwj86rQdwE",
+  "followers": 12,
+  "name": "Angela Berann",
+  "popularity": 15,
+  "genres": [],
+  "tracks": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c36"
+  },
+  "artist_id": "6vm6yyoBoXVTtd8ygtkKQP",
+  "followers": 3034,
+  "name": "Boris Bukowski",
+  "popularity": 25,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "0cEh6SUMDZ3S3e7L3mloZb",
+    "3kN8xauLTBsixQwqYId63Y",
+    "15U6Vr0YBgtZXAKl4EA2hA",
+    "7HlizQo7qFfv0gTiYXKzZa",
+    "731t4HRzyxakII4GjyGO5E"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c37"
+  },
+  "artist_id": "0IS139XlxgrUtELabpXCXU",
+  "followers": 0,
+  "name": "Tatjana Armand",
+  "popularity": 15,
+  "genres": [],
+  "tracks": [
+    "29OApF9DMO6jsxnuDuqKZf",
+    "4atRGU7qBSgPaWuo4OeFYk",
+    "64Ms85f0zQoOW26w3sq2W9",
+    "5pwoUyBMTdZBC9cTQ5nK4q",
+    "2gGvggeHmPQ3OzQoIQ7I4H",
+    "4Ki8z96if9vBQMH9jMwC1T",
+    "1fVihJoo9sesYFLmgRGyXG",
+    "6CKObWeOeq1FBBfhzgQrd3",
+    "1x0tFPaYLwf4D6TN6B8UTy",
+    "3Ne48wg6mPRq51nBL5YOzu",
+    "7eulBCpOM0MBWoxhXBoZcv",
+    "02J2xvoU0kcxnFj2WYoC9E",
+    "7BWpFhSSJotUvcd8hqZnPw",
+    "4v8IrfDCGBJk5FSWAyX3d9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c38"
+  },
+  "artist_id": "1aU6ie4Y2CqztAGsLSYwY2",
+  "followers": 2,
+  "name": "Zipflo Weinrich Quartet",
+  "popularity": 14,
+  "genres": [],
+  "tracks": [
+    "4071U7Z6bNSUJ5SqsIyqAJ",
+    "0MpmBq7WNzGcU2ZWQqNhBS",
+    "1l81yMpbmDNNUgToZIfKE8",
+    "5mkrTrdQRCdRLu1FuMXHSv",
+    "0FnIMYb0J327P0fvoLxjDD",
+    "0kq5JNsGtqxXAG5ycM3Fkv",
+    "1KOOgz2NsNDP8IWLVCf1R7",
+    "0kdjY7e44V52WJIYqMljzD",
+    "4a7PK4V52tlInfkSXEkYbT",
+    "5oEMgfihcGZNrvCCL8IHsE",
+    "4UHBIuSeAa0gkxPYftOPgJ",
+    "68l9qSzMvOPC2CBqEUBnEL",
+    "1OgB5Cr6KOQscKvoNs8Ukh",
+    "3EzJDWG7owhu1yzESWHMty",
+    "0cxZJCGl0BclaSwYkPT2mE",
+    "1E2PJj2ZuDq16ZisnSAZxI",
+    "0eSeotbCbFLSYSGVQFQ7Tk",
+    "6NeAaUzCXIgKApTKvp0Xsk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c39"
+  },
+  "artist_id": "7KC3KIKb9jMVliLiS74PMU",
+  "followers": 12,
+  "name": "Reinhart Gabriel",
+  "popularity": 31,
+  "genres": [],
+  "tracks": [
+    "3zFuUJ4l1F0iuzH8RpIemg",
+    "5ZGw5Hyikl3xqW8Iy9di9c"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3a"
+  },
+  "artist_id": "6PwmECTvXteKtoBQOMo0WA",
+  "followers": 5903,
+  "name": "Jasmin Muharemovic",
+  "popularity": 31,
+  "genres": [
+    "narodna muzika",
+    "sevdah"
+  ],
+  "tracks": [
+    "6T1ghbjlg2CXOyTsaAOoWa",
+    "0tu4CVLTT8KTUyMFs41Dfa"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3b"
+  },
+  "artist_id": "7sD3G8QKANUDsaNahaPids",
+  "followers": 2831,
+  "name": "Hansi Dujmic",
+  "popularity": 25,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "3pIE5m0ywxwtzVIME5de2i",
+    "3zZxubpHcOe9KG9GgTKkwl",
+    "5UdMp4iIyjiFtUu5hRNGyb",
+    "2M6ZSu7Y5Bzx0iidgTLPV3"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3c"
+  },
+  "artist_id": "4CV49Qz3PyqrcAAgfEOH53",
+  "followers": 8741,
+  "name": "Stefanie Werger",
+  "popularity": 31,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "6JdiQkdLmOiPh3H5NdMa41",
+    "5uWtJdz95gYrcCkJnO3rbj",
+    "79AiXBB3Ng4jYkAfQWDRYu",
+    "42vSrYNY7ci1l5hrTizEeH",
+    "3aoZjTlzj50ZmZKIoBEec5",
+    "30dpCDPcc83HcQneZGzCza",
+    "4pADt0wsnESXju0JR9K5YC",
+    "2lRmmWzlAFHeLDkVuK7iZZ",
+    "3uz99olAAxWa1Ug9TJRUwP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3d"
+  },
+  "artist_id": "31FAK36QTqQYOtoD0VsEcS",
+  "followers": 5,
+  "name": "Das Oberkrainer Echo",
+  "popularity": 16,
+  "genres": [],
+  "tracks": [
+    "4Tt3nOLIMO0PdoMavSQPk7",
+    "6wDlxy6G4EzzAQ98URNtv4",
+    "6wJAzc89k1oIAIlAeYHF9R",
+    "4P0DEhEXo3Azis39f0Mpel",
+    "5V8xw6LI9qbJGNuWc48IA8",
+    "6k7U8SDRV1C3bIvMHdOUhE",
+    "529HRia9TuCjIbcaSnRmFh",
+    "69xUsGMdaVThV4cDEV1rLo",
+    "6OVcK8xzezQmfHrK5ssN8z",
+    "77RTORanpQJqIZqWE8pFng",
+    "2FxjVNlsKuixUVfaphenf1",
+    "2ddfaUrxLUpj9ZZHBf42iH",
+    "1Xx0Xcc0itTbCUl0EimWAY",
+    "7MWmnVBxaqtEy59juzEcqv",
+    "5bidpW2D3JWmzvAjCOWY2x",
+    "3DW47AJ8PHqf2XbJEUXmWl",
+    "0GAKRCXVPJXnd7JRuz7rnz",
+    "3ieGuFOYE1TOXjKbhKswbE",
+    "6iu1qXxp3y10OUpRurfvvY",
+    "5OjDHQETctQWcKO8Lybb24",
+    "3CEGFHI3qZKCH1BwxNXnJH",
+    "1fF5pp0ApvaJBgglwhe4en",
+    "05PvVstgHspFmrhN6FTgvo",
+    "1XSfbbxL2PcLrmwNG7x0gg"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3e"
+  },
+  "artist_id": "222oO9LQoimXbttVBYlKQY",
+  "followers": 47,
+  "name": "Franz Zimmer",
+  "popularity": 23,
+  "genres": [],
+  "tracks": [
+    "7tJtNdj0pU25hQOFc9YTM5",
+    "3yFjmqlBSSAZwEkXagJo26",
+    "23J7tYqz4xf2cdVPs7IeIj",
+    "7I3wUX42Vy5UOGEBaU1LbV",
+    "42n4V9hoOfNjXce6wRlZvF",
+    "7wtgSOWU2Ds1TGNlmDs5gR",
+    "6AzJ9ASg4AP3zffr9hAzXl",
+    "24eLWZSEPE9j8JeKHre1bu",
+    "1xb7yK3Q1lDPT2RlWFpoKj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3f"
+  },
+  "artist_id": "7hyGaB1rayAXp5J3gfjOJu",
+  "followers": 22,
+  "name": "Christl Prager",
+  "popularity": 24,
+  "genres": [],
+  "tracks": [
+    "0AB9xHFUJZec6fjey4VYRG",
+    "64j0fd4AtRckRXKgR355qx",
+    "4b7VFlKOehVm7QgsRtO3hM",
+    "7B1iXfCAHIUMCbXT1zfiOq",
+    "0ywSYBCRE9z9iKgbSS7Bvh"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c40"
+  },
+  "artist_id": "6olZP51re1iNpGOYnwNdCo",
+  "followers": 2,
+  "name": "Walter Heider",
+  "popularity": 24,
+  "genres": [],
+  "tracks": [
+    "3Zt6Dsb7uV3qFdzCBrsWor",
+    "6DT9C57iS5qj0o0gNIpHhc",
+    "25McGZDTQQgBndF6MCP644",
+    "2Ps01eWkhfscuHk6bu7s7E",
+    "0IY4qKqRwBKZuSmYatCEeg"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c41"
+  },
+  "artist_id": "2mCZFfl9SXeb219eBUv3Tb",
+  "followers": 3,
+  "name": "Rudi Luksch",
+  "popularity": 20,
+  "genres": [],
+  "tracks": [
+    "635z9ou6ko90imJHVXvyAk",
+    "1W88r26mOemGlXv0UlLQgj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c42"
+  },
+  "artist_id": "7dfj7RIEZ4np5RZdH3kvSK",
+  "followers": 367,
+  "name": "Horst Chmela",
+  "popularity": 19,
+  "genres": [],
+  "tracks": [
+    "21TjdOj5Hdy7C0qUpDiJin",
+    "4cka6mFrCs0X3H9iAbojIB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c43"
+  },
+  "artist_id": "0Xsv9BPJp7MEEsQb90zkjN",
+  "followers": 25,
+  "name": "Al-X",
+  "popularity": 20,
+  "genres": [
+    "indie electropop",
+    "vapor soul"
+  ],
+  "tracks": [
+    "2nmUQjtJvIyMjrJ7hWpJGR",
+    "0EZFvtEXLQVv5VlVjlYQgc",
+    "5plgksnhFXUnanYPzAvXs5",
+    "0TAdsHmOTLU5gpGXfGQKaj",
+    "6zOYfqHHvD4Wc4s1XmWjOD",
+    "2vXf02THkrwX4ekFVQjDO7",
+    "1L493nhYtcIkMp96dLD0uZ",
+    "0NOhnYt5yEcM3fmE7wzGhu"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c44"
+  },
+  "artist_id": "3Agtd9uqhZ8kVMME62fvCo",
+  "followers": 0,
+  "name": "Herbert Rimpl",
+  "popularity": 18,
+  "genres": [],
+  "tracks": [
+    "4v7avu6TGjSph4ebsY8nGB",
+    "1joTCAfBpmta72r42XLPmC",
+    "4LBzfq4NMVEbcbgfMeOuTc",
+    "1YpLizZkTqQLmkBOpYgoBI",
+    "62J43SIMg7htPdGUo3jXw1",
+    "4EcBKudqbl04iwbsiP8Hvi",
+    "1C7RKILwOyJoIPhhAaDLTv",
+    "2bjnKsh2y1tU1febw7MtGX",
+    "1qV8mFP0WaRvIqQApYRHGt",
+    "2G0xOEjXvbnsJxjCrYv6KD",
+    "5zAGcpkuhry4LCIaQc9WoX",
+    "5CPwjGNDQ08XJIcI22cM4m"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c45"
+  },
+  "artist_id": "0HLO9t6rVhQQ2og1fH8nsm",
+  "followers": 2,
+  "name": "Lothar Steup-Trio",
+  "popularity": 24,
+  "genres": [],
+  "tracks": [
+    "4v7avu6TGjSph4ebsY8nGB",
+    "1joTCAfBpmta72r42XLPmC",
+    "4LBzfq4NMVEbcbgfMeOuTc",
+    "1YpLizZkTqQLmkBOpYgoBI",
+    "62J43SIMg7htPdGUo3jXw1",
+    "4EcBKudqbl04iwbsiP8Hvi",
+    "1C7RKILwOyJoIPhhAaDLTv",
+    "2bjnKsh2y1tU1febw7MtGX",
+    "1qV8mFP0WaRvIqQApYRHGt",
+    "2G0xOEjXvbnsJxjCrYv6KD",
+    "5zAGcpkuhry4LCIaQc9WoX",
+    "5CPwjGNDQ08XJIcI22cM4m"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c46"
+  },
+  "artist_id": "449YEDzs43jOpY3YI6IpFs",
+  "followers": 16,
+  "name": "City Cops",
+  "popularity": 24,
+  "genres": [],
+  "tracks": [
+    "2ctN6smsScCBSx43KCGCNF",
+    "1X36fs2pkTrnspmXLpdZxt",
+    "52Ok6gSpncRiFAJsXpF0Qs",
+    "5NXWxitBtV0XwKLbBRDsnx",
+    "2RGwNPuymIUyxE1hOyqmCd",
+    "2s8CdONCfTFRn17XtEDkR8",
+    "3sxrdx6KyvpjGvMZzS6QGl",
+    "60A4fXILBQ019zeqKha0YO",
+    "6xHRAldqMfsJktwk7Qowx9",
+    "3HJJfK8CI2lymJzrWRy0jf",
+    "7owLY3lhwNHSIf2Vk64dTp",
+    "26ajNek3J5DeY2umgkSLf6",
+    "7ejuH6KFWeUcvbICbI8y4x",
+    "5ZGw5Hyikl3xqW8Iy9di9c",
+    "6wXOgEPrtarjaUkzbCMJt2",
+    "0Cpxj5D4XrayMS3akQt4ip"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c47"
+  },
+  "artist_id": "6K1sWkR7FFGDXbcBJoVXpu",
+  "followers": 308,
+  "name": "Hans Koller",
+  "popularity": 16,
+  "genres": [],
+  "tracks": [
+    "0peEqlwt6tkh9jLo9gBnYz",
+    "2VqZL2Xxhypxl8LmvO1k6n",
+    "2sRbu97I5ZFyx4YvwGw6FC",
+    "3qinWqI3cKu16jEfMP8SlF",
+    "7Hqa28VUhGsLhpzkmq9q8L",
+    "6rzAKEsiLbh4o1aAGlgAXP",
+    "74s4IxrhFHterrPixjjkkW",
+    "4IISFNxjaSWrC98mXmeC3G",
+    "65wCNCbGKMzFEfBfZKcu9Q",
+    "1aJjpzpt6Dh33W11lBfyFT",
+    "2QWZt3og2pgLO1GJEFWAKW",
+    "0xZEmUBjdGGJcFFTuGjAg2",
+    "4CDl9KEwOIQUeUZnq2daPd",
+    "0UVRFxMAjvG1gyRBJ9hejz"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c48"
+  },
+  "artist_id": "5trVnE5kuC1bW7h72BoR2E",
+  "followers": 8,
+  "name": "Rudi Hofstetter",
+  "popularity": 7,
+  "genres": [],
+  "tracks": [
+    "0bbGiMLKns1OB8U4n5Kn3p",
+    "1gMRbsoSzulfIuwrHqeUOq",
+    "3DITCjK91WKaAimjizVGLr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c49"
+  },
+  "artist_id": "42dYIheYZEb7Yd1SK4jkLx",
+  "followers": 290,
+  "name": "Erni Bieler",
+  "popularity": 8,
+  "genres": [
+    "vintage schlager"
+  ],
+  "tracks": [
+    "0L2aAmjDxRWI1N4c4ZQ5gK",
+    "1gMRbsoSzulfIuwrHqeUOq"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4a"
+  },
+  "artist_id": "2HBic4OlBg0x8zX36eQ7BB",
+  "followers": 5,
+  "name": "Peter Heinz Kersten",
+  "popularity": 4,
+  "genres": [],
+  "tracks": [
+    "17NP9ufXQKjuitGlNM9GSN"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4b"
+  },
+  "artist_id": "6GJwMlxVLRvYmAma3STQLt",
+  "followers": 79,
+  "name": "Fritz Pauer Trio",
+  "popularity": 13,
+  "genres": [],
+  "tracks": [
+    "431uOA0fLXfu7G9sE6pp17",
+    "6ryQiVMmpZlrUMn3d80lnV",
+    "3bDouxtVR1VjItxmEvYE4x",
+    "1r2PK4aJ2qBhRqf3UIJTMx",
+    "5kB6jAkWYOmYam5J2EmJIk",
+    "5C9v1WEMpHiEpKBQCjlJ8A",
+    "2i3RYJ6T5zXLuSEIqtmEEe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4c"
+  },
+  "artist_id": "3zuPMne7Hac8d8zjWx3EUx",
+  "followers": 6554,
+  "name": "Attwenger",
+  "popularity": 24,
+  "genres": [
+    "austropop",
+    "neue volksmusik",
+    "vienna indie"
+  ],
+  "tracks": [
+    "4vQy05VW5Gj55xHn9sMCEG"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4d"
+  },
+  "artist_id": "0b5Zo59WiR7ioOjYZfu514",
+  "followers": 1721,
+  "name": "Alpensound",
+  "popularity": 32,
+  "genres": [
+    "blasmusik",
+    "zillertal"
+  ],
+  "tracks": [
+    "6l2LeSzuRQEeqtbRKmJ50T",
+    "1WczQK9v5IsbBK72C5pi9e",
+    "2HIDvjYnd9skcCI0phIjju",
+    "1pCk2LMoq4lsFOkQQxb73v",
+    "6BpNXuo4ajyUvAamjWBspS",
+    "0jQEVEsyrhhik3MreB7toA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4e"
+  },
+  "artist_id": "3KT7tZk04I54Rvnznb3cDK",
+  "followers": 2863,
+  "name": "Papermoon",
+  "popularity": 22,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "2T9jopxGi7d92gbU5lmxDh"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4f"
+  },
+  "artist_id": "0TAFEIDOzsXDTVzP58b4sP",
+  "followers": 2,
+  "name": "Demo Boy",
+  "popularity": 21,
+  "genres": [],
+  "tracks": [
+    "6dANSM4njjrBRlLh9YZXCO",
+    "2L0VFAC7ReZRnaJf8I8WOY",
+    "0XrmBjy9NgTn2fYrjxiDpb",
+    "7cTBJcL3iEtc5FyeCubqDd",
+    "74XDYVp7wq13jy7slGeOgl",
+    "2lMaUHOyMNl4JVWAErHThA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c50"
+  },
+  "artist_id": "3n8wZoStbkYCPJok3gmOm9",
+  "followers": 104,
+  "name": "Backgroundmusic",
+  "popularity": 34,
+  "genres": [],
+  "tracks": [
+    "3Ayjvf5SScEcILC0GG7ITS",
+    "0WMuL2T5z4SQ4cymsmIt9C",
+    "6XWSKU0bufMwEuDmVHaHnr",
+    "378WX5qZTbCRz2brEZOeQZ",
+    "3P9SD0AwZ29zv95REY9bVK",
+    "19rm41nBua2zimZZNx6ROm",
+    "31n4hjBPwHnOVN08VagACz",
+    "7uQglHQhhfVJRxbHILq4Ag",
+    "75B4zTK76TFddsIZyPyvAY",
+    "5PBTnQ3SPcRc7RFg5JwzjE",
+    "08eI7Fa49thuELpWqCvceA",
+    "5wrT9dRvmkiW3vZJzNhYGH",
+    "1pt4I9bveCXYXSAJnAbNeg",
+    "7gd58XkKQOEpzKm31kqtS2",
+    "6bMrq27AhqZvkPZK7ar3Kn",
+    "1HaIDo1C5QCFJ1VqzoOjxk",
+    "6l16nUGF26bddNjD0Do5eI",
+    "4KSntDyZ2qn81bQbh1KYd6",
+    "5h43Rvxkb9IbnrSGInixiA",
+    "0iXonmBqzo9faGbuM1HBgc",
+    "6B1BY82foEqqu24FvpdYGH",
+    "0EuGnUyAE7a2RG2MPEDOhi",
+    "5r9Ise9ijjmpQZ6rC08cGG",
+    "3Jx9t71vteQnwHyADkhvdA",
+    "7fl28WL3QyW26VBy3AdOA8",
+    "2WVDmJaMBbLQKlzmgPGyeF",
+    "4zV1RqUAswWYa42R9LKsMg",
+    "5oyBnwTu7BhBPbR27PqgfW",
+    "2YymvRR7ukfp1jaMOnKlQ5",
+    "60DqVHnQY7knrkcMBzshLn",
+    "5jw6rD79wDmcw6Nq4qdr7j",
+    "1Vau29p4PmQjBw4DYQ5732",
+    "2OMWfQKVBcZGEFI3ywnSOa",
+    "6uwJ8vdOaLzqGSZ8KZ4XV1",
+    "6nfaiZOutsAQcCdiBhHKps",
+    "4EmRAn3jzjhsPDawTmh6dQ",
+    "7D91UExVoZ7VsF6Iqmfdss",
+    "3ZxZ0I9xtVTliYXsKrg9N8",
+    "5rCQd34ojPKJdNWTamv5Ew",
+    "1FE7cijM0YWRvQdxp7U3zN",
+    "5mdcoAxa8OMS2MtadRwWd2",
+    "6TefTu2LKAKAL82pRsZn0u",
+    "7mYlgIo5Rb3n8UtlQmK0jU",
+    "5UtjVDfaYFIYleD9lQOjVi",
+    "4a8Fb3OyMYbmNt1Ip6uL1y",
+    "5ZaGtl75yiuAyODovGq074",
+    "4Fr1cY5nNwNeC5X6hOXJ3u",
+    "0gtSRHj9MR2A6LLLtWjkpe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c51"
+  },
+  "artist_id": "3mk1O2zfasN4Wgw1szvZ8e",
+  "followers": 78,
+  "name": "Die Tanzgeiger",
+  "popularity": 22,
+  "genres": [],
+  "tracks": [
+    "6UeVytQNCt2Mdg8nDEiKiD",
+    "3SS9kiqEwbdHNXn8MjgWJA",
+    "5L5fEv25j95heAjNAijttX",
+    "4rjbrHWyUYO6FU5gJ1Ntsb",
+    "6pnVWsaRvLdOsInzYQcG5B",
+    "5JvZa5e6UtLrZzaJU2MBeo",
+    "02aNN3OD2LOownGQRcTKKA",
+    "2WYE46l6p1tjE6pu3Fi3RW",
+    "7o1ExYUcYpwP8dVhUxL94r",
+    "74PxAAgdSx42mN1B6HI5BG",
+    "53eETaP3dc5dfsDPfJTJp2",
+    "2Q4rQFSsGqilj5b359nWZa",
+    "21GIyEipWH985IyELKZabG",
+    "0qMIjUh2FoTgKwIZo3ANhO",
+    "7nen5iTgRQLZWQTSd4a9Iq",
+    "1E7cElbLtogqJMo2zIyy1k",
+    "28TOxwIpZiKlFweKyt45zZ",
+    "6PZPqREjFc9bWdACr7wYuc",
+    "7nB5aa8whhhSk6eEomilJq",
+    "19MgIm9Z3Ah92LVCYULiHG",
+    "6ZgiJjCiXqghYwNmczv1Rm",
+    "6yW4TcENF57gbPM5WdkNtH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c52"
+  },
+  "artist_id": "0SRMVHC5eMaIclOnwK2pOy",
+  "followers": 7149,
+  "name": "AlpenRebellen",
+  "popularity": 32,
+  "genres": [
+    "volksmusik",
+    "zillertal"
+  ],
+  "tracks": [
+    "0lrhILoS9aNVuUKUoXi8eF",
+    "0DXL0kmWTr0NUMPkFlCiOi",
+    "5RDHbih0EcT23EU08bYcnX",
+    "7aIyyqOtbetRwZwdFLjI24",
+    "6ujJA26UEGLomGrAYY9xxR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c53"
+  },
+  "artist_id": "1PscH7644ANKkFBSIJwkHt",
+  "followers": 5760,
+  "name": "Seki Turkovic",
+  "popularity": 28,
+  "genres": [
+    "narodna muzika",
+    "sevdah"
+  ],
+  "tracks": [
+    "6mXaZ5H9uQijDZAbFz77JC",
+    "6CKlRZvDOWRFwwejaDsYDX"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c54"
+  },
+  "artist_id": "0whCzvi5KVZvWUGYTfjKG8",
+  "followers": 3,
+  "name": "Elly Wright",
+  "popularity": 18,
+  "genres": [],
+  "tracks": [
+    "3JERpPwfh6Q98EWBTh0omR",
+    "02g5UZuDfr5xYOAjRGl0Ef",
+    "2xodv80xHYftuqTtAYmwFH",
+    "57lnE7y3lYDTFu2HA8Haar",
+    "4btFKNuzJUErUFTpjsXSi5",
+    "6Z7aY05sJaeLUqOrSog0Rd",
+    "6Ojj1hl8tdgE1KZRCEVHu6",
+    "1juzU4D4renQZWTDFyJB1B",
+    "795m3zH0SlJGJ4t2dFYOx1",
+    "32KPGJ64EmQRW3tITSAQl8",
+    "7rKe8ByJq1VdlM8LUuRIG0",
+    "18yHkzUSR44wZSPzJbGuXK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c55"
+  },
+  "artist_id": "2tASauXefdvrtHk9JdgFhf",
+  "followers": 40,
+  "name": "Mezzrow - Ladnier Quintet",
+  "popularity": 8,
+  "genres": [],
+  "tracks": [
+    "2Kyy9lBDeSFa3NEYHcilXp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c56"
+  },
+  "artist_id": "0jSih5LPRyNa5x7VMNPqUF",
+  "followers": 22274,
+  "name": "Schürzenjäger",
+  "popularity": 34,
+  "genres": [
+    "oktoberfest"
+  ],
+  "tracks": [
+    "223T6tgHvEJ718xwSuk3Fr",
+    "7H5iaDHpA19f6lyGGEMOCB",
+    "6uw9OEh0cnqv96JzdvMlen",
+    "70p024dkTavHsSiVA2dCXn"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c57"
+  },
+  "artist_id": "5sOWddjEptmmxjPoHpkvsQ",
+  "followers": 4,
+  "name": "Noble Sissle and His Orchestra",
+  "popularity": 9,
+  "genres": [],
+  "tracks": [
+    "5V2IalWDOd9ajvNWyEoelM",
+    "0uhuHrjG84NS1hjwdHo858"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c58"
+  },
+  "artist_id": "65y8x3zuy7HQVHrb3tn3hM",
+  "followers": 7562,
+  "name": "Zellberg Buam",
+  "popularity": 37,
+  "genres": [
+    "oberkrainer",
+    "volksmusik",
+    "zillertal"
+  ],
+  "tracks": [
+    "6DFNGK65OF8vPBwHmu2JSN",
+    "0LnaSXTkMZewDwhpDnqxfk",
+    "2otOb0yXUFQOsyfylpiiPw",
+    "3lLAD9ewj2UP7lDiBjj3JI",
+    "6GFwJXsmWiv9BEzoJIiGsM"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c59"
+  },
+  "artist_id": "711l77zwLTPIiN43h3ZJtL",
+  "followers": 23557,
+  "name": "Dzej",
+  "popularity": 37,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "turbo folk"
+  ],
+  "tracks": [
+    "3fclR0tKjdrlnbU5foRCCZ",
+    "1aKk2xF7gekdhYLbGPS0HC",
+    "6SO0VnVuFRCcpYIUbplgHh"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5a"
+  },
+  "artist_id": "049W43Hw1Up2EXsZDgcmMt",
+  "followers": 13954,
+  "name": "Nina Badric",
+  "popularity": 38,
+  "genres": [
+    "croatian pop",
+    "eurovision",
+    "yugoslav rock"
+  ],
+  "tracks": [
+    "0sLyN7EVQH8Q29lIwtbr0g",
+    "1vMAVukqG9AX4l0KRV1yal"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5b"
+  },
+  "artist_id": "1xmmqPgPSW7jn8rs6fH0e2",
+  "followers": 28029,
+  "name": "Austria 3",
+  "popularity": 41,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "5DqzpNpDjnepPUPsOAXEKF",
+    "7q75I08Bx5ILRUzJPFTX8p",
+    "1jCtxipcCiqclMDy5m1o2l",
+    "5WsfNduYgzvXuIygODUUip",
+    "0bKfaV6AkBgMjwISpAjC5n",
+    "1FSNb9UXkKXNYOR8l46qq0",
+    "1dEOWGx1qIVi8mk7JoKwXw",
+    "3XNCvdlN08lEj6zfA533FU",
+    "5gsGVC8IoBqn3du22uprTB",
+    "3vGEgLYY146oIrTR52XSzu",
+    "73qwYzsINATWo3vUrEwDkc",
+    "6k4AOxkJQ3UJZi2cS3SfrT",
+    "30aackAfIIFcwBtecK3Epv",
+    "0En4vl8RQs8b3VEzDlZd0y",
+    "6IeOxXXCFvi2159T5YrDAM",
+    "5oST9Oj0pnJrAXzwOPxYmj",
+    "0vW0guGXXZdXa7BUVSr9bJ",
+    "0d8iDuS47ANPxYP3VCx6hk",
+    "6OJkFN8XaSLMPvFBds0uZC",
+    "2osAfz829nOe1ZX4Gz4Ezn",
+    "36Dcle2jSWefzNhWmfwz2r",
+    "1CvwYumi2BalQaeyfXOsPS",
+    "7dseb01UEtW7NkeTMOS0UU",
+    "5omxwat9cBosRqmMeRL47B",
+    "6mmyxD4KbR0XdE31paXyT3",
+    "69SGeXrTeU5KXdAeOVpkko",
+    "16WcvTVsbxvbccoJtxLXfc",
+    "5Hakfw9toFqZ5jXd1yM6te",
+    "27F6oOVibSTDo7DEX0dRRy",
+    "4azL1l30XyraYeUI7LGvHp",
+    "2sLdAdKdzCjGLGP5Yp3qIO",
+    "2W8URTQoWKF35jv0NakmmA",
+    "6Va2RPG2a6i5CpvBn3ReRf",
+    "40J3wugYeNO8tYrebhYLDV",
+    "1jzqs4hCuzDmxb5r76Mf9q"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5c"
+  },
+  "artist_id": "3R1JFatRKS23NVIaUqMnDl",
+  "followers": 1,
+  "name": "Oscar Klein Quartett",
+  "popularity": 19,
+  "genres": [],
+  "tracks": [
+    "4OtSzXjH04FhdkI9XlV7aE",
+    "05cbxFBgKj04IuZhQ51ov2"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5d"
+  },
+  "artist_id": "4V8kdr5P3wbMWlmN49ZJ0I",
+  "followers": 2,
+  "name": "Joe Hans Wirtl",
+  "popularity": 21,
+  "genres": [],
+  "tracks": [
+    "7uKvmpyopJgdVCJpRQXdUu",
+    "4leyQEicezG2YNfeftHhFp",
+    "3GyRUKStTf3Y0bjIwGnMOE",
+    "2wZAyN56BCww0RqDuhr9PR",
+    "6XPfbMQwoQFAAKh5QKwqod",
+    "5gHsTF2heQDIrUMvFC8Kpr",
+    "0BZqss653OUw3U6awR40k8",
+    "4aT1gNxTJAfs3igxnDGLr9",
+    "1gxkGhELok3qRkNCeFfv34",
+    "7ydVIqSDh3iSwKqtmO3pMd",
+    "3TPJEEInLzT0f95KZqm2Na",
+    "6H1J9QWAFwLV43GRNZ2P0b",
+    "6tv782xHOAfQDyXS51F8we",
+    "3iBdN2ucPeYUVhAZ2uFV9H",
+    "3PPUV0hke3YShqnReXBKVu",
+    "251qRsuXz5To613jLBYmVF"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5e"
+  },
+  "artist_id": "058bioyBUzSkKCfrqvODLu",
+  "followers": 16411,
+  "name": "Ursprung Buam",
+  "popularity": 39,
+  "genres": [
+    "oberkrainer",
+    "volksmusik",
+    "zillertal"
+  ],
+  "tracks": [
+    "2NaEs77H48lzwU5PuDVICM",
+    "2sIb0LaQsxpw0WCUZsTcKP",
+    "2H5LSBsPjuSLWPQBSOoqFP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5f"
+  },
+  "artist_id": "1JbDmDlop4Pm4IyJhc22jt",
+  "followers": 20390,
+  "name": "Petar Grašo",
+  "popularity": 41,
+  "genres": [
+    "croatian pop",
+    "yugoslav rock"
+  ],
+  "tracks": [
+    "6C8Nva04TeYOOaOYdIlJHz",
+    "5qDAe0YfvkuXgdO650726v"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c60"
+  },
+  "artist_id": "7f48lH588r6zo8ehM8W6ZE",
+  "followers": 301,
+  "name": "Whatever",
+  "popularity": 34,
+  "genres": [],
+  "tracks": [
+    "30ZsVrTK7vhVVdmT7DEAeq",
+    "6U8kIdkj9lKfYCwMG7XsBB",
+    "1H3QE9T4isn7SeClLxtppk",
+    "58GoNv0Yigu386DRCiz0Ct",
+    "0fYstH79Udv6MwOjOjLCs4",
+    "33cGWVy8214bQR6JE6RLL9",
+    "1uIVM0sz02DxtALy8BaoWR",
+    "7LBpgYYNepp1vlYJuassoH",
+    "0vLvUkqqw6TMCIVWL75K7B",
+    "2YMX44ovBIllOW3x7qGWCe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c61"
+  },
+  "artist_id": "3ARTpaBnC94FVM8X4zTZV0",
+  "followers": 9585,
+  "name": "Rade Lackovic",
+  "popularity": 38,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "turbo folk"
+  ],
+  "tracks": [
+    "4KkfgqbCyXKHs7zUBA120O",
+    "5q54nhoQ7pOZlleR0DNiKQ",
+    "23IiwlU2Tbt7Uh7g8sZZwT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c62"
+  },
+  "artist_id": "1Y4TI8dYJBMjMSq6ojiMje",
+  "followers": 3713,
+  "name": "Die Fidelen Mölltaler",
+  "popularity": 30,
+  "genres": [
+    "blaskapelle",
+    "swiss folk",
+    "volksmusik",
+    "zillertal"
+  ],
+  "tracks": [
+    "4Nfd91XYD16Rx5R2hPRo7c",
+    "3NKn8ElbAFL6G6AR9qKHgK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c63"
+  },
+  "artist_id": "40GGIb7qIrskWYK2JHpyZH",
+  "followers": 7954,
+  "name": "Marta Savic",
+  "popularity": 30,
+  "genres": [
+    "sevdah",
+    "turbo folk"
+  ],
+  "tracks": [
+    "07WMwrGC61FvChSsDe20wu",
+    "2gOmko3OtEwl1rWcJnaouJ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c64"
+  },
+  "artist_id": "7yFvfvcZ9L9joFdD2ALKJI",
+  "followers": 3336,
+  "name": "Ado Gegaj",
+  "popularity": 29,
+  "genres": [
+    "narodna muzika",
+    "sevdah"
+  ],
+  "tracks": [
+    "0haMuFhxj1aduJTDQ7g5cC",
+    "6ercZL5sS3CRinkmQU6zvB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c65"
+  },
+  "artist_id": "4QjlsxGLNrgr4Qm6zcLafx",
+  "followers": 4251,
+  "name": "Asim Bajric",
+  "popularity": 37,
+  "genres": [],
+  "tracks": [
+    "4s9Q9P0Ev6Z4Vg930CZ1Gd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c66"
+  },
+  "artist_id": "3ixpbCRBVOX0c8g6a6eIVg",
+  "followers": 6718,
+  "name": "Die Edlseer",
+  "popularity": 34,
+  "genres": [
+    "volksmusik",
+    "zillertal"
+  ],
+  "tracks": [
+    "2r7p1uVRtXA8MSNKAFzgel"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c67"
+  },
+  "artist_id": "0mGILIJWpHmDQuHfxaIBqz",
+  "followers": 552,
+  "name": "Rising Girl",
+  "popularity": 27,
+  "genres": [],
+  "tracks": [
+    "3vvJYDTiiPywVGEAgYff03"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c68"
+  },
+  "artist_id": "4uQ7lQs9bxenbl5WQTaUf5",
+  "followers": 15595,
+  "name": "Jovan Perisic",
+  "popularity": 40,
+  "genres": [
+    "sevdah",
+    "turbo folk"
+  ],
+  "tracks": [
+    "7JGCWx79k3yz5rffyBUbip",
+    "2lxM9k93knAtqi6JEe2FnN"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c69"
+  },
+  "artist_id": "6o9br0TgZMMQbDnAxLKoC0",
+  "followers": 5115,
+  "name": "Emina",
+  "popularity": 42,
+  "genres": [
+    "turbo folk"
+  ],
+  "tracks": [
+    "3Z8Zvz0E0SPvYdbgBzNGDz"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6a"
+  },
+  "artist_id": "2fvI7o5v5e1U8iVvfRp9sH",
+  "followers": 9620,
+  "name": "Die Grubertaler",
+  "popularity": 40,
+  "genres": [
+    "oktoberfest",
+    "volksmusik",
+    "zillertal"
+  ],
+  "tracks": [
+    "241rGH27h67nFehbsLHvD5",
+    "5HzZfvNWKk4HDt7hHBO7ie",
+    "6iUd31f5UXUAAF5AK08taE",
+    "6jOrKQK0sIhEAZXYIfIjIA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6b"
+  },
+  "artist_id": "2abRLEEF4vohaF8BJf23sj",
+  "followers": 640,
+  "name": "Nickerbocker",
+  "popularity": 37,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "60cit3OzWNxraCM21YdalI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6c"
+  },
+  "artist_id": "1BSQPdLAixzy85f5AXzVkp",
+  "followers": 5879,
+  "name": "Die Innsbrucker Böhmische",
+  "popularity": 38,
+  "genres": [
+    "blaskapelle",
+    "blasmusik"
+  ],
+  "tracks": [
+    "2Gra5abgzOrtL8bxx3XDOm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6d"
+  },
+  "artist_id": "6JmEMwDNuSUI03atBjGLT2",
+  "followers": 7707,
+  "name": "da Blechhauf´n",
+  "popularity": 36,
+  "genres": [
+    "blaskapelle",
+    "blasmusik",
+    "brass ensemble"
+  ],
+  "tracks": [
+    "5bAMOJLiZ2HouBTrwCvBrH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6e"
+  },
+  "artist_id": "6954hAhJVFELmb7rH5QjeX",
+  "followers": 2040,
+  "name": "Wally Warning",
+  "popularity": 28,
+  "genres": [
+    "german reggae"
+  ],
+  "tracks": [
+    "159gOJ1ZxJ7t5glGKxY2sN"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6f"
+  },
+  "artist_id": "5l61fwQHdgaRSE6pazXvld",
+  "followers": 3514,
+  "name": "Alpenoberkrainer",
+  "popularity": 34,
+  "genres": [
+    "blasmusik",
+    "oberkrainer",
+    "swiss folk",
+    "volksmusik",
+    "zillertal"
+  ],
+  "tracks": [
+    "0hqK7GNkVcqQVKlusFO86D",
+    "1gXzH6ZV1kIhDHwjQASdei",
+    "3gsy8miRpBZS8uIj2XOds5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c70"
+  },
+  "artist_id": "6w9qL3TcjDhq2x3Hsv2uSu",
+  "followers": 26670,
+  "name": "Dženan Lončarević",
+  "popularity": 41,
+  "genres": [
+    "turbo folk"
+  ],
+  "tracks": [
+    "1SOM70ULFPjvHSwLvcLPlC"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c71"
+  },
+  "artist_id": "6wBWBLQgEwIsC9galiOb7l",
+  "followers": 5650,
+  "name": "Holstuonarmusigbigbandclub",
+  "popularity": 36,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "3KttDSBXuACB5l9w8OtXfJ",
+    "5czfexUen9kxkphr8Ft9NE",
+    "2RKqH6nRfcKl7LR8M4yQfu"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c72"
+  },
+  "artist_id": "2CAmsUBJx7cg9HyxpYmlTM",
+  "followers": 3648,
+  "name": "Arik Brauer",
+  "popularity": 26,
+  "genres": [
+    "austropop",
+    "liedermacher"
+  ],
+  "tracks": [
+    "7D8jgqrXqSsFDyLJi4kLWT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c73"
+  },
+  "artist_id": "0CqVW8NVc62ieVTxtvLnT0",
+  "followers": 8671,
+  "name": "5/8erl In Ehr'n",
+  "popularity": 30,
+  "genres": [
+    "austrian indie",
+    "austropop"
+  ],
+  "tracks": [
+    "612alrqNYNoIqDv9aTnZ61"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c74"
+  },
+  "artist_id": "5dEmNDjaVcNDfSiwkbghyM",
+  "followers": 6160,
+  "name": "Zillertaler Haderlumpen",
+  "popularity": 33,
+  "genres": [
+    "volksmusik",
+    "volkstumliche musik",
+    "zillertal"
+  ],
+  "tracks": [
+    "1MZ1jHS7BLJ5gsyb6nPbAY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c75"
+  },
+  "artist_id": "0fLubJall2M6nQ61eCphyj",
+  "followers": 26978,
+  "name": "Natasa Bekvalac",
+  "popularity": 41,
+  "genres": [
+    "turbo folk"
+  ],
+  "tracks": [
+    "7yaY5L04OW57240FxSc2Qk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c76"
+  },
+  "artist_id": "245cfTGLRjFApGjsOe1hLL",
+  "followers": 20161,
+  "name": "Steaming Satellites",
+  "popularity": 39,
+  "genres": [
+    "salzburg indie",
+    "vienna indie"
+  ],
+  "tracks": [
+    "0Yttun1hAYRl2Aq8eYPT6Q",
+    "1SiUYI4mRNCEiTqCfwIR57",
+    "7k1vbvXThJcd1pg1aCOZ1l"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c77"
+  },
+  "artist_id": "3Gp8VWTInvWvTiKu30ANd9",
+  "followers": 2487,
+  "name": "Matze Knop",
+  "popularity": 39,
+  "genres": [],
+  "tracks": [
+    "3brcfrah29RwbLpCLyHVHA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c78"
+  },
+  "artist_id": "31CO1Q5pWgISHGf1D7cdT1",
+  "followers": 68,
+  "name": "Das Phantom Orchester",
+  "popularity": 29,
+  "genres": [],
+  "tracks": [
+    "6brxbAHE4bzueqwQLnb3no",
+    "6FBaaxhbZkdP9ym0EK991X"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c79"
+  },
+  "artist_id": "0qDjS3REOxIaHm4gn0tyyS",
+  "followers": 29396,
+  "name": "Miligram",
+  "popularity": 43,
+  "genres": [
+    "turbo folk"
+  ],
+  "tracks": [
+    "5Pk22JyzuBMprPml3HB9hP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7a"
+  },
+  "artist_id": "69kcnEE47Kd8pe8thqWik9",
+  "followers": 8413,
+  "name": "Hannah",
+  "popularity": 35,
+  "genres": [
+    "austrian pop"
+  ],
+  "tracks": [
+    "5GNIVKeDu7GftsG78ajSAy"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7b"
+  },
+  "artist_id": "6qndIEvgFHLSuVsWADtFnu",
+  "followers": 7467,
+  "name": "Emadj",
+  "popularity": 35,
+  "genres": [
+    "italian trance"
+  ],
+  "tracks": [
+    "6wcO4uI2dnf6VPVJW6BCsD",
+    "5kEitmCApcxCSwcLFpS2Eq",
+    "28qGsKpDQucdS2T9oPSzi4",
+    "4hbIeoo9KwGGrEVwaqmV2Y"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7c"
+  },
+  "artist_id": "5GQTwRGlE59rEbXDfGXoYI",
+  "followers": 10713,
+  "name": "Viera Blech",
+  "popularity": 41,
+  "genres": [
+    "blaskapelle",
+    "blasmusik"
+  ],
+  "tracks": [
+    "2XJyZMNuPwjCJk6elxbTJw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7d"
+  },
+  "artist_id": "415CxUpa6CcHgLB9o7C4jJ",
+  "followers": 22175,
+  "name": "folkshilfe",
+  "popularity": 42,
+  "genres": [
+    "austropop",
+    "volkspop"
+  ],
+  "tracks": [
+    "0GMXiUAsc2pO9vNx70dliv",
+    "06KlrajGCAuZdxAqrJBSMz",
+    "5XUoqljPd3QSiwcG3N5tme"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7e"
+  },
+  "artist_id": "4EXVZI73RObbQTd4vSmwyS",
+  "followers": 1053,
+  "name": "Leo Aberer",
+  "popularity": 24,
+  "genres": [],
+  "tracks": [
+    "6oDgwUtdXLJqoGXgxJVbCM"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7f"
+  },
+  "artist_id": "5Q21lE17HPq3sOPh7bnWUm",
+  "followers": 14416,
+  "name": "Marco Wagner",
+  "popularity": 46,
+  "genres": [
+    "partyschlager"
+  ],
+  "tracks": [
+    "2tUxTQSGGteM7HljpqWU6J"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c80"
+  },
+  "artist_id": "0iUE4vZTKK9L3QH7bjOIhF",
+  "followers": 274,
+  "name": "Die Obersteirer",
+  "popularity": 36,
+  "genres": [],
+  "tracks": [
+    "2tUxTQSGGteM7HljpqWU6J"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c81"
+  },
+  "artist_id": "5TWfctF6c9Iiq35fU8EJMi",
+  "followers": 10599,
+  "name": "Lemo",
+  "popularity": 42,
+  "genres": [
+    "austropop"
+  ],
+  "tracks": [
+    "74fONxiQvXM4Ypdn3FkPIM",
+    "5HchKSJpC6Wy0rCMi5QzoP",
+    "5RFajDIZKZwz5WYNxr6ZY9",
+    "35krTfayGlMi8npczgUGE9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c82"
+  },
+  "artist_id": "2tuopAJlzPXrCsuAmae4sc",
+  "followers": 17486,
+  "name": "DeSchoWieda",
+  "popularity": 40,
+  "genres": [
+    "neue volksmusik",
+    "volkspop"
+  ],
+  "tracks": [
+    "5DBbLnpudojxfO6alK53rV"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c83"
+  },
+  "artist_id": "41g2y82Z8CADYGlzujOzKp",
+  "followers": 15176,
+  "name": "Some Sprouts",
+  "popularity": 48,
+  "genres": [
+    "german indie"
+  ],
+  "tracks": [
+    "0JmH9PvuIDyEbaSMRO7aGL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c84"
+  },
+  "artist_id": "781WTPTstx1pdofBtCsZFs",
+  "followers": 2452,
+  "name": "Alle Achtung",
+  "popularity": 48,
+  "genres": [
+    "graz indie"
+  ],
+  "tracks": [
+    "7vdDVWWrTkg7LYwkgcWha9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c85"
+  },
+  "artist_id": "72578usTM6Cj5qWsi471Nc",
+  "followers": 248568,
+  "name": "Raghu Dixit",
+  "popularity": 52,
+  "genres": [
+    "filmi",
+    "indian folk",
+    "indian rock",
+    "kannada pop"
+  ],
+  "tracks": [
+    "0WzODQag2H6Ob1JPOpSYSM",
+    "4uqs4He9JdU4ztAQtsgmyF",
+    "555NYWQ1PbmLJiTW6XFwtr",
+    "7yhvflcXyqw1pQgCSnelZ4",
+    "6J8qcTesEfzpGhZjBa6kfV",
+    "4ve9p2wRIRnwM7bbFHmtZG",
+    "3U4aD5lR1h9WrO3eUPaf6H",
+    "2HHnW1zEozzxU9spZVGO5I"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c86"
+  },
+  "artist_id": "7b6Ui7JVaBDEfZB9k6nHL0",
+  "followers": 701766,
+  "name": "The Local Train",
+  "popularity": 57,
+  "genres": [
+    "desi pop",
+    "hindi indie",
+    "indian indie",
+    "indian rock",
+    "new delhi indie",
+    "sufi"
+  ],
+  "tracks": [
+    "2qgXrzJsry4KgYoJCpuaul",
+    "6ZmtxXUXRVjxOhugKkmerC",
+    "5VSJ9OfZx8V91A7u8Fuoh1",
+    "2sNMcxZh7AwImXtrv8UV3S",
+    "1H5TcdTdMYvOfJ31SAA6H5",
+    "6IskNuvBwK8YzFrjvXIp5h",
+    "4LtSTc3xANVhYeeN69nscM",
+    "3Gc4zbfvgZSBEfpd0aWEFb"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c87"
+  },
+  "artist_id": "4gdMJYnopf2nEUcanAwstx",
+  "followers": 103905,
+  "name": "Anuv Jain",
+  "popularity": 58,
+  "genres": [
+    "hindi indie",
+    "indian indie",
+    "indian singer-songwriter"
+  ],
+  "tracks": [
+    "5iCY0TXNImK4hyKfcplQsg",
+    "4BL4aEbddW0OGv6fFYYFUt",
+    "6Ln89sczgIcAJXGAIdS94R",
+    "74kCarkFBzXYXNkkYJIsG0",
+    "1xtkLqZcGPQZP9549WlmfH",
+    "5qyEyqpT0TBVun8W07MEmR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c88"
+  },
+  "artist_id": "5wJ1H6ud777odtZl5gG507",
+  "followers": 211174,
+  "name": "Vishal Mishra",
+  "popularity": 66,
+  "genres": [
+    "desi pop",
+    "modern bollywood"
+  ],
+  "tracks": [
+    "5w0Xpt2YHT2Y3z3e4UUJP7",
+    "1y1rQTkWmrZdJmjwuK07GC",
+    "53S98SFeRSxjd7F7eUnfAJ",
+    "6LpswW9691XT9OjVSvDU6G",
+    "0UZLaEOSIc5kg0cc7eszqC",
+    "5LrLEdTTE5eGsVnwJNByII"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c89"
+  },
+  "artist_id": "4bvGDTEPFnllKiJaEZGuXk",
+  "followers": 6395,
+  "name": "Achint",
+  "popularity": 49,
+  "genres": [
+    "indian folk"
+  ],
+  "tracks": [
+    "3A04b0nJb2nAzGUw2rqDsI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8a"
+  },
+  "artist_id": "7DLDYPMRJ0NFPcBTlg04DE",
+  "followers": 187,
+  "name": "Guru Dutt",
+  "popularity": 2,
+  "genres": [],
+  "tracks": [
+    "1YZkudiD6LfY5vmZKdOTyO",
+    "36OG5Ep6IPA4Mj6TxoTpcw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8b"
+  },
+  "artist_id": "2KewEocognk3bL1lQZe45G",
+  "followers": 10609,
+  "name": "C2d",
+  "popularity": 58,
+  "genres": [],
+  "tracks": [
+    "6r3Wa1lkJVEuc67aZhwO61"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8c"
+  },
+  "artist_id": "0n4a5imdLBN24fIrBWoqrv",
+  "followers": 328492,
+  "name": "Because",
+  "popularity": 59,
+  "genres": [
+    "opm",
+    "pinoy hip hop",
+    "pinoy r&b",
+    "pinoy trap",
+    "tagalog rap"
+  ],
+  "tracks": [
+    "0WRSaei4JRI1KTYhMqQh9y",
+    "2aBdvC7X0r68dhp7O2gY2k",
+    "0AvWhHI8TjPJwVl8KkeBPJ",
+    "0AiUFrU3Bj0ZzYFSWoAM0O"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8d"
+  },
+  "artist_id": "1104165",
+  "followers": 361,
+  "name": "Danielle Bollinger",
+  "popularity": 7,
+  "genres": [
+    "deep vocal house"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8e"
+  },
+  "artist_id": "1104166",
+  "followers": 46,
+  "name": "Hiroaki Yamazaki & Dynamics",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8f"
+  },
+  "artist_id": "1104167",
+  "followers": 1,
+  "name": "Mrdeath",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c90"
+  },
+  "artist_id": "1104168",
+  "followers": 54,
+  "name": "Amante",
+  "popularity": 8,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c91"
+  },
+  "artist_id": "1104169",
+  "followers": 3008,
+  "name": "Twen",
+  "popularity": 15,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c92"
+  },
+  "artist_id": "1104170",
+  "followers": 11,
+  "name": "D2com",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c93"
+  },
+  "artist_id": "1104171",
+  "followers": 3,
+  "name": "DJ Billy The Willy",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c94"
+  },
+  "artist_id": "1104172",
+  "followers": 188,
+  "name": "The Dirty Christmas Band",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c95"
+  },
+  "artist_id": "1104173",
+  "followers": 5,
+  "name": "Dirty-Z",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c96"
+  },
+  "artist_id": "1104174",
+  "followers": 54,
+  "name": "Miss Papaya",
+  "popularity": 0,
+  "genres": [
+    "bubblegum dance"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c97"
+  },
+  "artist_id": "1104175",
+  "followers": 16,
+  "name": "Bambie",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c98"
+  },
+  "artist_id": "1104176",
+  "followers": 14,
+  "name": "Hd Blue",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c99"
+  },
+  "artist_id": "1104177",
+  "followers": 4,
+  "name": "TRIPONAS (ANALOG PUSSY)",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9a"
+  },
+  "artist_id": "1104178",
+  "followers": 1,
+  "name": "big.peaches",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9b"
+  },
+  "artist_id": "1104179",
+  "followers": 7,
+  "name": "Lonnie Chance",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9c"
+  },
+  "artist_id": "1104180",
+  "followers": 29,
+  "name": "TV Rock & Luke Chable",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9d"
+  },
+  "artist_id": "1104181",
+  "followers": 2,
+  "name": "Lil' Face",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9e"
+  },
+  "artist_id": "1104182",
+  "followers": 4,
+  "name": "Sobel Allstars",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9f"
+  },
+  "artist_id": "1104183",
+  "followers": 1,
+  "name": "Paul Morrell feat. Sonique",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca0"
+  },
+  "artist_id": "1104184",
+  "followers": 7,
+  "name": "Karl Hepler",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca1"
+  },
+  "artist_id": "1104185",
+  "followers": 1,
+  "name": "eXise",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca2"
+  },
+  "artist_id": "1104186",
+  "followers": 79,
+  "name": "Paul Barry",
+  "popularity": 2,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca3"
+  },
+  "artist_id": "1104187",
+  "followers": 12,
+  "name": "Bob Dechamps",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca4"
+  },
+  "artist_id": "1104188",
+  "followers": 118,
+  "name": "MarcAlex",
+  "popularity": 7,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca5"
+  },
+  "artist_id": "1104189",
+  "followers": 0,
+  "name": "Dance Aid",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca6"
+  },
+  "artist_id": "1104190",
+  "followers": 407,
+  "name": "Young Fire",
+  "popularity": 22,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca7"
+  },
+  "artist_id": "1104191",
+  "followers": 6,
+  "name": "Yvonne Lee",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca8"
+  },
+  "artist_id": "1104192",
+  "followers": 2,
+  "name": "Spencer & Natalie Powers",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca9"
+  },
+  "artist_id": "1104193",
+  "followers": 6,
+  "name": "Rick & Lisa",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3caa"
+  },
+  "artist_id": "1104194",
+  "followers": 7,
+  "name": "Simongad",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cab"
+  },
+  "artist_id": "1104195",
+  "followers": 193,
+  "name": "Michael Grant",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cac"
+  },
+  "artist_id": "1104196",
+  "followers": 75,
+  "name": "England Football Team",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cad"
+  },
+  "artist_id": "1104197",
+  "followers": 2,
+  "name": "Deezin",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cae"
+  },
+  "artist_id": "1104198",
+  "followers": 129,
+  "name": "Pryme Minister",
+  "popularity": 3,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3caf"
+  },
+  "artist_id": "1104199",
+  "followers": 4836,
+  "name": "Robyn & La Bagatelle Magique",
+  "popularity": 27,
+  "genres": [
+    "electropop"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb0"
+  },
+  "artist_id": "1104200",
+  "followers": 7,
+  "name": "The Presents",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb1"
+  },
+  "artist_id": "1104201",
+  "followers": 8424,
+  "name": "Lo-Fi-Fnk",
+  "popularity": 21,
+  "genres": [
+    "alternative dance",
+    "dance-punk",
+    "electrofox",
+    "new rave",
+    "swedish electropop"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb2"
+  },
+  "artist_id": "1104202",
+  "followers": 18,
+  "name": "Max Tuohy",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb3"
+  },
+  "artist_id": "1104203",
+  "followers": 4,
+  "name": "adnap family",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb4"
+  },
+  "artist_id": "1104204",
+  "followers": 23,
+  "name": "Tor Newcomer",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb5"
+  },
+  "artist_id": "1104205",
+  "followers": 3,
+  "name": "The Unexpected Items",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb6"
+  },
+  "artist_id": "1104206",
+  "followers": 55,
+  "name": "Inju5tice",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb7"
+  },
+  "artist_id": "1104207",
+  "followers": 18,
+  "name": "Alex Lodge",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb8"
+  },
+  "artist_id": "1104208",
+  "followers": 767,
+  "name": "Pat O’May",
+  "popularity": 26,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb9"
+  },
+  "artist_id": "1104209",
+  "followers": 68,
+  "name": "Alexandra Amor",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cba"
+  },
+  "artist_id": "1104210",
+  "followers": 7,
+  "name": "Jerry Meehan, Adrian Meehan, Nichol Thomson",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cbb"
+  },
+  "artist_id": "1104211",
+  "followers": 428,
+  "name": "The Switchblade 3",
+  "popularity": 22,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cbc"
+  },
+  "artist_id": "1104212",
+  "followers": 44,
+  "name": "Tumbleweed Mile",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cbd"
+  },
+  "artist_id": "1104213",
+  "followers": 60,
+  "name": "The Horror Herd",
+  "popularity": 11,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cbe"
+  },
+  "artist_id": "1104214",
+  "followers": 2,
+  "name": "My Fine Friend Phil",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cbf"
+  },
+  "artist_id": "1104215",
+  "followers": 194,
+  "name": "A.T.H.Projekt",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc0"
+  },
+  "artist_id": "1104216",
+  "followers": 270,
+  "name": "Tristeza Melancolía",
+  "popularity": 30,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc1"
+  },
+  "artist_id": "1104217",
+  "followers": 273,
+  "name": "Jack and the Ripper Girl",
+  "popularity": 26,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc2"
+  },
+  "artist_id": "1104218",
+  "followers": 1378,
+  "name": "Voltage City",
+  "popularity": 35,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc3"
+  },
+  "artist_id": "1104219",
+  "followers": 2,
+  "name": "Edith B",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc4"
+  },
+  "artist_id": "1104220",
+  "followers": 19,
+  "name": "Joanna Angel and Princess Frank",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc5"
+  },
+  "artist_id": "1104221",
+  "followers": 136,
+  "name": "Babar Khan",
+  "popularity": 4,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc6"
+  },
+  "artist_id": "1104222",
+  "followers": 2,
+  "name": "Thrill Monster",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc7"
+  },
+  "artist_id": "1104223",
+  "followers": 0,
+  "name": "Sun Family",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc8"
+  },
+  "artist_id": "1104224",
+  "followers": 57,
+  "name": "Either Way",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc9"
+  },
+  "artist_id": "1104225",
+  "followers": 7,
+  "name": "Carter Banks",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cca"
+  },
+  "artist_id": "1104226",
+  "followers": 1,
+  "name": "Bodat Ink",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ccb"
+  },
+  "artist_id": "1104227",
+  "followers": 103,
+  "name": "Shawn Brandon",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ccc"
+  },
+  "artist_id": "1104228",
+  "followers": 0,
+  "name": "Honey, I Stole Your Jumper",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ccd"
+  },
+  "artist_id": "1104229",
+  "followers": 47,
+  "name": "Abacu5",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cce"
+  },
+  "artist_id": "1104230",
+  "followers": 1,
+  "name": "The Midnight Winter",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ccf"
+  },
+  "artist_id": "1104231",
+  "followers": 59,
+  "name": "Behind The Words",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd0"
+  },
+  "artist_id": "1104232",
+  "followers": 288,
+  "name": "Landia",
+  "popularity": 2,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd1"
+  },
+  "artist_id": "1104233",
+  "followers": 44,
+  "name": "June",
+  "popularity": 17,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd2"
+  },
+  "artist_id": "1104234",
+  "followers": 82,
+  "name": "Aurelio Mendoza",
+  "popularity": 2,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd3"
+  },
+  "artist_id": "1104235",
+  "followers": 23,
+  "name": "Banski",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd4"
+  },
+  "artist_id": "1104236",
+  "followers": 2,
+  "name": "Blue Kollar Ballers",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd5"
+  },
+  "artist_id": "1104237",
+  "followers": 14,
+  "name": "Johnny 3 Legs",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd6"
+  },
+  "artist_id": "1104238",
+  "followers": 13,
+  "name": "Bourne Aspekt",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd7"
+  },
+  "artist_id": "1104239",
+  "followers": 9,
+  "name": "Mona Murray",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd8"
+  },
+  "artist_id": "1104240",
+  "followers": 4,
+  "name": "Bayssic Kinetiks",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd9"
+  },
+  "artist_id": "1104241",
+  "followers": 2,
+  "name": "T-Double",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cda"
+  },
+  "artist_id": "1104242",
+  "followers": 6,
+  "name": "Lost Copper",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cdb"
+  },
+  "artist_id": "1104243",
+  "followers": 28,
+  "name": "Pedro el Poeta",
+  "popularity": 0,
+  "genres": [
+    "spoken word"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cdc"
+  },
+  "artist_id": "1104244",
+  "followers": 7,
+  "name": "Killakee Kat",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cdd"
+  },
+  "artist_id": "1104245",
+  "followers": 10,
+  "name": "Nino pipitò",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cde"
+  },
+  "artist_id": "1104246",
+  "followers": 4,
+  "name": "Inkwizitive",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cdf"
+  },
+  "artist_id": "1104247",
+  "followers": 8,
+  "name": "soulicious",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce0"
+  },
+  "artist_id": "1104248",
+  "followers": 35,
+  "name": "Gonna Make You Dance",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce1"
+  },
+  "artist_id": "1104249",
+  "followers": 48,
+  "name": "San Francisco Gay Men's Chorus, Dick Kramer",
+  "popularity": 0,
+  "genres": [
+    "gay chorus",
+    "men's choir"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce2"
+  },
+  "artist_id": "1104250",
+  "followers": 19,
+  "name": "Gateway Men's Chorus",
+  "popularity": 0,
+  "genres": [
+    "gay chorus",
+    "men's choir"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce3"
+  },
+  "artist_id": "1104251",
+  "followers": 2,
+  "name": "Ives Ridge Rockers",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce4"
+  },
+  "artist_id": "1104252",
+  "followers": 7,
+  "name": "Punk Ass Mo Fo",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce5"
+  },
+  "artist_id": "1104253",
+  "followers": 8,
+  "name": "Curious Grace",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce6"
+  },
+  "artist_id": "1104254",
+  "followers": 1,
+  "name": "arr. by Kathleen McGuire",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce7"
+  },
+  "artist_id": "1104255",
+  "followers": 14,
+  "name": "Opulence",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce8"
+  },
+  "artist_id": "1104256",
+  "followers": 208,
+  "name": "Autumn Diet Plans",
+  "popularity": 0,
+  "genres": [
+    "nottingham indie"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce9"
+  },
+  "artist_id": "1104257",
+  "followers": 64,
+  "name": "Basements",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cea"
+  },
+  "artist_id": "1104258",
+  "followers": 283,
+  "name": "No Real Pioneers",
+  "popularity": 1,
+  "genres": [
+    "lithuanian indie"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ceb"
+  },
+  "artist_id": "1104259",
+  "followers": 310,
+  "name": "Marie Chante",
+  "popularity": 4,
+  "genres": [
+    "belarusian punk"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cec"
+  },
+  "artist_id": "1104260",
+  "followers": 90,
+  "name": "Escapism",
+  "popularity": 3,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ced"
+  },
+  "artist_id": "1104261",
+  "followers": 98,
+  "name": "Castletroy",
+  "popularity": 0,
+  "genres": [
+    "russian shoegaze"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cee"
+  },
+  "artist_id": "1104262",
+  "followers": 154,
+  "name": "Tiny Fractures",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cef"
+  },
+  "artist_id": "1104263",
+  "followers": 93,
+  "name": "Toluca",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf0"
+  },
+  "artist_id": "1104264",
+  "followers": 17,
+  "name": "Ett Turbulent Liv",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf1"
+  },
+  "artist_id": "1104265",
+  "followers": 14,
+  "name": "Downtown Stories",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf2"
+  },
+  "artist_id": "1104266",
+  "followers": 9,
+  "name": "Tiler",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf3"
+  },
+  "artist_id": "1104267",
+  "followers": 41,
+  "name": "Marevo",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf4"
+  },
+  "artist_id": "1104268",
+  "followers": 1,
+  "name": "Burkewitz",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf5"
+  },
+  "artist_id": "1104269",
+  "followers": 385,
+  "name": "det är därför vi bygger städer",
+  "popularity": 5,
+  "genres": [
+    "swedish emo"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf6"
+  },
+  "artist_id": "1104270",
+  "followers": 2403,
+  "name": "letters to catalonia",
+  "popularity": 13,
+  "genres": [
+    "emoviolence",
+    "skramz"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf7"
+  },
+  "artist_id": "1104271",
+  "followers": 30,
+  "name": "JamAntics",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf8"
+  },
+  "artist_id": "1104272",
+  "followers": 11,
+  "name": "P.S.K. & Mollz",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf9"
+  },
+  "artist_id": "1104273",
+  "followers": 15482,
+  "name": "Kaonashi",
+  "popularity": 33,
+  "genres": [
+    "metallic hardcore",
+    "pennsylvania hardcore"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cfa"
+  },
+  "artist_id": "1104274",
+  "followers": 8251,
+  "name": "Wristmeetrazor",
+  "popularity": 32,
+  "genres": [
+    "emoviolence",
+    "metallic hardcore"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cfb"
+  },
+  "artist_id": "1104275",
+  "followers": 10338,
+  "name": "Cursed Earth",
+  "popularity": 30,
+  "genres": [
+    "australian post-hardcore",
+    "metallic hardcore"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cfc"
+  },
+  "artist_id": "1104276",
+  "followers": 1010,
+  "name": "Starve",
+  "popularity": 22,
+  "genres": [
+    "australian metalcore"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cfd"
+  },
+  "artist_id": "1104277",
+  "followers": 1182,
+  "name": "Speed",
+  "popularity": 15,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cfe"
+  },
+  "artist_id": "1104278",
+  "followers": 2612,
+  "name": "Caged Existence",
+  "popularity": 14,
+  "genres": [
+    "australian hardcore"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cff"
+  },
+  "artist_id": "1104279",
+  "followers": 8667,
+  "name": "Chamber",
+  "popularity": 28,
+  "genres": [
+    "mathcore",
+    "metallic hardcore"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d00"
+  },
+  "artist_id": "1104280",
+  "followers": 6899,
+  "name": "Bloom",
+  "popularity": 34,
+  "genres": [
+    "australian post-hardcore",
+    "melodic hardcore"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d01"
+  },
+  "artist_id": "1104281",
+  "followers": 2375,
+  "name": "Graves",
+  "popularity": 15,
+  "genres": [
+    "australian metalcore"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d02"
+  },
+  "artist_id": "1104282",
+  "followers": 4569,
+  "name": "Belle Haven",
+  "popularity": 31,
+  "genres": [
+    "australian post-hardcore"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d03"
+  },
+  "artist_id": "1104283",
+  "followers": 42,
+  "name": "Reverse Mechanic",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d04"
+  },
+  "artist_id": "1104284",
+  "followers": 6,
+  "name": "DJ ShaL",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d05"
+  },
+  "artist_id": "1104285",
+  "followers": 25,
+  "name": "Sound Shaman",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d06"
+  },
+  "artist_id": "1104286",
+  "followers": 64,
+  "name": "Almost Hero",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d07"
+  },
+  "artist_id": "1104287",
+  "followers": 1852,
+  "name": "Tigerweather",
+  "popularity": 16,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d08"
+  },
+  "artist_id": "1104288",
+  "followers": 6,
+  "name": "Starlight and Arms",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d09"
+  },
+  "artist_id": "1104289",
+  "followers": 355,
+  "name": "The So Manys",
+  "popularity": 6,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0a"
+  },
+  "artist_id": "1104290",
+  "followers": 931,
+  "name": "Jordan Millar",
+  "popularity": 17,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0b"
+  },
+  "artist_id": "1104291",
+  "followers": 37,
+  "name": "Wings of a Hero",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0c"
+  },
+  "artist_id": "1104292",
+  "followers": 112,
+  "name": "Messrs",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0d"
+  },
+  "artist_id": "1104293",
+  "followers": 175,
+  "name": "Blue Satellite & Jhameel",
+  "popularity": 2,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0e"
+  },
+  "artist_id": "1104294",
+  "followers": 182,
+  "name": "Hurricane Kids",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0f"
+  },
+  "artist_id": "1104295",
+  "followers": 276,
+  "name": "The Role Call",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d10"
+  },
+  "artist_id": "1104296",
+  "followers": 413,
+  "name": "Devyn Bess",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d11"
+  },
+  "artist_id": "1104297",
+  "followers": 5,
+  "name": "Tyler Drake",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d12"
+  },
+  "artist_id": "1104298",
+  "followers": 4790,
+  "name": "Action Item",
+  "popularity": 10,
+  "genres": [
+    "alternative pop rock",
+    "neon pop punk"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d13"
+  },
+  "artist_id": "1104299",
+  "followers": 499,
+  "name": "Anson Li",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d14"
+  },
+  "artist_id": "1104300",
+  "followers": 75,
+  "name": "Charlie B",
+  "popularity": 17,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d15"
+  },
+  "artist_id": "1104301",
+  "followers": 103,
+  "name": "Goodbye Friday",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d16"
+  },
+  "artist_id": "1104302",
+  "followers": 21,
+  "name": "Sethway",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d17"
+  },
+  "artist_id": "1104303",
+  "followers": 526,
+  "name": "Braiden Wood",
+  "popularity": 4,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d18"
+  },
+  "artist_id": "1104304",
+  "followers": 31993,
+  "name": "This Century",
+  "popularity": 33,
+  "genres": [
+    "alternative pop rock",
+    "neon pop punk",
+    "pixie",
+    "pop emo"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d19"
+  },
+  "artist_id": "1104305",
+  "followers": 5,
+  "name": "Shivice Brown",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1a"
+  },
+  "artist_id": "1104306",
+  "followers": 31,
+  "name": "Benjamin Romeo",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1b"
+  },
+  "artist_id": "1104307",
+  "followers": 468,
+  "name": "Kevin Rivas",
+  "popularity": 5,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1c"
+  },
+  "artist_id": "1104308",
+  "followers": 1,
+  "name": "California Burning",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1d"
+  },
+  "artist_id": "1104309",
+  "followers": 6929,
+  "name": "Antipodi",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1e"
+  },
+  "artist_id": "1104310",
+  "followers": 12,
+  "name": "Relative Effect",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1f"
+  },
+  "artist_id": "1104311",
+  "followers": 15,
+  "name": "The Morels",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d20"
+  },
+  "artist_id": "1104312",
+  "followers": 78,
+  "name": "Ken Fox",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d21"
+  },
+  "artist_id": "1104313",
+  "followers": 0,
+  "name": "Living Dead Things",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d22"
+  },
+  "artist_id": "1104314",
+  "followers": 5,
+  "name": "The Amazing Mongooses",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d23"
+  },
+  "artist_id": "1104315",
+  "followers": 1,
+  "name": "Rayzed",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d24"
+  },
+  "artist_id": "1104316",
+  "followers": 0,
+  "name": "Late Night 50 & Michael Bann;Kirk Widener",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d25"
+  },
+  "artist_id": "1104317",
+  "followers": 0,
+  "name": "The Velvet Nines",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d26"
+  },
+  "artist_id": "1104318",
+  "followers": 2696,
+  "name": "Jack Carty",
+  "popularity": 17,
+  "genres": [
+    "australian singer-songwriter"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d27"
+  },
+  "artist_id": "1104319",
+  "followers": 10099,
+  "name": "Patrick James",
+  "popularity": 36,
+  "genres": [
+    "australian indie",
+    "australian indie folk"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d28"
+  },
+  "artist_id": "1104320",
+  "followers": 44,
+  "name": "Elon Sarafian",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d29"
+  },
+  "artist_id": "1104321",
+  "followers": 0,
+  "name": "Jocelyn Celaya",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2a"
+  },
+  "artist_id": "1104322",
+  "followers": 14,
+  "name": "Prester John, Shawn Persinger & David Miller",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2b"
+  },
+  "artist_id": "1104323",
+  "followers": 63,
+  "name": "Heinz Riegler",
+  "popularity": 7,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2c"
+  },
+  "artist_id": "1104324",
+  "followers": 14,
+  "name": "Grant Withington",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2d"
+  },
+  "artist_id": "1104325",
+  "followers": 46,
+  "name": "Benedict Moleta",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2e"
+  },
+  "artist_id": "1104326",
+  "followers": 30,
+  "name": "Mindy Sotiri",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2f"
+  },
+  "artist_id": "1104327",
+  "followers": 42,
+  "name": "paper wallpaper",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d30"
+  },
+  "artist_id": "1104328",
+  "followers": 90087,
+  "name": "Brent Rivera",
+  "popularity": 33,
+  "genres": [
+    "social media pop",
+    "teen pop"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d31"
+  },
+  "artist_id": "1104329",
+  "followers": 932,
+  "name": "Meghan & Lucas",
+  "popularity": 5,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d32"
+  },
+  "artist_id": "1104330",
+  "followers": 201,
+  "name": "Adam Dollar$",
+  "popularity": 19,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d33"
+  },
+  "artist_id": "1104331",
+  "followers": 309,
+  "name": "Lone Kodiak",
+  "popularity": 20,
+  "genres": [
+    "la indie"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d34"
+  },
+  "artist_id": "1104332",
+  "followers": 62,
+  "name": "Siobhan Heard",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d35"
+  },
+  "artist_id": "1104333",
+  "followers": 876,
+  "name": "We Are the Strike",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d36"
+  },
+  "artist_id": "1104334",
+  "followers": 774,
+  "name": "The Str!ke",
+  "popularity": 0,
+  "genres": [
+    "indie rockism"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d37"
+  },
+  "artist_id": "1104335",
+  "followers": 27,
+  "name": "John Beninghof",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d38"
+  },
+  "artist_id": "1104336",
+  "followers": 205,
+  "name": "Hunter Fraser",
+  "popularity": 6,
+  "genres": [
+    "indie rockism"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d39"
+  },
+  "artist_id": "1104337",
+  "followers": 161,
+  "name": "The Cabana Kids",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3a"
+  },
+  "artist_id": "1104338",
+  "followers": 2749,
+  "name": "Astro Safari USA",
+  "popularity": 19,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3b"
+  },
+  "artist_id": "1104339",
+  "followers": 52,
+  "name": "Dolo Jones",
+  "popularity": 9,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3c"
+  },
+  "artist_id": "1104340",
+  "followers": 86,
+  "name": "EMRSN",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3d"
+  },
+  "artist_id": "1104341",
+  "followers": 13,
+  "name": "Life As We Know It",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3e"
+  },
+  "artist_id": "1104342",
+  "followers": 443,
+  "name": "Ben Bishop",
+  "popularity": 5,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3f"
+  },
+  "artist_id": "1104343",
+  "followers": 5,
+  "name": "Chase Kroesche",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d40"
+  },
+  "artist_id": "1104344",
+  "followers": 3345,
+  "name": "Cody Longo",
+  "popularity": 8,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d41"
+  },
+  "artist_id": "1104345",
+  "followers": 2123,
+  "name": "Right the Stars",
+  "popularity": 18,
+  "genres": [
+    "deep acoustic pop"
+  ],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d42"
+  },
+  "artist_id": "1104346",
+  "followers": 26,
+  "name": "Jesse Giddings",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d43"
+  },
+  "artist_id": "1104347",
+  "followers": 406,
+  "name": "The Boy Band Project",
+  "popularity": 0,
+  "genres": [],
+  "tracks": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d44"
+  },
+  "artist_id": "1104348",
+  "followers": 146,
+  "name": "10 Reasons",
+  "popularity": 1,
+  "genres": [],
+  "tracks": []
+}]
